@@ -1,10 +1,12 @@
-font-family: 'SangBleuKing-Web';
-  src: url('fonts/SangBleuKing-Web.eot'); /* IE9 Compat Modes */
-  src: url('fonts/SangBleuKing-Web.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('fonts/SangBleuKing-Web.woff2') format('woff2'), /* Super Modern Browsers */
-       url('fonts/SangBleuKing-Web.woff') format('woff'), /* Pretty Modern Browsers */
-       url('fonts/SangBleuKing-Web.ttf')  format('truetype'), /* Safari, Android, iOS */
-       url('fonts/SangBleuKing-Web.svg#svgFontName') format('svg'); /* Legacy iOS */
+@font-face {
+	font-family: 'SangBleuKing-Web';
+	  src: url('fonts/SangBleuKing-Web.eot'); /* IE9 Compat Modes */
+	  src: url('fonts/SangBleuKing-Web.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+	       url('fonts/SangBleuKing-Web.woff2') format('woff2'), /* Super Modern Browsers */
+	       url('fonts/SangBleuKing-Web.woff') format('woff'), /* Pretty Modern Browsers */
+	       url('fonts/SangBleuKing-Web.ttf')  format('truetype'), /* Safari, Android, iOS */
+	       url('fonts/SangBleuKing-Web.svg#svgFontName') format('svg'); /* Legacy iOS */
+	}
 
 body {
 	font-family: "SangBleuKing-Web", "Times New Roman", serif;
@@ -69,7 +71,7 @@ a:active {
 
 
 /*Header*/
-#header {
+.header {
 	margin: 40px 40px 80px 40px;
 }
 
@@ -113,9 +115,9 @@ h1 a{
     p {
        font-size: 1.2em;
     }
-    #header {
-    	margin: 10px 10px 4	0px 10px;
-    	
+    .header {
+    	margin: 10px 10px 40px 10px;
+
     }
     .main {
     	margin: 10px;
@@ -141,12 +143,3 @@ h1 a{
 /*.social-nav a{
 	color: #FF1493;
 }*/
-
-
-
-
-
-
-
-
-
