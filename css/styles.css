@@ -1,0 +1,152 @@
+font-family: 'SangBleuKing-Web';
+  src: url('fonts/SangBleuKing-Web.eot'); /* IE9 Compat Modes */
+  src: url('fonts/SangBleuKing-Web.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('fonts/SangBleuKing-Web.woff2') format('woff2'), /* Super Modern Browsers */
+       url('fonts/SangBleuKing-Web.woff') format('woff'), /* Pretty Modern Browsers */
+       url('fonts/SangBleuKing-Web.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('fonts/SangBleuKing-Web.svg#svgFontName') format('svg'); /* Legacy iOS */
+
+body {
+	font-family: "SangBleuKing-Web", "Times New Roman", serif;
+	background: #FF0000;
+}
+
+
+/*Text styles*/
+
+p {
+	font-size: 2em;
+	font-weight: 700;
+	line-height: 1.2;
+}
+
+h1 {
+
+	font-size: 1.2em;
+	color: #000; 
+}
+
+/*Links*/
+
+a {
+	text-decoration: none;	 
+	color: #000;
+	background: -webkit-linear-gradient(left, #FF1493, #FF1493 100%);
+	background: linear-gradient(left, #FF1493, #FF1493 100%);
+  	background-position: 0 91%;
+  	background-size: 10px 1px;
+  	background-repeat: repeat-x;
+  	text-shadow:  -0.12em 0 0 #fff, 0.12em 0 0 #fff, -0.06em 0 0 #fff, 0.06em 0 0 #fff, 0 -1px 0 #fff, 0 1px 0 #fff;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #FF1493;
+	background: -webkit-linear-gradient(left, #FF1493, #FF1493 100%);
+	background: linear-gradient(left, #FF1493, #FF1493 100%);
+  	background-position: 0 91%;
+  	background-size: 10px 1px;
+  	background-repeat: repeat-x;
+  	text-shadow: -0.12em 0 0 #fff, 0.12em 0 0 #fff, -0.06em 0 0 #fff, 0.06em 0 0 #fff, 0 -1px 0 #fff, 0 1px 0 #fff;
+}
+
+a:active {
+	text-decoration: none;
+	color: #FF1493;
+	background: -webkit-linear-gradient(left, #FF1493, #FF1493 100%);
+	background: linear-gradient(left, #FF1493, #FF1493 100%);
+  	background-position: 0 90%;
+  	background-size: 10px 1px;
+  	background-repeat: repeat-x;
+  	text-shadow: 0.04em 0.08em #fff, -0.04em 0px #fff;
+}
+
+::selection {
+  color: #000;
+  background: #FF1493; 
+  text-shadow: none;
+}
+
+
+/*Header*/
+#header {
+	margin: 40px 40px 80px 40px;
+}
+
+h1 a{
+	text-decoration: none;
+	background: none !important;
+}
+
+/* Main */
+
+.main {
+	max-width: 70%;
+	margin: 40px;
+}
+
+@media screen and (min-width: 1400px) {
+    .main {
+        max-width: 50%;
+    }
+}
+
+@media screen and (min-width: 1800px) {
+    .main {
+        max-width: 40%;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .main {
+        max-width: 100%;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    p {
+       font-size: 1.75em;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    p {
+       font-size: 1.2em;
+    }
+    #header {
+    	margin: 10px 10px 4	0px 10px;
+    	
+    }
+    .main {
+    	margin: 10px;
+    }
+}
+
+
+/*Social nav*/
+
+.social-nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	font-size: 1.2em;
+	font-weight: 700;
+}
+
+.social-nav li {
+	display: inline;
+	padding-right: 10px;	
+}
+
+/*.social-nav a{
+	color: #FF1493;
+}*/
+
+
+
+
+
+
+
+
+
