@@ -19,13 +19,17 @@ body {
 p {
 	font-size: 2em;
 	font-weight: 700;
-	line-height: 1.25;
+	line-height: 1.5;
 }
 
 h1 {
 
 	font-size: 1.2em;
 	color: #000; 
+}
+
+.bold {
+  font-weight: 700;
 }
 
 /*Links*/
@@ -35,7 +39,7 @@ a {
 	color: #000;
 	background: -webkit-linear-gradient(left, #FF1493, #FF1493 100%);
 	background: linear-gradient(left, #FF1493, #FF1493 100%);
-  	background-position: 0 90%;
+  	background-position: 0 88%;
   	background-size: 10px 1px;
   	background-repeat: repeat-x;
   	text-shadow:  -0.12em 0 0 #fff, 0.12em 0 0 #fff, -0.06em 0 0 #fff, 0.06em 0 0 #fff, 0 -1px 0 #fff, 0 1px 0 #fff;
@@ -46,7 +50,7 @@ a:hover {
 	color: #FF1493;
 	background: -webkit-linear-gradient(left, #FF1493, #FF1493 100%);
 	background: linear-gradient(left, #FF1493, #FF1493 100%);
-  	background-position: 0 90%;
+  	background-position: 0 88%;
   	background-size: 10px 1px;
   	background-repeat: repeat-x;
   	text-shadow: -0.12em 0 0 #fff, 0.12em 0 0 #fff, -0.06em 0 0 #fff, 0.06em 0 0 #fff, 0 -1px 0 #fff, 0 1px 0 #fff;
@@ -57,7 +61,7 @@ a:active {
 	color: #FF1493;
 	background: -webkit-linear-gradient(left, #FF1493, #FF1493 100%);
 	background: linear-gradient(left, #FF1493, #FF1493 100%);
-  	background-position: 0 90%;
+  	background-position: 0 88%;
   	background-size: 10px 1px;
   	background-repeat: repeat-x;
   	text-shadow: 0.04em 0.08em #fff, -0.04em 0px #fff;
@@ -78,6 +82,50 @@ a:active {
 h1 a{
 	text-decoration: none;
 	background: none !important;
+}
+
+/*Social nav*/
+
+.social-nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  font-size: 1.2em;
+  font-weight: 700;
+}
+
+.social-nav li {
+  display: inline;
+  padding-right: 10px;  
+}
+
+/*.social-nav a{
+  color: #FF1493;
+}*/
+
+/* Blog styles */
+
+.blog-title {
+  font-size: 4em;
+  line-height: 1.25;
+  margin: 0;
+}
+
+.blog-date {
+  font-size: 1.2em;
+  margin-bottom: 10px;
+}
+
+.blog-content p{
+  margin: 40px 0;
+}
+
+.blog-content ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  font-size: 2em;
+  font-weight: 700;
 }
 
 /* Main */
@@ -123,23 +171,3 @@ h1 a{
     	margin: 10px;
     }
 }
-
-
-/*Social nav*/
-
-.social-nav ul {
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
-	font-size: 1.2em;
-	font-weight: 700;
-}
-
-.social-nav li {
-	display: inline;
-	padding-right: 10px;	
-}
-
-/*.social-nav a{
-	color: #FF1493;
-}*/
