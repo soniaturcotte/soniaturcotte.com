@@ -105,7 +105,7 @@ h1 a{
 
 /* Blog styles */
 
-.blog-title {
+.blog-title h1{
   font-size: 4em;
   line-height: 1.25;
   margin: 0;
