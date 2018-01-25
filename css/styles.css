@@ -183,12 +183,26 @@ a:active {
     p {
        font-size: 1.75em;
     }
+
+    .blog-content ul{
+      font-size: 1.75em;
+    }
 }
 
 @media screen and (max-width: 480px) {
     p {
        font-size: 1.2em;
     }
+
+    .blog-title {
+      font-size: 2.2em;
+    }
+
+    .blog-content ul{
+      font-size: 1.2em;
+    }
+
+
     .header {
     	margin: 10px 10px 40px 10px;
 
