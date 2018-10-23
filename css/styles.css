@@ -28,6 +28,11 @@ h1 {
 	color: #000; 
 }
 
+h2 {
+  font-size: 2em;
+  color: #000; 
+}
+
 .bold {
   font-weight: 700;
 }
@@ -75,6 +80,7 @@ a:active {
 
 
 /*Header*/
+
 .header {
 	margin: 40px 40px 80px 40px;
 }
@@ -106,28 +112,28 @@ a:active {
 
 /* Blog styles */
 
-.blog-title {
+.item-title {
   font-size: 4em;
   line-height: 1.25;
   margin-top: 10px;
 }
 
-.blog-title-list {
+.item-title-list {
   font-size: 2em;
   line-height: 1.25;
   margin: 10px 0 40px 0;
 }
 
-.blog-date {
+.item-date {
   font-size: 1.2em;
   margin: 0 0 10px 0;
 }
 
-.blog-content {
+.item-content {
   margin: 40px 0 80px 0;
 }
 
-.blog-content ul {
+.item-content ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -135,7 +141,7 @@ a:active {
   font-weight: 700;
 }
 
-.blog-list {
+.item-list {
   margin-bottom: 80px;
 }
 
@@ -154,11 +160,22 @@ a:active {
   font-style: normal;
 }
 
-/* Main */
+/* Portfolio images */
+
+.portfolio img {
+  margin-top: 40px;
+  max-height: 87vh;
+  max-width: 900px;
+}
+/* Width and responsive stuff */
 
 .main {
 	max-width: 70%;
-	margin: 32px;
+	margin: 40px;
+}
+.portfolio {
+  margin: 40px;
+  max-width: 100%;
 }
 
 @media screen and (min-width: 1400px) {
@@ -194,14 +211,21 @@ a:active {
        font-size: 1.2em;
     }
 
-    .blog-title {
+    .item-title {
       font-size: 2.2em;
     }
 
-    .blog-content ul{
+    .item-title-list {
       font-size: 1.2em;
     }
 
+    .item-content ul{
+      font-size: 1.2em;
+    }
+
+    .portfolio img{
+      margin-top: 20px;
+    }
 
     .header {
     	margin: 10px 10px 40px 10px;
@@ -209,5 +233,9 @@ a:active {
     }
     .main {
     	margin: 10px;
+    }
+    .portfolio {
+      margin: 10px;
+      max-width: 100%;
     }
 }
