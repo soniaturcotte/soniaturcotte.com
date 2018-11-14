@@ -234,6 +234,14 @@ a:active {
       font-size: 1.2em;
     }
 
+    .blockquote p{
+      font-size: 1.2em;
+    }
+
+    .blockquote h2{
+      font-size: 1.2em;
+    }
+
     .portfolio img{
       margin-top: 20px;
     }
