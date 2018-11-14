@@ -153,7 +153,18 @@ a:active {
 }
 
 .blockquote p{
-  font-weight: 300;
+  font-weight: 600;
+  font-size: 2em;
+}
+
+.blockquote .first-child {
+  margin-top: 10px;
+}
+
+.blockquote h2{
+  font-weight: 600;
+  font-size: 1.25em;
+  margin-bottom: 0;
 }
 
 .blockquote cite {
