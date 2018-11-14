@@ -8,6 +8,8 @@
 	       url('fonts/SangBleuKing-Web.svg#svgFontName') format('svg'); /* Legacy iOS */
 	}
 
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+
 body {
 	font-family: "SangBleuKing-Web", "Times New Roman", serif;
 	background: transparent;
@@ -146,7 +148,7 @@ a:active {
 }
 
 .blockquote {
-  font-family: Source Sans Pro;
+  font-family: 'Source Sans Pro', sans-serif;
   margin: 8px 0 40px 0;
   border-left: 5px solid #FF1493; 
   padding: 0 20px;
