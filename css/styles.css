@@ -126,7 +126,7 @@ a:active {
   margin: 10px 0 40px 0;
 }
 
-.item-date {
+.item-meta {
   font-size: 1.2em;
   margin: 0 0 10px 0;
 }
@@ -178,7 +178,7 @@ a:active {
 .portfolio img {
   margin-top: 40px;
   max-height: 87vh;
-  max-width: 900px;
+  max-width: 85vw;
 }
 /* Width and responsive stuff */
 
@@ -186,9 +186,12 @@ a:active {
 	max-width: 70%;
 	margin: 40px;
 }
-.portfolio {
-  margin: 40px;
-  max-width: 100%;
+
+
+@media screen and (min-width: 1800px) {
+    .main {
+        max-width: 40%;
+    }
 }
 
 @media screen and (min-width: 1400px) {
@@ -197,19 +200,17 @@ a:active {
     }
 }
 
-@media screen and (min-width: 1800px) {
-    .main {
-        max-width: 40%;
-    }
-}
-
 @media screen and (max-width: 900px) {
     .main {
-        max-width: 100%;
+        max-width: 80%;
     }
 }
 
 @media screen and (max-width: 640px) {
+    .main {
+        max-width: 100%;
+    }
+
     p {
        font-size: 1.75em;
     }
@@ -255,8 +256,5 @@ a:active {
     .main {
     	margin: 10px;
     }
-    .portfolio {
-      margin: 10px;
-      max-width: 100%;
-    }
+
 }
