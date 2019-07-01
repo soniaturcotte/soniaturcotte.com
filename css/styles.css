@@ -169,8 +169,11 @@ a:active {
   margin-bottom: 0;
 }
 
-.blockquote cite {
-  font-style: normal;
+.blockquote ul{
+  font-weight: 600;
+  font-size: 1.25em;
+  line-height: 1.5;
+  margin-bottom: 60px;
 }
 
 /* Portfolio images */
