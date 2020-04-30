@@ -8,70 +8,70 @@
 	       url('fonts/SangBleuKing-Web.svg#svgFontName') format('svg'); /* Legacy iOS */
 	}
 
-@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
 
 body {
 	font-family: "SangBleuKing-Web", "Times New Roman", serif;
 	background: transparent;
 }
 
-
 /*Text styles*/
+
+h1, h2, li {
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 500;
+  font-size: 1.125em;
+  line-height: 1.25em;
+  text-transform: uppercase;
+  color: #000;
+  margin: .5em 0;
+}
+
+h1 {
+  margin-bottom: 80px
+}
 
 p {
 	font-size: 2em;
 	font-weight: 700;
 	line-height: 1.25;
+  margin-top: 0;
 }
 
-h1 {
-
-	font-size: 1.2em;
-	color: #000; 
-}
-
-h2 {
-  font-size: 2em;
-  color: #000; 
-}
-
-.bold {
-  font-weight: 700;
-}
 
 /*Links*/
 
 a {
-	text-decoration: none;	 
-	color: #000;
-	background: -webkit-linear-gradient(left, #FF1493, #FF1493 100%);
-	background: linear-gradient(left, #FF1493, #FF1493 100%);
-  	background-position: 0 88%;
-  	background-size: 10px 1px;
-  	background-repeat: repeat-x;
-  	text-shadow:  -0.12em 0 0 #fff, 0.12em 0 0 #fff, -0.06em 0 0 #fff, 0.06em 0 0 #fff, 0 -1px 0 #fff, 0 1px 0 #fff;
+  text-decoration: none;   
+  color: #000;
+  background: -webkit-linear-gradient(left, #FF1493, #FF1493 100%);
+  background: linear-gradient(left, #FF1493, #FF1493 100%);
+    background-position: 0 88%;
+    background-size: 10px 1px;
+    background-repeat: repeat-x;
+    text-shadow:  -0.12em 0 0 #fff, 0.12em 0 0 #fff, -0.06em 0 0 #fff, 0.06em 0 0 #fff, 0 -1px 0 #fff, 0 1px 0 #fff;
 }
 
 a:hover {
-	text-decoration: none;
-	color: #FF1493;
-	background: -webkit-linear-gradient(left, #FF1493, #FF1493 100%);
-	background: linear-gradient(left, #FF1493, #FF1493 100%);
-  	background-position: 0 88%;
-  	background-size: 10px 1px;
-  	background-repeat: repeat-x;
-  	text-shadow: -0.12em 0 0 #fff, 0.12em 0 0 #fff, -0.06em 0 0 #fff, 0.06em 0 0 #fff, 0 -1px 0 #fff, 0 1px 0 #fff;
+  text-decoration: none;
+  color: #FF1493;
+  background: -webkit-linear-gradient(left, #FF1493, #FF1493 100%);
+  background: linear-gradient(left, #FF1493, #FF1493 100%);
+    background-position: 0 88%;
+    background-size: 10px 1px;
+    background-repeat: repeat-x;
+    text-shadow: -0.12em 0 0 #fff, 0.12em 0 0 #fff, -0.06em 0 0 #fff, 0.06em 0 0 #fff, 0 -1px 0 #fff, 0 1px 0 #fff;
 }
 
 a:active {
-	text-decoration: none;
-	color: #FF1493;
-	background: -webkit-linear-gradient(left, #FF1493, #FF1493 100%);
-	background: linear-gradient(left, #FF1493, #FF1493 100%);
-  	background-position: 0 88%;
-  	background-size: 10px 1px;
-  	background-repeat: repeat-x;
-  	text-shadow: 0.04em 0.08em #fff, -0.04em 0px #fff;
+  text-decoration: none;
+  color: #FF1493;
+  background: -webkit-linear-gradient(left, #FF1493, #FF1493 100%);
+  background: linear-gradient(left, #FF1493, #FF1493 100%);
+    background-position: 0 88%;
+    background-size: 10px 1px;
+    background-repeat: repeat-x;
+    text-shadow: 0.04em 0.08em #fff, -0.04em 0px #fff;
 }
 
 ::selection {
@@ -84,27 +84,25 @@ a:active {
 /*Header*/
 
 .header {
-	margin: 40px 40px 80px 40px;
+  max-width: 700px;
+	margin: 40px;
 }
 
-.header a{
+.header h1 a{
 	text-decoration: none;
 	background: none !important;
 }
 
 /*Links nav*/
 
-.links-nav {
-    margin: 80px 0 0 0;
+.links-nav ol {
+    list-style-type: none;
+    padding: 0;
 }
 
 .links-nav ul {
   list-style-type: none;
   padding: 0;
-/*  margin-bottom: 10px;*/
-  font-size: 1.2em;
-  font-weight: 700;
-  line-height: 1.25;
 }
 
 .links-nav li {
@@ -112,144 +110,78 @@ a:active {
   padding-right: 10px;  
 }
 
-/* Blog styles */
-
-.item-title {
-  font-size: 4em;
-  line-height: 1.25;
-  margin-top: 10px;
+/* Portfolio  */
+.portfolio {
+  margin-bottom: 40px;
 }
-
-.item-title-list {
-  font-size: 2em;
-  line-height: 1.25;
-  margin: 10px 0 40px 0;
-}
-
-.item-meta {
-  font-size: 1.2em;
-  margin: 0 0 10px 0;
-}
-
-.item-content {
-  margin: 40px 0 80px 0;
-}
-
-.item-content ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  font-size: 2em;
-  font-weight: 700;
-}
-
-.item-list {
-  margin-bottom: 80px;
-}
-
-.blockquote {
-  font-family: 'Source Sans Pro', sans-serif;
-  margin: 8px 0 40px 0;
-  border-left: 5px solid #FF1493; 
-  padding: 0 20px;
-}
-
-.blockquote p{
-  font-weight: 600;
-  font-size: 2em;
-}
-
-.blockquote .first-child {
-  margin-top: 10px;
-}
-
-.blockquote h2{
-  font-weight: 600;
-  font-size: 1.25em;
-  margin-bottom: 0;
-}
-
-.blockquote ul{
-  font-weight: 600;
-  font-size: 1.25em;
-  line-height: 1.5;
-  margin-bottom: 60px;
-}
-
-/* Portfolio images */
 
 .portfolio img {
   margin-top: 40px;
-  max-height: 87vh;
-  max-width: 85vw;
+  max-width: 100%;
 }
+
+.portfolio-caption {
+  display: flex;
+  margin: 10px 0;
+}
+
+.portfolio-caption h2, ol{
+  display: block;
+  flex-shrink: 0;
+  float: left;
+  width: 240px;
+  margin-right: 20px;
+}
+
+.portfolio-caption p {
+  display: block;
+
+
+}
+
+
 /* Width and responsive stuff */
 
 .main {
-	max-width: 70%;
+	max-width: 960px;
 	margin: 40px;
 }
 
 
-@media screen and (min-width: 1800px) {
-    .main {
-        max-width: 40%;
-    }
-}
-
-@media screen and (min-width: 1400px) {
-    .main {
-        max-width: 50%;
-    }
-}
-
-@media screen and (max-width: 900px) {
-    .main {
-        max-width: 80%;
-    }
-}
 
 @media screen and (max-width: 640px) {
     .main {
-        max-width: 100%;
+        max-width: 640px;
+    }
+
+    .portfolio-caption {
+      flex-flow: column wrap;
     }
 
     p {
        font-size: 1.75em;
-    }
+    } 
 
-    .blog-content ul{
-      font-size: 1.75em;
+    h1, h2 {
+      font-size: 1em;
     }
 }
 
 @media screen and (max-width: 480px) {
     p {
-       font-size: 1.2em;
+       font-size: 1.5em;
     }
 
-    .item-title {
-      font-size: 2.2em;
-    }
-
-    .item-title-list {
-      font-size: 1.2em;
-    }
-
-    .item-content ul{
-      font-size: 1.2em;
-    }
-
-    .blockquote p{
-      font-size: 1.2em;
-    }
-
-    .blockquote h2{
-      font-size: 1.2em;
+    h1, h2 {
+      font-size: .9em;
     }
 
     .portfolio img{
       margin-top: 20px;
+    }
+
+    .portfolio-caption {
+      flex-flow: column wrap;
     }
 
     .header {
