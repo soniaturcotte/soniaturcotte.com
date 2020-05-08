@@ -20,7 +20,7 @@ body {
 h1, h2, li {
   font-family: 'Work Sans', sans-serif;
   font-weight: 400;
-  font-size: 1.1em;
+  font-size: 1em;
   line-height: 1.25em;
   text-transform: uppercase;
   color: #000;
@@ -28,11 +28,11 @@ h1, h2, li {
 }
 
 h1 {
-  margin-bottom: 80px
+  margin-bottom: 60px
 }
 
 p {
-	font-size: 1.75em;
+	font-size: 2em;
 	font-weight: 700;
 	line-height: 1.25;
   margin-top: 0;
@@ -114,7 +114,7 @@ p a:active {
 /*Header*/
 
 .header {
-  max-width: 680px;
+  max-width: 700px;
 	margin: 40px;
 }
 
@@ -177,7 +177,14 @@ p a:active {
 	margin: 40px;
 }
 
+@media screen and (max-width: 780px) {
+    .main {
+        max-width: 780px;
+    }
 
+    p {
+       font-size: 1.5em;
+    }
 
 @media screen and (max-width: 640px) {
     .main {
@@ -191,10 +198,6 @@ p a:active {
     p {
        font-size: 1.5em;
     } 
-
-    h1, h2, li {
-      font-size: 1em;
-    }
 
     ol, ul {
       margin: 0;
@@ -211,7 +214,7 @@ p a:active {
     }
 
     h1, h2, li {
-      font-size: .9em;
+      font-size: .8em;
     }
 
     .portfolio img{
