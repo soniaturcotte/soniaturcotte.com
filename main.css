@@ -37,6 +37,16 @@ body, h1, h2, h3, p, ul, li {
   display: grid;
   align-items: center;
   text-decoration: none;
+
+a {
+  text-decoration: none;   
+  color: #181818;
+  background: -webkit-linear-gradient(left,#D21258,#D21258 100%);
+  background: linear-gradient(left,#D21258,#D21258 90%);
+    background-position: 0 100%;
+    background-size: 10px 1px;
+    background-repeat: repeat-x;
+  }
 }
 .header a {
   text-decoration: none;
@@ -92,13 +102,3 @@ padding-right: 20px;
   margin-top: 200px;
   color:  #616a6b;
 }
-
-a {
-  text-decoration: none;   
-  color: #181818;
-  background: -webkit-linear-gradient(left,#D21258,#D21258 100%);
-  background: linear-gradient(left,#D21258,#D21258 100%);
-    background-position: 0 100%;
-    background-size: 10px 1px;
-    background-repeat: repeat-x;
-  }
