@@ -16,18 +16,19 @@ body {
 
 body, h1, h2, h3, p, ul, li {
   font-family: 'questaregular', serif;
-  font-size: 1.4rem;
+  font-size: 1.5rem;
   font-weight: 300;
   line-height: 1.3;
+  color: #181818;
   background: #F7F6F6;
 }
 
 .header, .intro, .links-nav, .footer {
   width: 90%;
-  max-width: 42rem;
+  max-width: 40rem;
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 50px;
+  margin-bottom: 75px;
 }
 
 .header {
@@ -76,10 +77,10 @@ padding-right: 20px;
 
 .small-text {
   font-family: 'questa_sansregular', helvetica, sans-serif;
-  font-size: .9rem;
+  font-size: 1rem;
   font-weight: 300;
   line-height: inherit;
-  margin-top: 5px;
+  margin-top: 4px;
 }
 
 .small-heading {
@@ -91,3 +92,13 @@ padding-right: 20px;
   margin-top: 200px;
   color:  #616a6b;
 }
+
+a {
+  text-decoration: none;   
+  color: #181818;
+  background: -webkit-linear-gradient(left,#D21258,#D21258 100%);
+  background: linear-gradient(left,#D21258,#D21258 100%);
+    background-position: 0 100%;
+    background-size: 10px 1px;
+    background-repeat: repeat-x;
+  }
