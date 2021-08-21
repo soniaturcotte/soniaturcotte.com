@@ -23,7 +23,7 @@ body, h1, h2, h3, p, ul, li {
   background: #F7F6F6;
 }
 
-.header, .intro, .links-nav, .footer {
+.header, .intro, .links-nav, .cv, .footer {
   width: 90%;
   max-width: 40rem;
   margin-left: auto;
@@ -37,19 +37,51 @@ body, h1, h2, h3, p, ul, li {
   display: grid;
   align-items: center;
   text-decoration: none;
+}
 
 a {
   text-decoration: none;   
   color: #181818;
   background: -webkit-linear-gradient(left,#D21258,#D21258 100%);
-  background: linear-gradient(left,#D21258,#D21258 90%);
-    background-position: 0 100%;
+  background: linear-gradient(left,#D21258,#D21258 100%);
+    background-position: 0 90%;
     background-size: 10px 1px;
     background-repeat: repeat-x;
-  }
 }
-.header a {
+
+.small-text a {
+  text-decoration: none;   
+  color: #181818;
+  background: -webkit-linear-gradient(left,#181818,#181818 100%);
+  background: linear-gradient(left,#181818,#181818 100%);
+    background-position: 0 90%;
+    background-size: 10px 1px;
+    background-repeat: repeat-x;
+}
+
+a:hover {
   text-decoration: none;
+  color: #D21258;
+  background: -webkit-linear-gradient(left,#D21258,#D21258 100%);
+  background: linear-gradient(left,#D21258,#D21258 100%);
+    background-position: 0 90%;
+    background-size: 10px 1px;
+    background-repeat: repeat-x;
+}
+
+a:active {
+  text-decoration: none;
+  color:#181818;
+  background: none;
+}
+
+::selection {
+  color: #181818;
+  background: #ffc5ce; 
+  text-shadow: none;
+}
+
+.header h1{
   color: #D21258
 }
 
