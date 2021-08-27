@@ -142,6 +142,10 @@ padding-right: 20px;
 
 /* viewport sizing  */
 
+.main {
+  max-width: 1600px;
+}
+
 @media screen and (max-width: 1024px) {
  .description {
    display: grid;
