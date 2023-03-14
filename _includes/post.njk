@@ -1,0 +1,11 @@
+{% extends "./base.njk" %}
+
+{% block container %}
+
+<main>
+  <h1>{{title}}</h1>
+  
+  {{ content | safe }}
+</main>
+
+{% endblock %}
