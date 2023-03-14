@@ -5,4 +5,4 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("fonts");
     eleventyConfig.addPassthroughCopy('**/*.css');
     eleventyConfig.addPassthroughCopy('favicon.ico');
-  };
+} 
