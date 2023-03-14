@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+	<title>{% if title %}{{ title }} - sonia turcotte{% else %} sonia turcotte {% endif %}</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="main.css" type="text/css" charset="utf-8" />
+</head>
+
+<body>
+
+  {% block container %}
+    {{ content | safe }}
+  {% endblock %}
+  
+	<div class="footer">
+		<p class="small-text">Handcoded and typeset in Questa. This site doesn’t collect any data or analytics.</p>
+	</div>
+</body>
+
+</html>
