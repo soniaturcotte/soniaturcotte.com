@@ -3,10 +3,10 @@ module.exports = {
   url: 'https://soniaturcotte.com/',
   language: 'en',
   description:
-    'Freelance designer and researcher, interested in building more equitable, abundant futures. Also at Goldsmiths, studying ecology. ',
+    'Freelance designer and researcher. ',
   author: {
     name: 'Sonia Turcotte',
-    email: 'youremailaddress@example.com',
+    email: 'sonia.turcotte@gmail.com',
     url: 'https://soniaturcotte.com/',
   },
 };
