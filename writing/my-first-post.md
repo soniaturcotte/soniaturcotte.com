@@ -1,12 +1,10 @@
 ---
 title: This is my first post
 description: This is a post on My Blog about nothing
-date: 2023-03-14
+date: 2023-11-14
 tags:
   - another tag
 ---
-
-# Hello world
 
 Eventually, you do plan to have dinosaurs on your dinosaur tour, right? Yeah, but your scientists were so preoccupied with whether or not they could, they didn't stop to think if they should. I was part of something special. Hey, take a look at the earthlings. Goodbye!
 
