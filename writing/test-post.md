@@ -1,5 +1,5 @@
 ---
-title: This is my first post
+title: Test 2 with a long title, what does a super long title look like. Looks like it should wrap. 
 description: This is a post on My Blog about nothing
 date: 2023-03-14
 tags:
@@ -9,10 +9,6 @@ tags:
 # Hello world
 
 Eventually, you do plan to have dinosaurs on your dinosaur tour, right? Yeah, but your scientists were so preoccupied with whether or not they could, they didn't stop to think if they should. I was part of something special. Hey, take a look at the earthlings. Goodbye!
-
-> This thing comes fully loaded. AM/FM radio, reclining bucket seats, and... power windows. Yes, Yes, without the oops! Remind me to thank John for a lovely weekend. You know what? It is beets. I've crashed into a beet truck. Just my luck, no ice. You're a very talented young man, with your own clever thoughts and ideas. Do you need a manager?
->
->Eventually, you do plan to have dinosaurs on your dinosaur tour, right? Yeah, but John, if The Pirates of the Caribbean breaks down, the pirates don’t eat the tourists. We gotta burn the rain forest, dump toxic waste, pollute the air, and rip up the OZONE! 'Cause maybe if we screw up this planet enough, they won't want it anymore!
 
 Hey, you know how I'm, like, always trying to save the planet? Here's my chance. We gotta burn the rain forest, dump toxic waste, pollute the air, and rip up the OZONE! 'Cause maybe if we screw up this planet enough, they won't want it anymore! *Must go faster*.
 

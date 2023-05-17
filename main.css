@@ -23,7 +23,7 @@ body, h1, h2, h3, p, ul, li {
   background: #F7F6F6;
 }
 
-.header, .intro, .links-nav, .cv, .education, .footer {
+.header, .intro, .links-nav, .cv, .education, .footer, main {
   width: 90%;
   max-width: 40rem;
   margin-left: auto;
@@ -54,6 +54,11 @@ a {
     background-position: 0 90%;
     background-size: 10px 1px;
     background-repeat: repeat-x;
+}
+
+h1 a {
+  text-decoration: none;
+  background: none;
 }
 
 .small-text a {
@@ -138,6 +143,17 @@ padding-right: 20px;
   margin-top: 200px;
   margin-bottom: 50px;
   color:  #616a6b;
+}
+
+/* writing */ 
+
+.postlist {
+  list-style: none;
+  display: inline;
+}
+
+.postlist li {
+  margin-bottom: 50px;
 }
 
 /* viewport sizing  */

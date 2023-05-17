@@ -1,8 +1,7 @@
 ---
 eleventyExcludeFromCollections: true
 ---
-
-<h1>All posts</h1>
+{# <h1>writing</h1> #}
 
 <ol reversed class="postlist" style="counter-reset: start-from {{ (postslistCounter or collections.posts.length) + 1 }}">
 {% for post in collections.posts | reverse %}
@@ -14,10 +13,12 @@ eleventyExcludeFromCollections: true
         <code>{{ post.url }}</code>
       {% endif %}
     </a>
-    <p>{{ post.data.description }}</p>
-		<time class="postlist-date" datetime="{{ post.date | htmlDateString }}">
+    {# <p>{{ post.data.description }}</p> #}
+		<p class="small-text">
+      <time class="postlist-date" datetime="{{ post.date | htmlDateString }}">
       {{ post.date | readableDate("dd LLLL yyyy") }}
-    </time>
+      </time>
+    </p>
 	</li>
 {% endfor %}
 </ol>
