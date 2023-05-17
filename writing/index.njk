@@ -6,7 +6,12 @@ eleventyExcludeFromCollections: true
 <ol reversed class="postlist" style="counter-reset: start-from {{ (postslistCounter or collections.posts.length) + 1 }}">
 {% for post in collections.posts | reverse %}
 	<li class="postlist-item{% if post.url == url %} postlist-item-active{% endif %}">
-		<a href="{{ post.url }}" class="postlist-link">
+		<p>
+      <time class="postlist-date" datetime="{{ post.date | htmlDateString }}">
+      {{ post.date | readableDate("dd LLLL yyyy") }}
+      </time>
+    – 
+    <a href="{{ post.url }}" class="postlist-link">
       {% if post.data.title %}
         {{ post.data.title }}
       {% else %}
@@ -14,11 +19,7 @@ eleventyExcludeFromCollections: true
       {% endif %}
     </a>
     {# <p>{{ post.data.description }}</p> #}
-		<p class="small-text">
-      <time class="postlist-date" datetime="{{ post.date | htmlDateString }}">
-      {{ post.date | readableDate("dd LLLL yyyy") }}
-      </time>
-    </p>
+		</p>
 	</li>
 {% endfor %}
 </ol>
