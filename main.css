@@ -23,7 +23,14 @@ body, h1, h2, h3, p, ul, li {
   background: #F7F6F6;
 }
 
-.header, .intro, .links-nav, .cv, .education, .footer, main {
+h2, p {
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+.header, .intro, .links-nav, .cv, .education, .footer, .postlist, .post-content {
   width: 90%;
   max-width: 40rem;
   margin-left: auto;
@@ -101,7 +108,7 @@ a:active {
   margin-bottom: 100px;
 }
 
-.portfolio-item img {
+img {
   width: 100%;
 }
 
@@ -158,7 +165,37 @@ padding-right: 20px;
 
 .postlist li {
   margin-bottom: 50px;
+  }
+
+.postlist-item {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  column-gap: 20px;
 }
+
+.post-content h1 {
+  text-transform: uppercase;
+}
+
+.post-content h2, h3 {
+  font-family: 'questa_sansregular', helvetica, sans-serif;
+  font-size: 1rem;
+  font-weight: 300;
+  line-height: inherit;
+  margin-top: 50px;
+}
+
+.post-content blockquote {
+  margin: 50px 0;
+  border-left: 1px solid #D21258;
+  padding-left: 20px;
+}
+
+.post-content blockquote p {
+  color: #616a6b;
+  
+}
+
 
 /* viewport sizing  */
 
