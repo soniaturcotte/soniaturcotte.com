@@ -158,6 +158,12 @@ padding-right: 20px;
 
 .postlist li {
   margin-bottom: 50px;
+  }
+
+.postlist-item {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  column-gap: 20px;
 }
 
 /* viewport sizing  */
