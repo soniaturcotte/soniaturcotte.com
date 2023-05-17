@@ -173,7 +173,7 @@ padding-right: 20px;
   column-gap: 20px;
 }
 
-.post-content h1 {
+.post-title {
   text-transform: uppercase;
 }
 
@@ -194,6 +194,10 @@ padding-right: 20px;
 .post-content blockquote p {
   color: #616a6b;
   
+}
+
+.backlink {
+  margin-top: 100px;
 }
 
 

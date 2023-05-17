@@ -1,7 +1,7 @@
 ---
-title: This is my first post
-description: This is a post on My Blog about nothing
-date: 2023-11-14
+title: Hello world
+description: First post on my little blog section 
+date: 2023-05-18
 tags:
   - another tag
 ---
@@ -22,4 +22,6 @@ Let's try an **image**
 
 Hey, take a look at the earthlings. Goodbye! They're using our own satellites against us. And the clock is ticking. I gave it a cold? I gave it a virus. A computer virus. I was part of something special. Must go faster... go, go, go, go, go! Life finds a way.
 
-Text from https://jeffsum.com/
+Text from <a href="">https://jeffsum.com/</a>
+
+<p class="small-text backlink">< <a href="/writing">Back to writing</a></p>
