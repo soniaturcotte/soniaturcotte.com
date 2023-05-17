@@ -6,8 +6,6 @@ tags:
   - another tag
 ---
 
-# Hello world
-
 Eventually, you do plan to have dinosaurs on your dinosaur tour, right? Yeah, but your scientists were so preoccupied with whether or not they could, they didn't stop to think if they should. I was part of something special. Hey, take a look at the earthlings. Goodbye!
 
 > This thing comes fully loaded. AM/FM radio, reclining bucket seats, and... power windows. Yes, Yes, without the oops! Remind me to thank John for a lovely weekend. You know what? It is beets. I've crashed into a beet truck. Just my luck, no ice. You're a very talented young man, with your own clever thoughts and ideas. Do you need a manager?
