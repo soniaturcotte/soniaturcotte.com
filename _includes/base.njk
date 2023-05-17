@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+	<title>{% if title %}{{ title }} - sonia turcotte{% else %} sonia turcotte {% endif %}</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/main.css" type="text/css" charset="utf-8" />
+
+    <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="{{ metadata.title }}">
+    <link rel="alternate" href="/feed/feed.json" type="application/json" title="{{ metadata.title }}">
+</head>
+
+<body>
+  <div class="header">
+    <h1>
+      <a href="/">sonia turcotte</a>
+    </h1>
+  </div>
+
+  {% block container %}
+    {{ content | safe }}
+  {% endblock %}
+
+	<div class="footer">
+		<p class="small-text">Handcoded and typeset in Questa. This site doesn’t collect any data or analytics.</p>
+	</div>
+</body>
+
+</html>
