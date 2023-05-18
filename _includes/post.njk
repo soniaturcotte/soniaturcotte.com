@@ -4,7 +4,9 @@
 
 <main>
   <div class="post-content">
-    <h1 class="small-text">{{title}}</h1>
+    <h1 class="small-text">
+      {{date | readableDate("dd LLL yyyy")}} – <span class="post-title">{{title}}</span>
+    </h1>
     {{ content | safe }}
   </div> 
 </main>
