@@ -1,0 +1,14 @@
+{% extends "./base.njk" %}
+
+{% block container %}
+
+<main>
+  <div class="post-content">
+    <h1 class="small-text">
+      All posts
+    </h1>
+    {{ content | safe }}
+  </div> 
+</main>
+
+{% endblock %}
