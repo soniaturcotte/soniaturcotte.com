@@ -1,7 +1,7 @@
 ---
 title: Making a tiny digital garden
 description: Think and learn through writing 
-date: 2023-05-24
+date: 2023-05-23
 tags:
   - digital garden 
 ---
@@ -30,3 +30,5 @@ I don’t know what shape this will take, but it’s a garden for small thoughts
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/4477776/original_9eaf08e3a7589347ad4f3b244d31837d.gif" alt="Gif of 2 tulips slowly opening">
   <figcaption class="small-text">Percy Smith, Birth of a Flower, 1910</figcaption>
 </figure>
+
+Thanks to [Jon Heslop](https://jonheslop.com/) for helping me get this up and running with Eleventy and Netlify. Your patience with my endless texts is unparalleled.
