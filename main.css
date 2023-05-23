@@ -68,6 +68,14 @@ h1 a {
   background: none;
 }
 
+.writing-nav a {
+  text-decoration: none;
+  background: none;
+  color: #D21258;
+}
+
+
+
 .small-text a {
   text-decoration: none;   
   color: #181818;
