@@ -18,7 +18,7 @@ I had a newsletter originally, all the rage these days. But I was unhappy with S
 
 And since this little garden doesn’t have any tracking, I will never know who, if anyone, is reading. Standard data practices have made creepy behaviour the norm and I am absolutely not here for it.
 
-[J. R. Carpenter](​​http://luckysoap.com/statements/handmadeweb.html) says
+In [_A Handmade Web_](https://luckysoap.com/talks.html), J. R. Carpenter says
 
 > I evoke the term ‘handmade web’ to suggest slowness and smallness as a forms of resistance.
 
