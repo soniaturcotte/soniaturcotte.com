@@ -1,6 +1,12 @@
 {% extends "./base.njk" %}
 
 {% block container %}
+<div class="header">
+    <h1>
+      <a href="/">sonia turcotte</a> 
+      <div class="writing-nav"><a href="/writing">writing</a></div>
+    </h1>
+</div>
 
 <main>
   <div class="post-content">
@@ -9,6 +15,8 @@
     </h1>
     {{ content | safe }}
   </div> 
+  <p class="small-text backlink">< <a href="/writing">Back to writing</a></p>
+
 </main>
 
 {% endblock %}
