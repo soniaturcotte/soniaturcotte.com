@@ -1,7 +1,7 @@
 ---
 title: Making a tiny digital garden
 description: Think and learn through writing 
-date: 2023-05-24
+date: 2023-05-23
 tags:
   - digital garden 
 ---
