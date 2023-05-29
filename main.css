@@ -211,7 +211,7 @@ figure {
   display: inline;
   float: right;
   position: relative;
-  bottom: 25px;
+  bottom: 30px;
   width: 15vw;
   margin-right: -18vw;
   font-family: 'questa_sansregular', helvetica, sans-serif;
@@ -231,7 +231,7 @@ figure {
 
 .footnote {
   font-family: 'questa_sansregular', helvetica, sans-serif;
-  font-size: 1rem;
+  font-size: .9rem;
   font-weight: 300;
 }
 
