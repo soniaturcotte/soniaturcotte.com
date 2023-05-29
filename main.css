@@ -213,7 +213,7 @@ figure {
   position: relative;
   bottom: 25px;
   width: 15vw;
-  margin-right: -20vw;
+  margin-right: -18vw;
   font-family: 'questa_sansregular', helvetica, sans-serif;
   font-size: 1rem;
   font-weight: 300;
@@ -278,7 +278,7 @@ figure {
    .marginalia {
     position: relative;
     bottom: 0;
-    margin: 3% 5% 10% 50%;
+    margin: 3% 5% 15% 50%;
     width: 50%;
     }
  }
@@ -292,7 +292,7 @@ figure {
   .marginalia {
     position: relative;
     bottom: 0;
-    margin: 3% 5% 15% 50%;
+    margin: 3% 5% 20% 50%;
     width: 75%;
     }
  }
