@@ -6,7 +6,7 @@ tags:
   - trees
 ---
 
-There's a tree in south London called The Oak of Honor, of which Honor Oak derives its name. It’s in a small park called One Tree Hill, with three routes to the top. All of them include steps. 
+There’s a tree in south London called The Oak of Honor, of which Honor Oak derives its name. It’s in a small park called One Tree Hill, with three routes to the top. All of them include steps. 
 
 <figure>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/23390285/original_4a0bdb3b2bf01cbf1c9ca36ab288daa9.jpg?1693414797?bc=0" alt="An large oak tree in dappled evening light, there's a small fence around the base.">
@@ -85,7 +85,7 @@ An invitation which resulted in lots of emails, love letters, to trees. You can 
 
 London also has a [map of trees](https://apps.london.gov.uk/street-trees/), though sadly we cannot send them love letters. 
 
-I've also spent time browsing the [Ancient Tree Inventory](https://ati.woodlandtrust.org.uk/), but not sure how I feel about it since Honor Oak does not feature.
+I’ve also spent time browsing the [Ancient Tree Inventory](https://ati.woodlandtrust.org.uk/), but not sure how I feel about it since Honor Oak does not feature.
 
 
 <figure>
