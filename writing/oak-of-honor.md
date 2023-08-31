@@ -114,6 +114,6 @@ This short story by Robin Sloan, [My Father the Druid, My Mother the Tree](https
 
 [Michaela Coel](https://garage.vice.com/en_us/article/7kpajz/michaela-coel-garage-liz-johnson-artur), interviewed by Durga Chew-Bose, getting her power from trees.
 
-Built by my friends at Common Knowledge, [The Smart Forest Atlas](https://atlas.smartforests.net/en/) is a living archive of digital technologies and forests,
+Built by my friends at Common Knowledge, [The Smart Forest Atlas](https://atlas.smartforests.net/en/) is a living archive of digital technologies and forests.
 
 Another [archive of trees](https://www.gatheringgrowth.org/), this one in the US. Special for it’s stunning photogrpahy. 
