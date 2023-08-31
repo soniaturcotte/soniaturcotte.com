@@ -37,7 +37,7 @@ Throughout the winter lockdown, the Oak and the runs kept me tethered. Turn the 
   <figcaption class="small-text">January 1, 2021</figcaption>
 </figure>
 
-It was always a welcome pause, seeing the tree and photographing it, to catch my breath. In January, I got a headtorch and started visiting at night. 
+It was always a welcome pause to catch my breath, seeing the tree and photographing it. In January, I got a headtorch and started visiting at night. 
 
 <figure>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/23390286/original_ce6472671cb9cd2fc80d0f7829d66a14.jpg?1693414810?bc=0" alt="View of the tree at night, no leaves on any of the branches">
@@ -49,9 +49,9 @@ It was always a welcome pause, seeing the tree and photographing it, to catch my
   <figcaption class="small-text">February 7, 2021</figcaption>
 </figure>
 
-Jenny Odell describes a similar ritual in her new book, [Saving Time](https://www.penguinrandomhouse.com/books/672377/saving-time-by-jenny-odell/). In it, she describes visiting and observing a single branch of a California buckeye tree over weeks and months, saying, 
+Jenny Odell talks about a similar ritual in her new book, [Saving Time](https://www.penguinrandomhouse.com/books/672377/saving-time-by-jenny-odell/). In it, she describes visiting and observing a single branch of a California buckeye tree over weeks and months, saying, 
 
-> “This exercise in observation is an example of what I have come to think of as “unfreezing something in time.” “To do this means releasing something or someone from their bounds as a supposed stable, individual entity existing in abstract time, seeing them not only as existing within time, but also as the ongoing materialization of time itself. 
+> “This exercise in observation is an example of what I have come to think of as “unfreezing something in time.” To do this means releasing something or someone from their bounds as a supposed stable, individual entity existing in abstract time, seeing them not only as existing within time, but also as the ongoing materialization of time itself.” 
 >
 > ... 
 >
@@ -71,7 +71,7 @@ How interesting to be reading, in 2023, of sharing an exercise with someone I’
 
 But this attention to trees, or a tree, isn’t exactly unique. In 2013, the city of Melbourne set up [a website](http://melbourneurbanforestvisual.com.au/), assigning each tree a unique ID and email, for members of the public to report problems – “Email this tree.” 
 
-An invitation which resulted in lots of emails, love letters, to trees. You can [read some of the letters here](https://www.theatlantic.com/technology/archive/2015/07/when-you-give-a-tree-an-email-address/398210/).
+An invitation which resulted – unintentionally but perhaps in hindsight not unexpected – in lots of emails. Love letters to trees. You can [read some of the letters here](https://www.theatlantic.com/technology/archive/2015/07/when-you-give-a-tree-an-email-address/398210/).
 
 <figure>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/23390711/original_756e8b94436a8041a46374f86e68e0c6.jpg?1693416266?bc=0" alt="Full view of the oak full of young, bright green leaves. Blue skies.">
@@ -85,7 +85,7 @@ An invitation which resulted in lots of emails, love letters, to trees. You can 
 
 London also has a [map of trees](https://apps.london.gov.uk/street-trees/), though sadly we cannot send them love letters. 
 
-I’ve also spent time browsing the [Ancient Tree Inventory](https://ati.woodlandtrust.org.uk/), but not sure how I feel about it since Honor Oak does not feature.
+I’ve spent time browsing the [Ancient Tree Inventory](https://ati.woodlandtrust.org.uk/), but not sure how I feel about it since Honor Oak does not feature.
 
 
 <figure>
@@ -93,7 +93,7 @@ I’ve also spent time browsing the [Ancient Tree Inventory](https://ati.woodlan
   <figcaption class="small-text">August 10, 2021</figcaption>
 </figure>
 
-I am rather fond of trees, in general. But I truly love this tree. Watching it over the year was so special. If I hadn’t been in a few weeks, I felt excited to see the change. 
+I am rather fond of trees, in general. But I truly love this tree. Watching it over that year was special. If I hadn’t visited in a few weeks, I felt excited to see the change. 
 
 It’s very pleasing to know that it’s been there long before me. I hope it will be there long after I’m gone.
 
@@ -102,7 +102,18 @@ It’s very pleasing to know that it’s been there long before me. I hope it wi
   <figcaption class="small-text">September 9, 2021</figcaption>
 </figure>
 
-
-If you got this far, you might like this radio station where you can [listen to a random forest](https://www.tree.fm/forest/24). I also really love this short story by Robin Sloan, [My Father the Druid, My Mother the Tree](https://www.robinsloan.com/stories/my-father-the-druid-my-mother-the-tree/) (not just for its banger title).
-
 Tell me about your favourite trees. 
+
+## Other tree-related things you might like:
+
+A radio station where you can [listen to a random forest](https://www.tree.fm/forest/24). 
+
+This short story by Robin Sloan, [My Father the Druid, My Mother the Tree](https://www.robinsloan.com/stories/my-father-the-druid-my-mother-the-tree/) (not just for its banger title).
+
+[The Word for World is Still Forest](https://www.gatheringgrowth.org/), a collection of experimental essays, responding to and jumping off from Ursula K. Le Guin’s novel.
+
+[Michaela Coel](https://garage.vice.com/en_us/article/7kpajz/michaela-coel-garage-liz-johnson-artur), interviewed by Durga Chew-Bose, getting her power from trees.
+
+Built by my friends at Common Knowledge, [The Smart Forest Atlas](https://atlas.smartforests.net/en/) is a living archive of digital technologies and forests,
+
+Another [archive of trees](https://www.gatheringgrowth.org/), this one in the US. Special for it’s stunning photogrpahy. 
