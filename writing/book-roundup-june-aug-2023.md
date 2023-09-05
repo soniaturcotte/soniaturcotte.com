@@ -4,6 +4,7 @@ description: A few book recommendations
 date: 2023-09-05
 tags:
   - book review 
+  - animals
 ---
 
 The most memorable books from the last few months. You can read the [previous round-up here](/writing/book-roundup-jan-may-2023.md), or see the [full list](https://app.thestorygraph.com/books-read/soniaturcotte?year=2023) of what I’ve read this year. 
