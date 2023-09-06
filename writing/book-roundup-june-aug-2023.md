@@ -1,15 +1,15 @@
 ---
 title: 'Book round-up: June-Aug 2023'
 description: A few book recommendations   
-date: 2023-09-05
+date: 2023-09-06
 tags:
   - book review 
   - animals
 ---
 
-The most memorable books from the last few months. You can read the [previous round-up here](/writing/book-roundup-jan-may-2023.md), or see the [full list](https://app.thestorygraph.com/books-read/soniaturcotte?year=2023) of what I’ve read this year. 
+The most memorable books from the last few months. You can read the [previous round-up](/writing/book-roundup-jan-may-2023.md) or see the [full list](https://app.thestorygraph.com/books-read/soniaturcotte?year=2023) of what I’ve read this year. 
 
-Unlike the first round-up, I’m including some of my academic research. I wrote my dissertation on farmed animal sanctuaries and when a friend read a draft, they questioned whether the conditions on sanctuaries are indeed better than farms. That question had me shook! 
+This time, I’m including some of my academic research. I’ve just finished my dissertation on farmed animal sanctuarie. When a friend read a draft, they questioned whether the conditions on sanctuaries are indeed better than farms. That question had me shook! 
 
 I often forget that farming practices aren’t common knowledge, which is ironic given I actually wrote a section on the invisibility and distance of animal agriculture.
 
@@ -25,9 +25,11 @@ If you can’t be bothered to read a whole book, this [1 min video from rapper J
 
 ## [Every Twelve Seconds: Industrialized Slaughter and the Politics of Sight](https://yalebooks.yale.edu/book/9780300192483/every-twelve-seconds/) by Timothy Pachirat 
 
-Another ethnography, at a slaughterhouse. The book isn’t vegan propaganda or a value judgment about eating animals, it’s just a description of three different jobs Pachirat has working at a slaughterhouse. It is horrible! I could barely read parts, but I am very soft-hearted about animals.
+Another ethnography, Pachirat gets a job at a slaughterhouse and writes about the three jobs he has while working there. The book isn’t vegan propaganda or a value judgment about eating animals, it’s just a description of what goes on. 
 
-In my anguish upon finishing, I posted an Instagram story saying I think everyone who eats meat should read this book. Outside my polemical Insta content, I actually do not want to tell anyone what they should do. But if you want to learn more about how the animals get onto your plate, it’s a good start.
+It is horrible! I could barely read parts, but I am very soft-hearted about animals. Also, labour conditions are dreadful (we all know this) and the disgusting things that pass ‘quality assurance’ would put me off meat even if I didn’t care a hoot about animals or workers or the earth. 
+
+In my anguish upon finishing, I posted an Instagram story saying I think everyone who eats meat should read this book. Outside polemical Insta content, I actually do not want to tell anyone what they should do. But if you want to learn more about how the animals get onto your plate, it’s a good start.
 
 ## Other readings on farming
 
@@ -42,6 +44,8 @@ Beyond farming, [Saving Animals: Multispecies Ecologies of Rescue and Care](http
 A photography book with a few essays interspersed. Read this as a palate cleanser from the horrors of all the others. 
 
 The images of old farmed animals are beautiful and emotional. How rarely we see these animals even as mature adults, much less elderly. Leshko presents them with dignity.
+
+It reminds me of the 22-year-old cows at my research site, who I am low-key in love with. 
 
 <figure>
   <img src="https://images.squarespace-cdn.com/content/v1/5cb9e71665019fd944cd6b5b/1555689875698-S9K6XLXBJDUJ9JRJCVYS/Leshko_Abe_Optimized.jpg?format=1500w" alt="Black and white profile portrait of a white goat">
@@ -65,10 +69,10 @@ Listening to Sinéad read this was very special. Her death hit me harder than I 
 
 ## Three novels 
 
-If the fiction theme that stood out in the last roundup was magick, this time it’s historical fiction. These three were audiobooks from Libby (library app for audiobooks) I hadn’t heard of previously. Love a library for some random bookshelf browsing. 
+If the fiction theme that stood out in the last roundup was magick, this time it’s historical fiction. These three were audiobooks I randomly found on Libby. Love a library for some serendipitous finds.
 
-[When Nietzsche Wept](https://app.thestorygraph.com/books/e5c41cbf-ce7e-4222-bf72-3aa5a8dbec2c) by Irvin D. Yalom, chosen solely for the title, I’m on a bit of a Nietzsche kick. Most of the book is Nietzsche in conversation with a doctor. Freud makes an appearance. I am nota Nietzsche scholar, so who knows how accurate the representations of his philosophies are, but the book was very entertaining. 
+[When Nietzsche Wept](https://app.thestorygraph.com/books/e5c41cbf-ce7e-4222-bf72-3aa5a8dbec2c) by Irvin D. Yalom, chosen solely for the title. I’m on a bit of a Nietzsche kick. Most of the book is Nietzsche in conversation with a doctor. Freud makes an appearance. I am not a Nietzsche scholar, so who knows how accurate the representations of his philosophies are, but the book was very entertaining.
 
-[Black Butterflies](https://app.thestorygraph.com/books/0312f245-4f12-4011-9ac4-a0caea8bf6d5) by Priscilla Morris traces the story of an artist who is stuck in Sarajevo in spring 1992, without her family. But she is not alone, for it is a story about finding and making community. I never feel like I know enough of any histories, the Sarajevo siege is no exception, and so found it very compelling to read alongside an open Wikipedia tab. 
+[Black Butterflies](https://app.thestorygraph.com/books/0312f245-4f12-4011-9ac4-a0caea8bf6d5) by Priscilla Morris traces the story of an artist who is stuck in Sarajevo in spring 1992, without her family. But she is not alone, for it is a story about finding and making community. I never feel like I know enough of any histories, the Sarajevo siege is no exception, and so found it very compelling to read alongside an open Wikipedia tab.
 
  [The Parisian](https://app.thestorygraph.com/books/c5cb28d9-0c57-478d-ac76-3435c1ed7a7b) by Isabella Hammad is not, in fact, about a Parisian but about a young Palestinian man who studies in Paris during WWI and then returns to his hometown of Nablus. It’s quite long, perhaps slightly unnecessarily so, and very meandering. But it is powerful to read about daily life in Palestine before annexation and occupation and the descriptions are beautiful and expansive.
