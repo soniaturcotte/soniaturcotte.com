@@ -7,7 +7,7 @@ tags:
   - animals
 ---
 
-The most memorable books from the last few months. You can read the [previous round-up](/writing/book-roundup-jan-may-2023.md) or see the [full list](https://app.thestorygraph.com/books-read/soniaturcotte?year=2023) of what I’ve read this year. 
+The most memorable books from the last few months. You can read the [previous round-up](/writing/book-roundup-jan-may-2023) or see the [full list](https://app.thestorygraph.com/books-read/soniaturcotte?year=2023) of what I’ve read this year. 
 
 This time, I’m including some of my academic research. I’ve just finished my dissertation on farmed animal sanctuarie. When a friend read a draft, they questioned whether the conditions on sanctuaries are indeed better than farms. That question had me shook! 
 
