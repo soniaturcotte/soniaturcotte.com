@@ -72,11 +72,11 @@ We talk about the text, but also about trauma and joy, childhood experiences and
 
 It is generous and nourishing and challenging.
 
-I struggle describe what it means to me. Is it irony that when I’m trying to write about a space centred around writing, words fail me? When I think of this space I share – Arianne, Marina, Martin, Pei-Chi, Rachel and Toby – I am overwhelmed with love. Love for the people, yes. But also for being alive. A glimpse of buen vivir.
+I struggle describe what it means to me. Is it irony that when I’m trying to write about a space centred around writing, words fail me? When I think of this space I share – Arianne, Marina, Martin, Pei-Chi, Rachel and Toby – I am overwhelmed with love. Love for the people, yes. But also for being alive. 
 
-All the struggle and torment of living is worth it for moments like these.
+All the struggle and torment of living is worth it for moments like these. Reading and talking and eating and drinking ... is this a buen vivir? 
 
-There’s a bit from *The Undercommons* that I quote all the time, where Fred Moten says,  
+There’s a bit from [*The Undercommons*](https://www.minorcompositions.info/wp-content/uploads/2013/04/undercommons-web.pdf) that I quote all the time, where Fred Moten says,  
 
 > When I think about the way we use the term ‘study,’ I think we are committed to the idea that study is what you do with other people, working, dancing, suffering, some irreducible convergence of all three, held under the name of speculative practice.
 
@@ -90,4 +90,4 @@ There is a painting by [Egon Schiele](https://commons.wikimedia.org/wiki/File:Eg
   <figcaption class="small-text">Photo of an exhibit label from an 2018 RA exhibition on Klimt and Schiele</figcaption>
 </figure>
 
-Reading groups are art and loved ones. Reading and talking (and eating and drinking) are one of the forms of sociality that, together, make a life that is worth dying for.
+Reading groups are art and loved ones. Reading groups are one of the forms of sociality that make a life that is worth dying for.
