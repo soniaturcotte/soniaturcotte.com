@@ -1,7 +1,7 @@
 ---
 title: On reading groups
 description: And how magnificent they are 
-date: 2023-10-01
+date: 2023-10-02
 tags:
   - reading groups
   - study  
@@ -35,19 +35,18 @@ Over nearly four years together (!!), we read…
 - *Freshwater* by Akwaeke Emezi
 - *Queenie* by Candice Carty-Williams 
 
-Cor! What a list. <br /> 
-(I had to scroll through so many messages to compile this.) 
+Cor! What a list.
 
-There was a slight fluctuation of members throughout, but the core group – Amy, Angus, Becky, Eliot, Jon, Liv, Lucy – were just brilliant. Many of them are writers, which really enriched the discussion and made me think about reading in a different way. Everyone brought such thoughtfulness, feeling and depth to the discussion. 
+There was a slight fluctuation of members throughout, but the core group – Amy, Angus, Becky, Eliot, Jon, Liv, Lucy – were just brilliant. Many of them are writers, which really enriched the discussion and made me think about reading in a different way. 
 
-To share this magical space, even during a global pandemic, was a gift. 
+Everyone brought such thoughtfulness, feeling and depth to each meeting. To share this magical space, even during a global pandemic, was a gift. 
 
 <figure>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/23919960/original_d0a3a3c909e964878dd77ffc73c3cbde.jpg?1696162296?bc=0" alt="A photo of a computer with a zoom call with Eliot, Amy who is taking the picture, Jon wearing a cap, Lucy, me, Angus, and Becky. Behind the computer is a tree in a pot with fairy lights on it.">
   <figcaption class="small-text">Book club via Zoom, April 2020. Image by Amy.</figcaption>
 </figure>
 
-My current group started in February this year with my wonderful friend Marina, from my second MA at Goldsmiths. We invited people we had met over our studies, so there is a certain shared theoretical lineage. 
+My current reading group started in February this year with my wonderful friend Marina, from my second MA at Goldsmiths. We invited people we had met over our studies, so there is a certain shared theoretical lineage. 
 
 So far we’ve read… 
 
@@ -68,26 +67,28 @@ We take turns meeting, usually monthly, at different people’s homes. It’s lo
 
 It is a place to discuss ideas and theories, but also a place to poke at questions of knowledge production. Maybe sometimes even a place to explore who we are – as individuals and a collective. A place to consider what it means to be human.
 
-We talk about the text, but also about trauma and joy, childhood experiences and family, dreams and yearnings, the thoughts that keep you up at night. We gossip a lot. 
+We talk about the text, but also about childhood experiences, family, dreams and desires, about our trauma but also our joy. We share the thoughts that keep us up at night. We gossip a lot. 
 
 It is generous and nourishing and challenging.
 
-I struggle describe what it means to me. Is it irony that when I’m trying to write about a space centred around writing, words fail me? When I think of this space I share – Arianne, Marina, Martin, Pei-Chi, Rachel and Toby – I am overwhelmed with love. Love for the people, yes. But also for being alive. 
+I struggle describe what it means to me. Is it irony that when trying to write about a space centred around writing, words fail me? When I think of this space I share – with Arianne, Marina, Martin, Pei-Chi, Rachel and Toby – I am overwhelmed with love. Love for the people, yes. But also for being alive. 
 
 All the struggle and torment of living is worth it for moments like these. Reading and talking and eating and drinking ... is this a buen vivir? 
 
-There’s a bit from [*The Undercommons*](https://www.minorcompositions.info/wp-content/uploads/2013/04/undercommons-web.pdf) that I quote all the time, where Fred Moten says,  
+There’s a quote from [*The Undercommons*](https://www.minorcompositions.info/wp-content/uploads/2013/04/undercommons-web.pdf) that I cite all the time, where Fred Moten says,  
 
 > When I think about the way we use the term ‘study,’ I think we are committed to the idea that study is what you do with other people, working, dancing, suffering, some irreducible convergence of all three, held under the name of speculative practice.
 
 
-I have the words ‘study forever’ tattooed on my arm for a reason.
+I have the words ‘study forever’ tattooed on my body for a reason.
 
-I’m reminded of the title of a painting by [Egon Schiele](https://commons.wikimedia.org/wiki/File:Egon_Schiele_-_I_Will_Gladly_Endure_for_Art_and_My_Loved_Ones,_1912_-_Google_Art_Project.jpg): 
+I’m also reminded of the title of a painting by [Egon Schiele](https://commons.wikimedia.org/wiki/File:Egon_Schiele_-_I_Will_Gladly_Endure_for_Art_and_My_Loved_Ones,_1912_-_Google_Art_Project.jpg): 
 
 <figure>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/23920013/original_2fd8c62abbd072c649e26895d2bcff06.png?1696163134?bc=0" alt="A photo of text ’For Art and For My Loved Ones I Will Gladly Endure to the End!">
   <figcaption class="small-text">Photo of an exhibit label from an 2018 RA exhibition on Klimt and Schiele</figcaption>
 </figure>
 
-Reading groups are study and art and loved ones. Reading groups are one of the forms of sociality that, for me, make a life that is worth dying for.
+Reading groups are art and loved ones. Reading groups comprise a form of sociality that, for me, make up a life that is worth dying for.
+
+I think I might start another one. 
