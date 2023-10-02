@@ -71,9 +71,9 @@ We talk about the text, but also about childhood experiences, family, dreams and
 
 It is generous and nourishing and challenging.
 
-When I think of this space I share – with Arianne, Marina, Martin, Pei-Chi, Rachel and Toby – I am overwhelmed with love. Love for the people, yes. But also for being alive. 
+When I think of this space I share – with Arianne, Marina, Martin, Pei-Chi, Rachel and Toby – I am overwhelmed with love. Love for the people, yes. But also for life. 
 
-All the struggle and torment of living is worth it for moments like these. Reading and talking and eating and drinking ... is this a buen vivir? 
+All the struggle and torment of being alive is worth it for moments like these. Reading and talking and eating and drinking ... is this a buen vivir? 
 
 There’s a quote from [*The Undercommons*](https://www.minorcompositions.info/wp-content/uploads/2013/04/undercommons-web.pdf) that I cite all the time, where Fred Moten says,  
 
