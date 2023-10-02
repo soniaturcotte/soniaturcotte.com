@@ -67,7 +67,7 @@ We take turns meeting, usually monthly, at different people’s homes. It’s lo
 
 It is a place to discuss ideas and theories, but also a place to poke at questions of knowledge production. Maybe sometimes even a place to explore who we are – as individuals and a collective. A place to consider what it means to be human.
 
-We talk about the text, but also about childhood experiences, family, dreams and desires, about our trauma but also our joy. We share the thoughts that keep us up at night. We gossip a lot. 
+We talk about the text, but also about childhood experiences, family, dreams and desires, about our trauma but also our joy. We share the thoughts that keep us up at night. We gossip a&nbsp;lot. 
 
 It is generous and nourishing and challenging.
 
