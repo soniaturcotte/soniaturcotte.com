@@ -89,6 +89,6 @@ I’m also reminded of the title of a painting by [Egon Schiele](https://commons
   <figcaption class="small-text">Photo of an exhibit label from an 2018 RA exhibition on Klimt and Schiele</figcaption>
 </figure>
 
-Reading groups are art and loved ones. Reading groups comprise a form of sociality that, for me, make up a life that is worth dying for.
+At their best, reading groups are art and loved ones. Reading groups comprise a form of sociality that, for me, make up a life that is worth dying for.
 
 I think I might start another one. 
