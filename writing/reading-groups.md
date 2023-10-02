@@ -37,16 +37,16 @@ Over nearly four years together (!!), we read…
 
 Cor! What a list.
 
-There was a slight fluctuation of members throughout, but the core group – Amy, Angus, Becky, Eliot, Jon, Liv, Lucy – were just brilliant. Many of them are writers, which really enriched the discussion and made me think about reading in a different way. 
+There was a slight fluctuation of members throughout, but the core group – Amy, Angus, Becky, Eliot, Jon, Liv, Lucy – were just brilliant. Many of them are writers, which really enriched the texts and made me think about reading in a different way. 
 
-Everyone brought such thoughtfulness, feeling and depth to each meeting. To share this magical space, even during a global pandemic, was a gift. 
+Everyone brought such thoughtfulness, feeling and depth to the discussion. To share this magical space, even during a global pandemic, was a gift. 
 
 <figure>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/23919960/original_d0a3a3c909e964878dd77ffc73c3cbde.jpg?1696162296?bc=0" alt="A photo of a computer with a zoom call with Eliot, Amy who is taking the picture, Jon wearing a cap, Lucy, me, Angus, and Becky. Behind the computer is a tree in a pot with fairy lights on it.">
   <figcaption class="small-text">Book club via Zoom, April 2020. Image by Amy.</figcaption>
 </figure>
 
-My current reading group started in February this year with my wonderful friend Marina, from my second MA at Goldsmiths. We invited people we had met over our studies, so there is a certain shared theoretical lineage. 
+My current reading group started in February this year with my wonderful friend Marina, from my second MA at Goldsmiths. We invited people we had met over our studies, so we share a certain theoretical lineage. 
 
 So far we’ve read… 
 
