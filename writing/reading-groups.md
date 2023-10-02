@@ -71,7 +71,7 @@ We talk about the text, but also about childhood experiences, family, dreams and
 
 It is generous and nourishing and challenging.
 
-I struggle describe what it means to me. Is it irony that when trying to write about a space centred around writing, words fail me? When I think of this space I share – with Arianne, Marina, Martin, Pei-Chi, Rachel and Toby – I am overwhelmed with love. Love for the people, yes. But also for being alive. 
+When I think of this space I share – with Arianne, Marina, Martin, Pei-Chi, Rachel and Toby – I am overwhelmed with love. Love for the people, yes. But also for being alive. 
 
 All the struggle and torment of living is worth it for moments like these. Reading and talking and eating and drinking ... is this a buen vivir? 
 
