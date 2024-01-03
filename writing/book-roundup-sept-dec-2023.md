@@ -17,7 +17,7 @@ This one’s a doozy, I read 40 books over this period.
 
 The last 3 months of the year were marked by grief at what is happening in Palestine. As [Alicia Kennedy](https://www.aliciakennedy.news/p/both-joyful-and-killjoy) writes, ‘I could not put myself amid the bombing, the horror; I could put myself in their grief, their rage.’
 
-The seemingly endless violence coming from social media on the ground in Gaza and the twisting and obscuring lies from mainstream news are disorienting and overwhelming. Reading long form was one way – along with protests and rallies – to navigate the dystopian horrors. Most of these, and more, are available for free on [various Palestine reading lists](https://www.are.na/sonia-turcotte/pedagogy-cwxfb2fo-fu).
+The seemingly endless violence coming from accounts on the ground in Gaza coupled with the twisting and obscuring lies from mainstream news are disorienting and overwhelming. Reading long form was one way, along with protests and rallies, I could navigate the unending stream of dystopian horrors. Most of these texts, and more, are available for free on [various Palestine reading lists](https://www.are.na/sonia-turcotte/pedagogy-cwxfb2fo-fu).
 
 ### The Hundred Years' War on Palestine by Rashid Khalidi 
 There’s a reason everyone has been sharing and recommending this book. It is incredibly comprehensive but doesn’t read as a dry text. Throughout the whole first part, all I could think was how much Britain has to blame for this mess. We really are heirs to the worst of people. If you want to better understand the context of what’s going on now, or if have ever been told to ‘get educated’ in attempts to silence you from speaking up for Palestine, read this.
@@ -27,15 +27,13 @@ Good for understanding the similarities and differences between South Africa and
 
 > While in apartheid South Africa, the settlers ‘exploited’ the ‘labour power’ of the dispossessed natives, in the case of Israel, ‘the native population was to be eliminated; exterminated or expelled rather than exploited’. … Israel needs the land, but without the people.
 >
-> ...
->
 > Zionism … has tried ‘disappearing’ the Palestinians from Palestine in theory and in practice, yet they are still there.
 
 There’s a word for disappearing a people… genocide. 
 
 ### Freedom is a Constant Struggle by Angela Davis
 
-A collection of essays and speeches linking revolutionary movements in the US to those globally, especially Palestine. Black feminists are the most influential thinkers in the development of my politics and it is always rejuvenating – much needed these days – to read them.
+A collection of essays and speeches linking revolutionary movements in the US to those globally, especially Palestine. Black feminists are the most influential thinkers in the development of my politics and it is always rejuvenating to read them.
 
 
 ### [When Grief Dissolves Us bundle](https://www.hajarpress.com/bundles/p/when-grief-dissolves-us-bundle) from Hajar Press
@@ -44,24 +42,24 @@ A collection of essays and speeches linking revolutionary movements in the US to
 
 [Objects from April and May](https://www.hajarpress.com/books/objects-from-april-and-may) by Zena Agha is collection of poems on loss, attachment and the violence of dispossession.
 
-[We, the Heartbroken](We, the Heartbroken) by Gargi Bhattacharyya is not explicitly on Palestine but is a beautiful meditation on grief and the revolutionary potential of heartbrokenness.
+[We, the Heartbroken](https://www.hajarpress.com/books/we-the-heartbroken) by Gargi Bhattacharyya is not explicitly on Palestine but is a beautiful meditation on grief and the revolutionary potential of heartbrokenness.
 
 ### The Black Jacobins by C. L. R. James
 
-This was fantastic! I picked it up randomly shelf-browsing on [Libby](https://libbyapp.com/interview/welcome#doYouHaveACard) (free audiobooks). Unusually so because for all my reading, I don’t often pick up historical texts. 
+This was fantastic! I picked it up randomly shelf-browsing on [Libby](https://libbyapp.com/interview/welcome#doYouHaveACard) (free audiobooks). An unusual choice for me, despite my reading, I don’t often pick up historical texts. 
 
-It’s the story of the Haitian revolution. Inspiring and unexpectedly funny. Nothing better than the downfall of colonialism. It took so long though. There wre decades of meandering false starts and unknowing on the path for freedom. A reminder to remain resilient and resolute.
+It’s the story of the Haitian revolution. Inspiring and unexpectedly funny. Nothing better than the downfall of colonialism. It took so long though. There wre decades of meandering false starts, setbacks and unknowing on the path for freedom. A reminder to remain resilient and resolute.
 
 ### Azadi by Arundhati Roy
 
-I love her. I have loved everything I’ve ever read by her. This book includes the famous '[The pandemic is a portal](https://www.ft.com/content/10d8f5e8-74eb-11ea-95fe-fcd274e920ca)’ essay, which should give you a sense of the vibe. Also, there are essays about her two novels – both of which I adore – that add layers to the stories. See also, [Roy in solidariity with Gaza](https://lithub.com/arundhati-roy-calls-the-siege-of-gaza-a-crime-against-humanity/). 
+I love her. I have loved everything I’ve ever read by her. This book includes the famous ‘[The pandemic is a portal](https://www.ft.com/content/10d8f5e8-74eb-11ea-95fe-fcd274e920ca)’ essay, which should give you a sense of the vibe. Also, there are essays about her two novels – both of which I adore – that add layers to the stories. See also, [Roy in solidariity with Gaza](https://lithub.com/arundhati-roy-calls-the-siege-of-gaza-a-crime-against-humanity/). 
 
 
 ## Animals
 
 Probably the least I’ve read on my usual schtick in 2 years.
 
-[Animal Biographies](https://ugapress.org/book/9780820362182/animal-biographies/) by Eric Baratay was recommended to me as a powerful example of how to write about animals and animal-human relations when I was working on my dissertation. Baratay writes about famous animals in history from the side of the animal. It’s so powerful. My [tutor wrote a review](https://humanimalia.org/article/view/16715/19527), if you want a sense of it and why it’s important. I love this book.
+[Animal Biographies](https://ugapress.org/book/9780820362182/animal-biographies/) by Eric Baratay was recommended to me as a powerful example of how to write about animals and animal-human relations when I was working on my dissertation. Baratay writes about famous animals in history from the side of the animal. I love this book, ist’s so powerful. My [tutor wrote a review](https://humanimalia.org/article/view/16715/19527), if you want a sense of it and why it’s important.
 
 [No Meat Required](https://alicia-kennedy.com/books) by Alicia Kennedy is very US-focused, but Kennedy's writing on vegan abundance resonates with me a lot. I appreciate the nuance and expansiveness of her politics, which provides the necessary balance to a lot of more rigid animal rights literature I read. Like all of her work, including her excellent newsletter, it is well-researched and written in a very accessible way. 
 
@@ -75,19 +73,19 @@ Probably the least I’ve read on my usual schtick in 2 years.
 
 [Sunburn](https://app.thestorygraph.com/books/dfc96449-adbc-4c90-b8a2-c70062f55d63) by Chloe Michelle Howarth: Thick with yearning (let girls be gay).
 
-[Small Things Like These](https://app.thestorygraph.com/books/5c578246-7c45-44f3-96b5-da6b9cd5b281) by Claire Keegan: How difficult, and yet simple, it is to refuse the abuse of the Irish Catholic churc and complicit silence of communities in its controll.
+[Small Things Like These](https://app.thestorygraph.com/books/5c578246-7c45-44f3-96b5-da6b9cd5b281) by Claire Keegan: How difficult and simple it is to refuse the complicit silence of communities in the face abuse by the Irish Catholic church.
 
 [Old God’s Time](https://app.thestorygraph.com/books/2b871acd-5c20-4966-be8c-5cf901fe99e1) by Sebastian Barry: More abuse by Irish Catholics, _quite_ a different response.
 
 [The Outrun](https://app.thestorygraph.com/books/b0d0dc31-9d1a-45b4-b5d7-892d35f89aa2 ) by Amy Liptrot: I have a crush on the Orkney Islands now.
 
-[Yellowface](https://app.thestorygraph.com/books/c61a54c1-2dd1-45da-814f-e1e8278a4c68) by R.F. Kuang: Deeply uncomfortable, watching a slow-motion catastrophe play out in front of you.
+[Yellowface](https://app.thestorygraph.com/books/c61a54c1-2dd1-45da-814f-e1e8278a4c68) by R.F. Kuang: Deeply uncomfortable, a slow-motion catastrophe playing out in front of you.
 
 [Tomorrow, and Tomorrow, and Tomorrow](https://app.thestorygraph.com/books/167cc896-1a42-4383-8189-56630e602911) by Gabrielle Zevin: Unexpectedly conservative, but I’m a sucker for sad stories of broken children.
 
 [The Palace of Illusions](https://app.thestorygraph.com/books/f917ad43-1108-4cff-9b3c-0c36a6418230) by Chitra Banerjee Divakaruni: Draupadi's story with a sprinkle of feminism.
 
-[Yajnaseni](https://app.thestorygraph.com/books/27cf349c-d49c-441c-b397-c0bcad226419) by Pratibha Ray: Draupadi story with beautiful and elaborate prose, and lots of symbolism, but I wouldn’t want to be a woman in that universe.
+[Yajnaseni](https://app.thestorygraph.com/books/27cf349c-d49c-441c-b397-c0bcad226419) by Pratibha Ray: Draupadi's story with beautiful and elaborate prose, and lots of symbolism, dreadful universe for women.
 
 [The Dharma Bums](https://app.thestorygraph.com/books/c2faf42a-ed22-44a6-a460-a717058a8344) by Jack Kerouac: Weird book but anything is good with Ethan Hawke narrating.
 
