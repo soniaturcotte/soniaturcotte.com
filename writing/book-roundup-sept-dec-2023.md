@@ -4,6 +4,7 @@ description: A few book recommendations
 date: 2024-01-03
 tags:
   - book review 
+  - reading
   - animals
   - free palestine
 ---
