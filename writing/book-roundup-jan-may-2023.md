@@ -4,6 +4,7 @@ description: A few book recommendations
 date: 2023-05-29
 tags:
   - book review 
+  - reading
 ---
 
 A short list of the most memorable books of the year so far, excluding academic texts. If you are interested in apocolyptic thought or animal studies, give me a shout and I’ll share some recs. You can see the full list of what I’ve read this year on [The Storygraph](https://app.thestorygraph.com/books-read/soniaturcotte?year=2023).
