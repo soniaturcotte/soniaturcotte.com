@@ -52,7 +52,7 @@ It’s the story of the Haitian revolution. Inspiring and unexpectedly funny. No
 
 ### Azadi by Arundhati Roy
 
-I love her. I have loved everything I’ve ever read by her. This book includes the famous ‘[The pandemic is a portal](https://www.ft.com/content/10d8f5e8-74eb-11ea-95fe-fcd274e920ca)’ essay, which should give you a sense of the vibe. Also, there are essays about her two novels – both of which I adore – that add layers to the stories. See also, [Roy in solidariity with Gaza](https://lithub.com/arundhati-roy-calls-the-siege-of-gaza-a-crime-against-humanity/). 
+I love her. I have loved everything I’ve ever read by her. This book includes the famous ‘[The pandemic is a portal](https://www.ft.com/content/10d8f5e8-74eb-11ea-95fe-fcd274e920ca)’ essay, which should give you a sense of the vibe. Also, there are essays about her two novels – both of which I adore – that add layers to the stories. See also, [Roy in solidarity with Gaza](https://lithub.com/arundhati-roy-calls-the-siege-of-gaza-a-crime-against-humanity/). 
 
 
 ## Animals
@@ -73,7 +73,7 @@ Probably the least I’ve read on my usual schtick in 2 years.
 
 [Sunburn](https://app.thestorygraph.com/books/dfc96449-adbc-4c90-b8a2-c70062f55d63) by Chloe Michelle Howarth: Thick with yearning (let girls be gay).
 
-[Small Things Like These](https://app.thestorygraph.com/books/5c578246-7c45-44f3-96b5-da6b9cd5b281) by Claire Keegan: How difficult and simple it is to refuse the complicit silence of communities in the face abuse by the Irish Catholic church.
+[Small Things Like These](https://app.thestorygraph.com/books/5c578246-7c45-44f3-96b5-da6b9cd5b281) by Claire Keegan: How difficult and simple it is to refuse the complicit silence of abuse by the Irish Catholic church.
 
 [Old God’s Time](https://app.thestorygraph.com/books/2b871acd-5c20-4966-be8c-5cf901fe99e1) by Sebastian Barry: More abuse by Irish Catholics, _quite_ a different response.
 
