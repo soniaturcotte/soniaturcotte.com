@@ -20,7 +20,7 @@ The last 3 months of the year were marked by grief at what is happening in Pales
 The seemingly endless violence coming from accounts on the ground in Gaza coupled with the twisting and obscuring lies from mainstream news are disorienting and overwhelming. Reading long form was one way, along with protests and rallies, I could navigate the unending stream of dystopian horrors. Most of these texts, and more, are available for free on [various Palestine reading lists](https://www.are.na/sonia-turcotte/pedagogy-cwxfb2fo-fu).
 
 ### The Hundred Years' War on Palestine by Rashid Khalidi 
-There’s a reason everyone has been sharing and recommending this book. It is incredibly comprehensive but doesn’t read as a dry text. Throughout the whole first part, all I could think was how much Britain has to blame for this mess. We really are heirs to the worst of people. If you want to better understand the context of what’s going on now, or if have ever been told to ‘get educated’ in attempts to silence you from speaking up for Palestine, read this.
+There’s a reason everyone has been sharing and recommending this book. It is incredibly comprehensive but doesn’t read as a dry text. Throughout the whole first part, all I could think was how much Britain has to blame for this mess. We really are heirs to the worst of people. If you want to better understand the context of what’s going on now, or if you've ever been told to ‘get educated’ in attempts to silence you from speaking up for Palestine, read this.
 
 ### Israeli Apartheid: A Beginners Guide by Ben White 
 Good for understanding the similarities and differences between South Africa and Israel/Palestine. Introduction and Part 1 are better than the rest, imo. I haven’t stopped thinking about one of the differences White highlights
@@ -40,7 +40,7 @@ A collection of essays and speeches linking revolutionary movements in the US to
 
 [The Stone House](https://www.hajarpress.com/books/the-stone-house) by Yara Hawari is loosely based, from what I can tell, on Hawari’s own family's experiences. It is very real to life, both in its depictions of historical events and what contemporary life is like for Palestinians living under occupation.
 
-[Objects from April and May](https://www.hajarpress.com/books/objects-from-april-and-may) by Zena Agha is collection of poems on loss, attachment and the violence of dispossession.
+[Objects from April and May](https://www.hajarpress.com/books/objects-from-april-and-may) by Zena Agha is a collection of poems on loss, attachment and the violence of dispossession.
 
 [We, the Heartbroken](https://www.hajarpress.com/books/we-the-heartbroken) by Gargi Bhattacharyya is not explicitly on Palestine but is a beautiful meditation on grief and the revolutionary potential of heartbrokenness.
 
@@ -48,7 +48,7 @@ A collection of essays and speeches linking revolutionary movements in the US to
 
 This was fantastic! I picked it up randomly shelf-browsing on [Libby](https://libbyapp.com/interview/welcome#doYouHaveACard) (free audiobooks). An unusual choice for me, despite my reading, I don’t often pick up historical texts. 
 
-It’s the story of the Haitian revolution. Inspiring and unexpectedly funny. Nothing better than the downfall of colonialism. It took so long though. There wre decades of meandering false starts, setbacks and unknowing on the path for freedom. A reminder to remain resilient and resolute.
+It’s the story of the Haitian revolution. Inspiring and unexpectedly funny. Nothing better than the downfall of colonialism. It took so long though. There were decades of meandering false starts, setbacks and unknowing on the path to freedom. A reminder to remain resilient and resolute.
 
 ### Azadi by Arundhati Roy
 
@@ -73,7 +73,7 @@ Probably the least I’ve read on my usual schtick in 2 years.
 
 [Sunburn](https://app.thestorygraph.com/books/dfc96449-adbc-4c90-b8a2-c70062f55d63) by Chloe Michelle Howarth: Thick with yearning (let girls be gay).
 
-[Small Things Like These](https://app.thestorygraph.com/books/5c578246-7c45-44f3-96b5-da6b9cd5b281) by Claire Keegan: How difficult and simple it is to refuse the complicit silence about the abuse of the Irish Catholic church.
+[Small Things Like These](https://app.thestorygraph.com/books/5c578246-7c45-44f3-96b5-da6b9cd5b281) by Claire Keegan: How difficult and simple it is to refuse complicit silence about the abuse of the Irish Catholic church.
 
 [Old God’s Time](https://app.thestorygraph.com/books/2b871acd-5c20-4966-be8c-5cf901fe99e1) by Sebastian Barry: More abuse by Irish Catholics, _quite_ a different response.
 
@@ -85,7 +85,7 @@ Probably the least I’ve read on my usual schtick in 2 years.
 
 [The Palace of Illusions](https://app.thestorygraph.com/books/f917ad43-1108-4cff-9b3c-0c36a6418230) by Chitra Banerjee Divakaruni: Draupadi's story with a sprinkle of feminism.
 
-[Yajnaseni](https://app.thestorygraph.com/books/27cf349c-d49c-441c-b397-c0bcad226419) by Pratibha Ray: Draupadi's story with beautiful and elaborate prose, and lots of symbolism, dreadful universe for women.
+[Yajnaseni](https://app.thestorygraph.com/books/27cf349c-d49c-441c-b397-c0bcad226419) by Pratibha Ray: Draupadi's story with beautiful and elaborate prose, and lots of symbolism, but a dreadful universe for women.
 
 [The Dharma Bums](https://app.thestorygraph.com/books/c2faf42a-ed22-44a6-a460-a717058a8344) by Jack Kerouac: Weird book but anything is good with Ethan Hawke narrating.
 
