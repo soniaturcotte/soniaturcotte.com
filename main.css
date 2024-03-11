@@ -216,7 +216,7 @@ figure {
     float: right;
     clear: right;
     margin-right: -40%;
-    width: 40%;
+    width: 30%;
     margin-top: 0.3rem;
     margin-bottom: 0;
     font-size: 1.1rem;
@@ -271,6 +271,32 @@ label.sidenote-number {
    display: grid;
    grid-template-columns: 1fr 3fr;
   }
+
+  .label.margin-toggle:not(.sidenote-number) {
+    display: none;
+  }
+  
+   .sidenote,
+   .marginnote {
+       display: none;
+   }
+
+  .margin-toggle:checked + .sidenote,
+  .margin-toggle:checked + .marginnote {
+    display: block;
+    float: left;
+    left: 1rem;
+    clear: both;
+    width: 90%;
+    margin: 1rem 3%;
+    padding-right: 25%;
+    vertical-align: baseline;
+    position: relative;
+  }
+
+  label {
+    cursor: pointer;
+  }
 }
 
 @media screen and (max-width: 800px) {
@@ -294,39 +320,11 @@ label.sidenote-number {
    .description, .postlist-item p {
      margin-top: 0;
    }
-
-   .label.margin-toggle:not(.sidenote-number) {
-    display: none;
-  }
-  
-   .sidenote,
-   .marginnote {
-       display: none;
-   }
-
-  .margin-toggle:checked + .sidenote,
-  .margin-toggle:checked + .marginnote {
-    display: block;
-    float: left;
-    left: 1rem;
-    clear: both;
-    width: 95%;
-    margin: 1rem 2.5%;
-    vertical-align: baseline;
-    position: relative;
-  }
  }
 
  @media screen and (max-width: 450px) {
   .links-nav li {
     display: block;
     padding-right: 20px;  
-    }
-
-  .marginalia {
-    position: relative;
-    bottom: 0;
-    margin: 3% 5% 20% 50%;
-    width: 75%;
     }
  }
