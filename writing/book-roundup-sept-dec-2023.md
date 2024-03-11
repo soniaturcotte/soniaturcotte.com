@@ -23,7 +23,7 @@ The seemingly endless violence coming from accounts on the ground in Gaza couple
 There’s a reason everyone has been sharing and recommending this book. It is incredibly comprehensive but doesn’t read as a dry text. Throughout the whole first part, all I could think was how much Britain has to blame for this mess. We really are heirs to the worst of people. If you want to better understand the context of what’s going on now, or if you've ever been told to ‘get educated’ in attempts to silence you from speaking up for Palestine, read this.
 
 ### Israeli Apartheid: A Beginners Guide by Ben White 
-Good for understanding the similarities and differences between South Africa and Israel/Palestine. Introduction and Part 1 are better than the rest, imo. I haven’t stopped thinking about one of the differences White highlights
+Good for understanding the similarities and differences between South Africa and Israel/Palestine. Introduction and Part 1 are better than the rest, imo. I haven’t stopped thinking about this
 
 > While in apartheid South Africa, the settlers ‘exploited’ the ‘labour power’ of the dispossessed natives, in the case of Israel, ‘the native population was to be eliminated; exterminated or expelled rather than exploited’. … Israel needs the land, but without the people.
 >
@@ -33,7 +33,7 @@ There’s a word for disappearing a people… genocide.
 
 ### Freedom is a Constant Struggle by Angela Davis
 
-A collection of essays and speeches linking revolutionary movements in the US to those globally, especially Palestine. Black feminists are the most influential thinkers in the development of my politics and it is always rejuvenating to read them.
+A collection of essays and speeches linking revolutionary movements in the US to global movements, especially in Palestine. Black feminists are the most influential thinkers in the development of my politics and it is always rejuvenating to read them.
 
 
 ### [When Grief Dissolves Us bundle](https://www.hajarpress.com/bundles/p/when-grief-dissolves-us-bundle) from Hajar Press
@@ -46,9 +46,9 @@ A collection of essays and speeches linking revolutionary movements in the US to
 
 ### The Black Jacobins by C. L. R. James
 
-This was fantastic! I picked it up randomly shelf-browsing on [Libby](https://libbyapp.com/interview/welcome#doYouHaveACard) (free audiobooks). An unusual choice for me, despite my reading, I don’t often pick up historical texts. 
+This was fantastic! I picked it up randomly shelf-browsing on [Libby](https://libbyapp.com/interview/welcome#doYouHaveACard) (free audiobooks). An unusual choice for me, despite my voracious reading appitite, I don’t often pick up historical texts. 
 
-It’s the story of the Haitian revolution. Inspiring and unexpectedly funny. Nothing better than the downfall of colonialism. It took so long though. There were decades of meandering false starts, setbacks and unknowing on the path to freedom. A reminder to remain resilient and resolute.
+It’s the story of the Haitian revolution. Inspiring and unexpectedly funny. Nothing better than the downfall of colonialism. It was assounding to me how long the revolution took! There were decades of meandering false starts, setbacks and unknowing on the path to freedom. A reminder to remain resilient and resolute.
 
 ### Azadi by Arundhati Roy
 
@@ -56,8 +56,6 @@ I love her. I have loved everything I’ve ever read by her. This book includes 
 
 
 ## Animals
-
-Probably the least I’ve read on my usual schtick in 2 years.
 
 [Animal Biographies](https://ugapress.org/book/9780820362182/animal-biographies/) by Eric Baratay was recommended to me as a powerful example of how to write about animals and animal-human relations when I was working on my dissertation. Baratay writes about famous animals in history from the side of the animal. I love this book, ist’s so powerful. My [tutor wrote a review](https://humanimalia.org/article/view/16715/19527), if you want a sense of it and why it’s important.
 
