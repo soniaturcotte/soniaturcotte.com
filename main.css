@@ -22,7 +22,6 @@ body, h1, h2, h3, p, ul, li {
   line-height: 1.3;
   color: #181818;
   background: #F7F6F6;
-  counter-reset: sidenote-counter;
 }
 
 h2, p {
