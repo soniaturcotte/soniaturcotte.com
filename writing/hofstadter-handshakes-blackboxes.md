@@ -38,7 +38,7 @@ An acoustic coupler was a speaker device that could send and receive acoustic si
 
 ⸻
 
-Today, I am connected to fibre optic broadband, typing on a word-processor <label for="sn-modem" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-modem" class="margin-toggle"/><span class="sidenote">Google Docs for drafting, Visual Code Studio to put it online.</span> with seemingly unlimited formatting capabilities. When I choose, I publish it on the internet with a few clicks. Processes that used to take weeks and months take minutes.
+Today, I am connected to fibre optic broadband, typing on a word-processor <label for="sn-online-tools" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-online-tools" class="margin-toggle"/><span class="sidenote">Google Docs for drafting, Visual Code Studio to put it online.</span> with seemingly unlimited formatting capabilities. When I choose, I publish it on the internet with a few clicks. Processes that used to take weeks and months take minutes.
 
 I know next to nothing about how these things actually work.
 
