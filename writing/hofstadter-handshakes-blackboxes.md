@@ -1,5 +1,5 @@
 ---
-title: Hofstader, handshakes and black boxes
+title: Hofstadter, handshakes and black boxes
 description: From dial-up internet to Duet AI
 date: 2024-03-28
 tags:
