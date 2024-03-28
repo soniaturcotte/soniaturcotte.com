@@ -12,6 +12,7 @@
 
 body {
   margin: 0;
+  counter-reset: sidenote-counter;
 }
 
 body, h1, h2, h3, p, ul, li {
@@ -21,7 +22,6 @@ body, h1, h2, h3, p, ul, li {
   line-height: 1.3;
   color: #181818;
   background: #F7F6F6;
-  counter-reset: sidenote-counter;
 }
 
 h2, p {
@@ -237,9 +237,9 @@ figure {
 }
 
 .sidenote-number:after {
-    content: counter(sidenote-counter);
+    content: counter(sidenote-counter)  " ";
     font-size: 1rem;
-    top: -0.5rem;
+    top: -0.7rem;
     left: -0.2rem;
 }
 
@@ -290,8 +290,12 @@ label.sidenote-number {
     width: 90%;
     margin: 1rem 3%;
     padding-right: 25%;
-    vertical-align: baseline;
     position: relative;
+  }
+
+  .margin-toggle:checked + .sidenote:after,
+  .margin-toggle:checked + .marginnote:after {
+    vertical-align: baseline;
   }
 
   label {
