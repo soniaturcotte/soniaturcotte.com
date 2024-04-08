@@ -33,7 +33,7 @@ The prose was contrived, elaborate descriptors piled on top of each other. Also,
 
 Which is an entirely hypocritical position because I do not feel the same way about Patti Smith and her endless cups of black coffee in [M-Train](https://en.wikipedia.org/wiki/M_Train_(book)). (Or *Year of the Monkey*, which I [read last year](/writing/book-roundup-sept-dec-2023)). Perhaps it is because her complete nonchalance and willingness to drink all kinds of mud, including instant coffee, is effortlessly cool. Perhaps because black coffee is my drink, and so of course I think it is chic. 
 
-I am a little obsessed with Patti Smith memoirs <label for="sn-patti" class="margin-toggle sidenote-number"></label>
+I am a little obsessed with Patti Smith memoirs<label for="sn-patti" class="margin-toggle sidenote-number"></label>
   <input type="checkbox" id="sn-patti" class="margin-toggle"/>
   <span class="sidenote">I started with her B-side, but have finally bought Just Kids.</span>. Her work is so ephemeral and random, but makes me believe that creativity is possible.
 
