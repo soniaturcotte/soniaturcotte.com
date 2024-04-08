@@ -35,7 +35,7 @@ Which is an entirely hypocritical position because I do not feel the same way ab
 
 I am a little obsessed with Patti Smith memoirs <label for="sn-patti" class="margin-toggle sidenote-number"></label>
   <input type="checkbox" id="sn-patti" class="margin-toggle"/>
-  <span class="sidenote">I started with her B-side, but have finally bought Just Kids.</span>. Her work is so ephemeral and random, but they make me believe that creativity is possible.
+  <span class="sidenote">I started with her B-side, but have finally bought Just Kids.</span>. Her work is so ephemeral and random, but makes me believe that creativity is possible.
 
 
 ## The rest 
@@ -50,7 +50,8 @@ When I started East of Eden, I wondered if this was one of those racist books th
 
 I read [Breathe](https://www.harpercollins.com/products/breathe-joyce-carol-oates?variant=39727822831650) by Joyce Carol Oates because someone I respect said Oates is one of their favs. I hated it immensely, but respect this person possibly more than anyone in the world that I’m going to give her another try. Which of her books should I read? 
 
-I won’t talk about the trashy fantasy novels – the *The Locked Tomb trilogy* by Tamsyn Weir – that I hoovered them up the way one binges a shitty TV show, but with less shame. If lesbian necromancy in space sounds interesting to you, DM me.
+I won’t talk about the trashy fantasy novels – the *The Locked Tomb trilogy* by Tamsyn Weir – that I hoovered up the way one binges a shitty TV show, but with less shame. If lesbian necromancy in space sounds interesting to you, DM me.
 
-### Fin 
-That’s all for now. I remain, as always, earnestly keen to talk about books at all times. If you have read any of these and want to share your thoughts, I’d love to hear them. 
+### Fin
+
+That’s all for now. I remain, as always, keen to talk about books at all times. If you have read any of these and want to share your thoughts, I’d love to hear them. 
