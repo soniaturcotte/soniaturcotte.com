@@ -23,7 +23,7 @@ The writing isn’t great, which is a bit of a dealbreaker for whether or not I 
 
 I read [Pageboy](https://en.wikipedia.org/wiki/Pageboy_(memoir)) by Elliot Page because he’s trans. I was predisposed to read it generously, I wanted to like it. And I’m sorry but I just didn’t. There are descriptions of things that happened to Elliot which are so horrible and sad, and I feel a lot of sympathy for him as a person. But as a book it made Britney Spears seem like Shakespeare. These guys need to hire some ghostwriters. Or perhaps I am just not the audience for the celeb memoir. 
 
-In contrast, [On Writing](https://en.wikipedia.org/wiki/On_Writing%3A_A_Memoir_of_the_Craft) by Stephen King was just spectacular. They call him the king for a reason. I wish I could read his novels but I’m too lily-livered to handle horror. I enjoyed the memoir sections more than the ‘toolbox’ section. His main tip seems to be, start writing in the morning and don't stop until you get to 2,000 words.
+In contrast, [On Writing](https://en.wikipedia.org/wiki/On_Writing%3A_A_Memoir_of_the_Craft) by Stephen King was just spectacular. They call him the king for a reason. I wish I could read his novels but I’m too lily-livered to handle horror. I enjoyed the memoir sections more than the ‘toolbox’ section. His main tip seems to be, start writing in the morning and don’t stop until you get to 2,000 words. Babes, I would if I could.
 
 As a book about how to write, I did enjoy [A Memoir of My Former Self: A Life in Writing](https://app.thestorygraph.com/books/f34f619c-34ac-4977-88a7-ac341b64d711) by Hilary Mantel. It’s not ‘how to write’ from a craft perspective – for that I read the very boring [Writing Tools](https://app.thestorygraph.com/books/54c5bf76-c117-40f1-b95a-06f42ee79e24) – but Mantel makes you think about writing differently. I remember referencing it in class a lot. 
 
@@ -31,7 +31,7 @@ I picked up [Twelve Moons](https://harpercollins.co.uk/products/twelve-moons-a-y
 
 The prose was contrived, elaborate descriptors piled on top of each other. Also, making lots of tea is not a personality trait and does not need to feature so frequently. 
 
-Which is an entirely hypocritical position because I do not feel the same way about Patti Smith and her endless cups of black coffee in [M-Train](https://en.wikipedia.org/wiki/M_Train_(book)). (Or Year of the Monkey, which I [read last year](/writing/book-roundup-sept-dec-2023)). Perhaps it is because her complete nonchalance and willingness to drink all kinds of mud, including instant coffee, is effortless cool. Perhaps because black coffee is my drink, and so of course I think it is the chicest of drinks. 
+Which is an entirely hypocritical position because I do not feel the same way about Patti Smith and her endless cups of black coffee in [M-Train](https://en.wikipedia.org/wiki/M_Train_(book)). (Or *Year of the Monkey*, which I [read last year](/writing/book-roundup-sept-dec-2023)). Perhaps it is because her complete nonchalance and willingness to drink all kinds of mud, including instant coffee, is effortless cool. Perhaps because black coffee is my drink, and so of course I think it is the chicest of drinks. 
 
 I am a little obsessed with Patti Smith memoirs <label for="sn-patti" class="margin-toggle sidenote-number"></label>
   <input type="checkbox" id="sn-patti" class="margin-toggle"/>
