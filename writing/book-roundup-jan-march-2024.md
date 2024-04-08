@@ -7,7 +7,7 @@ tags:
   - reading
 ---
 
-Some thoughts on a few books, some of which I do not recommend and others I’m desperate to discuss with anyone and everyone. You can see the full list of what I’ve read this year on [The Storygraph](https://app.thestorygraph.com/books-read/soniaturcotte?year=2023).
+Some thoughts on a few books, some of which I do not recommend and others I’m desperate to discuss with anyone and everyone. You can see the full list of what I’ve read this year on [The Storygraph](https://app.thestorygraph.com/books-read/soniaturcotte?year=2024).
 
 ## The memoirs 
 
@@ -15,7 +15,7 @@ Q1 was memoir season. Somewhat coincidentally, though I was doing a writing cour
 
 I’m not sure why I started with 2 celebrity memoirs because I really don’t give much of a shit about celebrities in general. 
 
-Anyway, I read [The Woman in Me](https://www.britneybook.com/) because the free Britney movement was pretty cool. I also read it as a corrective to the misogyny of my youth, when listening to Britney was considered very not cool <label for="sn-teenagers-are-stupid" class="margin-toggle sidenote-number"></label>
+Anyway, I read [The Woman in Me](https://www.britneybook.com/) because the free Britney movement was pretty cool. I also read it as a corrective to the misogyny of my youth, when listening to Britney was considered very not cool<label for="sn-teenagers-are-stupid" class="margin-toggle sidenote-number"></label>
   <input type="checkbox" id="sn-teenagers-are-stupid" class="margin-toggle"/>
   <span class="sidenote">We listened to LinkinPark and Eminem and clearly had no taste.</span>. When I think of her, I am reminded how profoundly we are raised to hate women. It’s so 90s-feminist-thinkpiece to say now but it remains unfortunately true, cliche for a reason. The vitriol directed toward famous women is ubiquitous and boring. 
 
@@ -50,4 +50,7 @@ When I started East of Eden, I wondered if this was one of those racist books th
 
 I read [Breathe](https://www.harpercollins.com/products/breathe-joyce-carol-oates?variant=39727822831650) by Joyce Carol Oates because someone I respect said Oates is one of their favs. I hated it immensely, but respect this person possibly more than anyone in the world that I’m going to give her another try. Which of her books should I read? 
 
-I won’t talk about the trashy fantasy novels – the *The Locked Tomb trilogy* by Tamsyn Weir. If lesbian necromancy in space sounds interesting to you, DM me. I hoovered them up the way one binges a shitty TV show, but with less shame.
+I won’t talk about the trashy fantasy novels – the *The Locked Tomb trilogy* by Tamsyn Weir – that I hoovered them up the way one binges a shitty TV show, but with less shame. If lesbian necromancy in space sounds interesting to you, DM me.
+
+### Fin 
+That’s all for now. I remain, as always, earnestly keen to talk about books at all times. If you have read any of these and want to share your thoughts, I’d love to hear them. 
