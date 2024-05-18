@@ -171,9 +171,7 @@ Go touch some dirt, my friends.
 
 While your hands are dirty, the first thing to do is subscribe to [The Rot](https://therot.substack.com/) and/or [follow Cass on Instagram](https://www.instagram.com/p/C27jIGPODkF/). They have instuctions for all kinds of composting.
 
-[Soil is Sexy](https://soilissexy.substack.com/) is another good newsletter, though generally more technical<label for="sn-soilissexy" class="margin-toggle sidenote-number"></label>
-  <input type="checkbox" id="sn-soilissexy" class="margin-toggle"/>
-  <span class="sidenote">Which is to say, full of stuff I don’t understand.</span>. 
+[Soil is Sexy](https://soilissexy.substack.com/) is another good newsletter, though generally more technical. 
 
 Speaking of sexy, ultimate hot girl [SZA says](https://www.dazeddigital.com/music/article/62503/1/sza-quay-australia-sos-tour-interview-2024),
 
