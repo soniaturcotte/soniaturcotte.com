@@ -208,4 +208,4 @@ May we see a free Palestine within our lifetime.
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/28171283/original_b7168302836c4ce00ef499c4c6aa9f6d.jpg" alt="Abstract macro photo of green mould on orange organic material">
 </figure>
 
-Thanks to [Rod](https://holdfastprojects.com/), [Eliot](http://eliotfineberg.co.uk/) and Katherine for feedback on early versions of the talk, they made me better. Thanks to [Anna](http://annagoss.co/) for a year+ of exchanging compost updates and Marina for the title.
+Thanks to [Rod](https://holdfastprojects.com/), [Eliot](http://eliotfineberg.co.uk/) and Katherine for feedback on early versions of the talk, they made me better. Thanks to [Anna](http://annagoss.co/) for always exchanging compost updates and Marina for the title.
