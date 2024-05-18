@@ -8,7 +8,7 @@ tags:
 ---
 
 
-On Wendesday, I spoke at [Interesting](http://www.reasonablyinteresting.co.uk/), along with a bunch of other great people. Here’s what I said, plus some bonus material I couldn't fit in at the end. 
+On Wendesday, I spoke at [Interesting](http://www.reasonablyinteresting.co.uk/), along with a bunch of other great people. Here’s what I said, plus some bonus material I couldn’t fit in at the end. 
 
 <figure>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/28137070/original_a752c371da285983023c212d8407b5e9.png" alt="Macro photo of mold with light grey text that says becoming compost">
@@ -191,7 +191,7 @@ Another clever pal Ella wrote a stunning poem called [The Worm](https://brass-da
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/28171239/original_01326be5fefa1e1af97a45dffd0f3ae3.jpg" alt="Abstract macro photo of rotting food and growing mould">
 </figure>
 
-While I was writing this talk, I searched ’compost’ in my phone and found a screenshot I took of an article from before I started composting.
+While I was writing this talk, I searched ‘compost’ in my phone and found a screenshot I took of an article from before I started composting.
   
   [A Politics of Habitability](https://journal.culanth.org/index.php/ca/article/view/ca33.3.06/93) by Stacey Ann Langwick is a fantastic piece about plants, healing and toxicity in Tanzania. I recommend the whole thing, but here are some quotes from a section about composting.
 
@@ -207,3 +207,5 @@ May we see a free Palestine within our lifetime.
 <figure>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/28171283/original_b7168302836c4ce00ef499c4c6aa9f6d.jpg" alt="Abstract macro photo of green mould on orange organic material">
 </figure>
+
+Thanks to [Rod](https://holdfastprojects.com/), [Eliot](http://eliotfineberg.co.uk/) and Katherine for feedback on early versions of the talk, they made me better. Thanks to [Anna](http://annagoss.co/) for a year+ of exchanging compost updates and Marina for the title.
