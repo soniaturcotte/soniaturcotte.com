@@ -87,7 +87,7 @@ Over winter, everything started to slow down and my buckets were getting full so
 </figure>
 
 I’ve been composting for about a year and I’m constantly learning new things. Not least is patience. I want to mix it all the time and I want it to happen quickly. Compost does not happen quickly, it takes months or even years. 
-Recently I was away for a few weeks and when I came back it was smelling so amazing, I realised I had been mixing it too much. Even compost needs a break sometimes. 
+Recently I was away for a few weeks and when I came back it was smelling so amazing, I realised I had been mixing it too much.
 
 <figure>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/28138053/original_ea27a3d971f8f9da01aae3ed7200d38b.jpg" alt="Small trowel with a heap of compost in it">
