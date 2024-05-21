@@ -124,7 +124,9 @@ So, if you don’t compost and have been thinking about it, take this as a nudge
 - I’ve used the first batch of compost from last summer to refresh my outdoor planters, feeding veg this year. It feels like magick.  
 - You can also put it on indoor plants, or if you aren’t a plant person you could gift it to growers.
 
-And that’s to say nothing of reducing environmental impact of food waste.
+And that’s to say nothing of reducing environmental impact of food waste<label for="sn-food-waste" class="margin-toggle sidenote-number"></label>
+  <input type="checkbox" id="sn-food-waste" class="margin-toggle"/>
+  <span class="sidenote">Globally, ~931 million tonnes of food waste was generated in 2019 contributing an estimated 8-10% of greenhouse gas emissions. 61% of food waste is from households. [(UNEP report)](https://www.unep.org/resources/report/unep-food-waste-index-report-2021)</span>.
 
 <figure>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/28138218/original_3443bd878d28f8fdc4c8969d63fd9c08.jpg" alt="Top view of a big planter with 4 small tomato seedlings and some marigolds planted between">
