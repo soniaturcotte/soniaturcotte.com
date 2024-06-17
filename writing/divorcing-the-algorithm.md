@@ -19,13 +19,15 @@ It was time to go.
 
 I did a bit of investigating and [asking around](https://bsky.app/profile/soniaturcotte.bsky.social/post/3ksgw2hraok2h) and ended up with Tidal + radio. 
 
-Apparently, [Tidal pays musicians the most](https://faroutmagazine.co.uk/which-streaming-platform-pays-musicians-most/). I was part of a Spotify family plan, paying £5/month. Tidal costs £10/month, a small enough bump to be worth it. There is a transfer service and it was incredibly easy to port all my playlists over. There were only 2 songs it couldn’t find, a Punjabi tune and a niche Gill Scott-Heron song. A minor sacrifice. 
+Apparently, [Tidal pays musicians the most](https://faroutmagazine.co.uk/which-streaming-platform-pays-musicians-most/). I was paying £5/month as part of a Spotify family plan; Tidal costs £10/month, a small enough bump to be worth it. 
 
-Previously, I had got into the boring habit of relying on Spotify daylists and discover weekly for random listening. But over time, everything starts to sound the same. 
+Tidal works with a transfer service and it was incredibly easy to port all my playlists over. There were only 2 songs it couldn’t find, a Punjabi tune and a niche Gill Scott-Heron song. A minor sacrifice. 
 
-Many have written about the reliance on algorithms acting as a flattening of culture<label for="sn-flattening-culture" class="margin-toggle sidenote-number"></label>
+Previously, I had got into the lazy habit of relying on Spotify daylists and discover weekly for random listening. But over time, everything starts to sound the same. Many have written about the reliance on algorithms acting as a flattening of culture<label for="sn-flattening-culture" class="margin-toggle sidenote-number"></label>
 <input type="checkbox" id="sn-flattening-culture" class="margin-toggle"/>
-<span class="sidenote">For example, <a href="https://www.kylechayka.com/filterworld">Filterworld by Kyle Chayka</a></span>. You just get served more of what you already consume. 
+<span class="sidenote">For example, <a href="https://www.kylechayka.com/filterworld">Filterworld by Kyle Chayka</a></span>. You just get served more of what you already consume.
+
+Tidal has some generated playlists but it feels less central to the app, and I wanted to move away from them anyway. 
 
 In my asking around, someone recommended [Radio Paradise](https://radioparadise.com/). It’s free, there are no ads and they have a few different stations so you’ve got something for different moods. It has a skip button.
 
@@ -33,6 +35,6 @@ Now, when I don’t have a particular artist in mind, I put on the radio. It is 
 <input type="checkbox" id="sn-radio" class="margin-toggle"/>
 <span class="sidenote">I’ve started collecting <a href="https://www.windytan.com/2012/11/the-sound-of-dialup-pictured.html">cool indie radio stations</a>. Tell me your favs.</span>.
 
-It’s been about a month since I stopped using Spotify and I dig it. I’m listening better music and I get that nice smug feeling that comes from not using a shitty ubiquitous platform. 
+It’s been about a month since I stopped using Spotify and I can only recommend! I’m listening better, more varied music and I get that nice smug feeling that comes from not using a shitty ubiquitous platform. 
 
-I also have a get-out-of-jail-free card when Oasis comes on in the office. It’s the radio, Eliot.
+I also have a get-out-of-jail-free card when Oasis comes on in the office. It’s the radio, innit.
