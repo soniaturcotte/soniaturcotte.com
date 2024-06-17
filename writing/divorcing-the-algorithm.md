@@ -33,7 +33,7 @@ In my asking around, someone recommended [Radio Paradise](https://radioparadise.
 
 Now, when I don’t have a particular artist in mind, I put on the radio. It is a good antidote to algorithmic bore<label for="sn-radio" class="margin-toggle sidenote-number"></label>
 <input type="checkbox" id="sn-radio" class="margin-toggle"/>
-<span class="sidenote">I’ve started collecting <a href="https://www.windytan.com/2012/11/the-sound-of-dialup-pictured.html">cool indie radio stations</a>. Tell me your favs.</span>.
+<span class="sidenote">I’ve started collecting <a href="https://www.are.na/sonia-turcotte/music-liqzq7o6c">cool indie radio stations</a>. Tell me your favs.</span>.
 
 It’s been about a month since I stopped using Spotify and I can only recommend! I’m listening better, more varied music and I get that nice smug feeling that comes from not using a shitty ubiquitous platform. 
 
