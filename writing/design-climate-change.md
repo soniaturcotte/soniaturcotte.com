@@ -19,6 +19,7 @@ It’s going to take me a while to get around to actually doing the work because
 - [Victor’s](https://www.victorhwang.work/)  stunning, ecologically conscious website Mater. Read about it in [It’s Nice That](https://www.itsnicethat.com/articles/victor-hwang-mater-project-graphic-design-071122).
 - Websites like [Formafantasma](https://formafantasma.com/website). They make Times New Roman and Arial look good. 
 - [Low Tech Magazine](https://solar.lowtechmagazine.com/), which goes a step further and removes the font-family declaration altogether, along with a bunch of [other cool shit](https://solar.lowtechmagazine.com/about/the-solar-website/).
+- My [Are.na board](https://www.are.na/sonia-turcotte/carbon-aware-internet) for links, research and examples.
 
 I’m already running a static site through 11ty and don’t have any analytics, but the two new requirements of a redesign will be: 
 
