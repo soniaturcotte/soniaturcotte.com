@@ -9,7 +9,7 @@ tags:
 
 This website, my little hand-coded project, does not score very well on those [digital climate calculators](https://www.websitecarbon.com/). Mostly because of large images, and because I never learned how to serve smaller image sizes based on device.
 
-I’ve been thinking that I’m due a website refresh. It’s been a couple of years since this version came to being and aside from it’s carbon footprint, it also doesn’t reflect all the different things I get up to. 
+I’ve been thinking that I’m due a website refresh. It’s been a couple of years since this version came to being and aside from its carbon footprint, it also doesn’t reflect all the different things I get up to. 
 
 It’s going to take me a while to get around to actually doing the work because I’m in the middle of PhD applications and that already is a part-time job. But it will be a good winter project. If I say I'm going to do it in the wild (here), then I have to do it, right? 
 
