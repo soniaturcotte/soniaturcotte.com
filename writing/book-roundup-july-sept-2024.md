@@ -7,7 +7,7 @@ tags:
   - reading
 ---
 
-I felt like I hadn’t read much, but in fact I read 17 books! Here’s the notes on what stood out, full list on [The Storygraph](https://app.thestorygraph.com/books-read/soniaturcotte?year=2024).
+I felt like I hadn’t read much, but in fact I read 17 books this quarter. Here’s the notes on what stood out. Full list of what I’ve read this year on [The Storygraph](https://app.thestorygraph.com/books-read/soniaturcotte?year=2024).
 
 Most of these reviews come with a little amuse-bouche. Get a taste before committing to a full book. 
 
@@ -42,7 +42,7 @@ I’ve read several writing books this year and generally the tips are to write 
   <span class="sidenote">Difficult when your job isn’t writing.</span> 
 or just dreadfully boring<label for="sn-boring-tips" class="margin-toggle sidenote-number"></label>
   <input type="checkbox" id="sn-boring-tips" class="margin-toggle"/>
-  <span class="sidenote">300 pages of tools does not make good reading.</span>. This book managed to be both pleasant to read and useful beyond our [boy’s 2000 words a day](book-roundup-jan-march-2024). 
+  <span class="sidenote">Pages and pages of grammar tools does not make good reading.</span>. This book managed to be both pleasant to read and useful beyond our [boy’s 2000 words a day](book-roundup-jan-march-2024). 
 
 I’ve experimented with various writing practices, from Morning Pages and other kinds of daily journalling (didn’t stick), to trying to work through a list of ideas I want to write about (ended up being rather infrequent). 
 
