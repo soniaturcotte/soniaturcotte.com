@@ -38,7 +38,7 @@ We included the question for two reasons: So Sport England could gather data abo
 
 We tested audio and video responses in the pilot fund, because Sport England had a hypothesis that it would be useful for people who may not be as confident in written English, busy organisers and volunteers who don’t spend a lot of time at a computer, or people with access needs. 
 
-We went for a hybrid approach, because some questions need written answers (eg addresses). We provided an option for audio/video responses for the main, open questions. 
+We went for a hybrid approach, because some questions need written answers (eg addresses), but we provided an option for audio/video responses for the main, open questions. 
 
 It required a few creative hacks to work around Typeform’s constraints, but we managed to get a flow that worked for both types of applications. 
 
@@ -61,7 +61,7 @@ The best thing about this project was – as the best work always is – the peo
   <figcaption class="small-text">Many, many prototypes</figcaption>
 </figure>
 
-The ability to think and design and iterate together with another person, to where you don’t know where your work ends and theirs begins, is so great. Rod was a collaborator extraordinaire, thoughtful and smart. Also the wordsmith behind the [greatest report title](https://www.holdfastprojects.com/sport-england) of all time.
+The ability to think and design and iterate together with another person, to where you don’t know where your work ends and theirs begins, is so great. Rod was a collaborator extraordinaire, so thoughtful and smart. Also the wordsmith behind the [greatest report title](https://www.holdfastprojects.com/sport-england) of all time.
 
 Eliot and Anna ran the project with finesse, providing the wider vision and they had our backs so we could make something to be proud of. [Kim](https://www.linkedin.com/in/kim-morley-agilecoach/) kept us on track.
 
