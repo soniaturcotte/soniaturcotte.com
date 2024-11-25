@@ -18,7 +18,6 @@ Reducing inequality is core to Sport England’s 10 year strategy, and we wanted
 
 <figure>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/32499823/original_f459a5ae704a2c5beca8d14c6e7e8e30.jpg?1732548214?bc=0" alt="Form questions asking, Have you considered how to support participants to remain active in the longer term?, Have you considered accessibility?, How do you know what this community needs?">
-  <figcaption class="small-text">Typeform questions</figcaption>
 </figure>
 
 The assessment criteria was weighted towards projects from people with lived experience in the community.
@@ -36,7 +35,6 @@ One of the principles of designing good forms is to only include questions you a
 
 <figure>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/32499153/original_0bd9acb1b789767a8e6de54219ce8d75.png?1732546565?bc=0" alt="Typeform question: How will you take action on climate change?">
-  <figcaption class="small-text">Showing organisations that climate matters</figcaption>
 </figure>
 
 We included the question for two reasons: So Sport England could gather data about what’s already happening and better support organisations they work with to increase climate action, and to signal to applicants that climate change is important and is something they should be thinking about. 
@@ -47,9 +45,10 @@ We tested audio and video responses in the pilot fund, because Sport England had
 
 We went for a hybrid approach, because some questions need written answers (eg addresses). We provided an option for audio/video responses for the main, open questions. 
 
+It required a few creative hacks to work around Typeform’s constraints, but we managed to get a flow that worked for both types of applications. 
+
 <figure>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/32499152/original_8dfac69c051de4b7a2c082d0424bf82c.png?1732546563?bc=0" alt="Typeform question: How would you like to tell us about your idea? With options: Write answers; upload audio or video">
-  <figcaption class="small-text">It required a few creative hacks to work around Typeform’s constraints, but we managed to get a flow that worked for both types of applications. </figcaption>
 </figure>
 
 Out of the 36 orgs that submitted applications, only 4 of them used the audio/video route. But all of them were for organisations that want to reach disabled communities. 
