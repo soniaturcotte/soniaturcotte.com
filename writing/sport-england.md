@@ -1,5 +1,5 @@
 ---
-title: Build little versions of the future now 
+title: A future that moves
 description: Working with Sport England 
 date: 2024-11-26
 tags:
@@ -8,7 +8,7 @@ tags:
   - climate change 
 ---
 
-Last year, I worked with FF Studio on a pilot fund for Sport England. They have written a [great case study](https://www.ff.studio/projects/sport-england) about the work, you should start with that. 
+Last year, I worked with FF Studio on a new fund for Sport England. They have written a [great case study](https://www.ff.studio/projects/sport-england) about the work, you should start with that. 
 
 This post expands on some of the things I am particularly proud of.
 
@@ -72,4 +72,14 @@ The ability to think and design and iterate together with another person, to whe
 
 Eliot and Anna ran the project with finesse, providing the wider vision and having our backs so we could make something to be proud of. 
 
-It is rare to work on projects that truly prioritise equity, to do so with such a stellar team was a privilege. Doing good work, together. That’s the dream!
+It is rare to work on projects that truly prioritise equity, to do so with such a stellar team was a privilege. Doing good work, together. That’s the dream! 
+
+## Other places to read about this work
+
+[FF Studio case study](https://www.ff.studio/projects/sport-england), in which the pilot fund is only one part. 
+
+[Rod’s reflections](https://www.holdfastprojects.com/sport-england).
+
+[Eliot’s stream of consciousness](https://bsky.app/profile/eliotf.bsky.social/post/3l65ncojuen2m), where he calls me a generalist<label for="sn-generalist" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-generalist" class="margin-toggle"/><span class="sidenote">Jury’s out on this one.</span>.
+
+
