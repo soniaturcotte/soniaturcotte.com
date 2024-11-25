@@ -14,24 +14,19 @@ This post expands on some of the things I am particularly proud of.
 
 ## Nothing about them without them
 
-Reducing inequality is core to Sport England’s 10 year strategy, and we wanted to make sure the pilot fund took tangible steps towards that goal. We designed the assessment criteria and form questions to prioritise equity, including questions about about accessibility, long-term engagement and the community’s needs.
+Reducing inequality is core to Sport England’s [10 year strategy](https://www.sportengland.org/about-us/uniting-movement), and we wanted to make sure the pilot fund took tangible steps towards that goal. We designed the assessment criteria and form questions to prioritise equity, including questions about about accessibility, long-term engagement and the community’s needs.
 
 <figure>
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/32499823/original_f459a5ae704a2c5beca8d14c6e7e8e30.jpg?1732548214?bc=0" alt="Form questions asking, Have you considered how to support participants to remain active in the longer term?, Have you considered accessibility?, How do you know what this community needs?">
+  <img src="https://d2w9rnfcy7mm78.cloudfront.net/32507353/original_6d9c8c643d1d377f21ad260566639068.jpg?1732561610?bc=0" alt="Form questions asking, Have you considered how to support participants to remain active in the longer term?, Have you considered accessibility?, How do you know what this community needs?">
 </figure>
 
-The assessment criteria was weighted towards projects from people with lived experience in the community.
+The assessment criteria were weighted towards projects from people with lived experience in the community, who had considered accessibility and ongoing support.
 
-<figure>
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/32498283/original_3be435fe50dd5c4b6ad5ed927c36cdcb.jpg?1732543934?bc=0" alt="A group of people, some in wheelchairs and some walking, moving through the street. There is a sign that reads WE THE PEOPLE">
-  <figcaption class="small-text">A protest in 1987, photo by Jeff Reinking</figcaption>
-</figure>
-
-“Nothing about us without us” is a phrased popularised by disability justice activists but used widely to communicate that marginalised and oppressed people know best what they and their communities need.
+“Nothing about us without us” is a phrase popularised by disability justice activists but used widely to communicate that marginalised and oppressed people know best what they and their communities need.
 
 ## Every issue is a climate issue
 
-One of the principles of designing good forms is to only include questions you actually need answers for. We made an exception to that rule for a climate question, which was the only question that didn’t have a ranking.
+One of the principles of designing good forms is to only include questions you actually need answers for<label for="sn-data-hoover" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-data-hoover" class="margin-toggle"/><span class="sidenote">Being data greedy is uncool and uncouth.</span>. We made an exception to that rule for a climate question, which was the only question that didn’t have a ranking.
 
 <figure>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/32499153/original_0bd9acb1b789767a8e6de54219ce8d75.png?1732546565?bc=0" alt="Typeform question: How will you take action on climate change?">
@@ -51,33 +46,32 @@ It required a few creative hacks to work around Typeform’s constraints, but we
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/32499152/original_8dfac69c051de4b7a2c082d0424bf82c.png?1732546563?bc=0" alt="Typeform question: How would you like to tell us about your idea? With options: Write answers; upload audio or video">
 </figure>
 
-Out of the 36 orgs that submitted applications, only 4 of them used the audio/video route. But all of them were for organisations that want to reach disabled communities. 
+Out of the 36 orgs that submitted applications, only 4 of them used the audio/video option. But all of them were for organisations that wanted to reach disabled communities. 
 
-By common metrics of uptake or demand, prioritising audio and video submissions doesn’t make sense. It’s past time to start rethinking our the way we prioritise work.
+By common metrics of uptake or demand, prioritising audio and video submissions doesn’t make sense. But when you are designing for equity, the majority approach just doesn’t cut it. 
 
-This is something Clara and I talk about in our training course on power and equity in public services. In tech and product development, often the north star metric is quantity: the greatest number of users or the highest volume journeys. But when you are designing for equity, the majority approach just doesn’t cut it. 
+This is something [Clara](https://claragreo.com/) and I talk about in our [training course](https://docs.google.com/document/d/1kAlQ9hp3AwUjRV_ov6E2T2Ix28IAzdEH_ENbwW13pUk/). In tech and product development, often the north star metric is quantity: the greatest number of users or the highest volume journeys. It is past time to start rethinking our the way we prioritise work.
 
-## Team work makes the dream work
+## Teamwork makes the dream work
 
-The best thing about this project was, as the best work always is, the people. Rod and I were making a new prototype every couple days at the start, alongside the team at Sport England (big up Cassie and Sian).
+The best thing about this project was – as the best work always is – the people. Rod and I were making a new prototype every couple days at the start, alongside the team at Sport England (big up Cassie and Sian). 
 
 <figure>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/32499479/original_701001643816120c3963453a378e3aa8.jpg?1732547403?bc=0" alt="3 overlapping screenshots showing 2 prototypes in Google Forms and the Typeform dashboard with a bunch of different prototypes">
   <figcaption class="small-text">Many, many prototypes</figcaption>
 </figure>
 
-The ability to think and design and iterate together with another person, to where you don’t know where your work ends and theirs begins, is so great. Rod was a collaborator extraordinaire, thoughtful and smart and patient. Also the wordsmith behind the [greatest report title](https://www.holdfastprojects.com/sport-england) of all time.
+The ability to think and design and iterate together with another person, to where you don’t know where your work ends and theirs begins, is so great. Rod was a collaborator extraordinaire, thoughtful and smart. Also the wordsmith behind the [greatest report title](https://www.holdfastprojects.com/sport-england) of all time.
 
+Eliot and Anna ran the project with finesse, providing the wider vision and they had our backs so we could make something to be proud of. [Kim](https://www.linkedin.com/in/kim-morley-agilecoach/) kept us on track.
 
-Eliot and Anna ran the project with finesse, providing the wider vision and having our backs so we could make something to be proud of. 
-
-It is rare to work on projects that truly prioritise equity, to do so with such a stellar team was a privilege. Doing good work, together. That’s the dream! 
+It is rare to work on projects that properly prioritise equity, to do so with such a stellar team was a privilege. Doing good work, together. That’s the dream! 
 
 ## Other places to read about this work
 
 [FF Studio case study](https://www.ff.studio/projects/sport-england), in which the pilot fund is only one part. 
 
-[Rod’s reflections](https://www.holdfastprojects.com/sport-england).
+Rod says [let it rip](https://www.holdfastprojects.com/sport-england).
 
 [Eliot’s stream of consciousness](https://bsky.app/profile/eliotf.bsky.social/post/3l65ncojuen2m), where he calls me a generalist<label for="sn-generalist" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-generalist" class="margin-toggle"/><span class="sidenote">Jury’s out on this one.</span>.
 
