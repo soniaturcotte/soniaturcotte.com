@@ -10,7 +10,7 @@ tags:
 
 Last year, I worked with FF Studio on a new fund for Sport England. They have written a [great case study](https://www.ff.studio/projects/sport-england) about the work, you should start with that. 
 
-This post expands on some of the things I am particularly proud of.
+This post expands on some of the things I really liked about the project.
 
 ## Nothing about them without them
 
