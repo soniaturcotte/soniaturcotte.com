@@ -75,4 +75,6 @@ Rod says [let it rip](https://www.holdfastprojects.com/sport-england).
 
 [Eliot’s stream of consciousness](https://bsky.app/profile/eliotf.bsky.social/post/3l65ncojuen2m), where he calls me a generalist<label for="sn-generalist" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-generalist" class="margin-toggle"/><span class="sidenote">Jury’s out on this one.</span>.
 
+For the very detailed, [our project weeknotes](https://openfundingpilot.ff.studio/open-funding-pilot/)
+
 
