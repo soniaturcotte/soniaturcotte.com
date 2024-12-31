@@ -7,7 +7,7 @@ tags:
   - reading
 ---
 
-Final book round up for the year!  
+Final book round-up for the year!  
 
 I've been experimenting with format this year, from [longer-form narrative](/writing/book-roundup-jan-march-2024/) write ups, [author deepdives](/writing/book-roundup-april-june-2024/) and my classic [‘feeling’ lists](/writing/book-roundup-july-sept-2024/).
 
@@ -69,4 +69,4 @@ Suffers from its own cleverness. An experiment that fell flat, though one has to
 
 ## Intermezzo by Sally Rooney
 
-The way she writes about disability and neurodiversity is gross, and as a bonus we also have insufferable characters and lots of unpleasant, unsexy sex. Not chic to get het up about Rooney but this was disappointing.
+The way she writes about disability and neurodiversity is gross, and as a bonus, we also have insufferable characters and lots of unpleasant, unsexy sex. Not chic to get het up about Rooney but this was disappointing.
