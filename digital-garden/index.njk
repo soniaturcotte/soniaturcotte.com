@@ -2,26 +2,33 @@
 eleventyExcludeFromCollections: true
 layout: posts-index
 ---
-{# <h1>writing</h1> #}
+<div class="main grid">	
+    <div class="intro">
+      <p>A digital garden is a space for collecting and connecting nascent ideas, and sharing early thinking. My inaugural blog post and this entry about alternative digital spaces explain the ethos behind this space.</p>
 
-<ol reversed class="postlist" style="counter-reset: start-from {{ (postslistCounter or collections.posts.length) + 1 }}">
-{% for post in collections.posts | reverse %}
-	<li class="postlist-item{% if post.url == url %} postlist-item-active{% endif %}">
-		<p>
-      <time class="postlist-date" datetime="{{ post.date | htmlDateString }}"><span>
-      {{ post.date | readableDate("dd LLL yyyy") }}</span>
-      </time>
-    </p> 
-    <p> 
-      <a href="{{ post.url }}" class="postlist-link">
-      {% if post.data.title %}
-        {{ post.data.title }}
-      {% else %}
-        <code>{{ post.url }}</code>
-      {% endif %}
-      </a>
-    </p> 
-    {# <p>{{ post.data.description }}</p> #}
-	</li>
-{% endfor %}
-</ol>
+    </div>
+
+<div class="content">
+  <h2 class="small-text section-heading">all posts</h2>    
+  <ol reversed class="postlist" style="counter-reset: start-from {{ (postslistCounter or collections.posts.length) + 1 }}">
+  {% for post in collections.posts | reverse %}
+    <li class="postlist-item{% if post.url == url %} postlist-item-active{% endif %}">
+      <p>
+        <time class="postlist-date" datetime="{{ post.date | htmlDateString }}"><span>
+        {{ post.date | readableDate("dd LLL yyyy") }}</span>
+        </time>
+      </p> 
+      <p> 
+        <a href="{{ post.url }}" class="postlist-link">
+        {% if post.data.title %}
+          {{ post.data.title }}
+        {% else %}
+          <code>{{ post.url }}</code>
+        {% endif %}
+        </a>
+      </p> 
+      {# <p>{{ post.data.description }}</p> #}
+    </li>
+  {% endfor %}
+  </ol>
+</div>

@@ -68,4 +68,10 @@ module.exports = function (eleventyConfig) {
       (tag) => ['all', 'nav', 'post', 'posts'].indexOf(tag) === -1
     );
   });
+
+// collections
+  eleventyConfig.addCollection("posts", function (collectionAPI) {
+    return collectionAPI.getFilteredByGlob("./digital-garden/*.md"); 
+  });
 };
+

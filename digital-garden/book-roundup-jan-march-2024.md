@@ -31,7 +31,7 @@ I picked up [Twelve Moons](https://harpercollins.co.uk/products/twelve-moons-a-y
 
 The prose was contrived, elaborate descriptors piled on top of each other. Also, making lots of tea is not a personality trait and does not need to feature so frequently. 
 
-Which is an entirely hypocritical position because I do not feel the same way about Patti Smith and her endless cups of black coffee in [M-Train](https://en.wikipedia.org/wiki/M_Train_(book)). (Or *Year of the Monkey*, which I [read last year](/writing/book-roundup-sept-dec-2023)). Perhaps it is because her complete nonchalance and willingness to drink all kinds of mud, including instant coffee, is effortlessly cool. Perhaps because black coffee is my drink, and so of course I think it is chic. 
+Which is an entirely hypocritical position because I do not feel the same way about Patti Smith and her endless cups of black coffee in [M-Train](https://en.wikipedia.org/wiki/M_Train_(book)). (Or *Year of the Monkey*, which I [read last year](/digital-garden/book-roundup-sept-dec-2023)). Perhaps it is because her complete nonchalance and willingness to drink all kinds of mud, including instant coffee, is effortlessly cool. Perhaps because black coffee is my drink, and so of course I think it is chic. 
 
 I am a little obsessed with Patti Smith memoirs<label for="sn-patti" class="margin-toggle sidenote-number"></label>
   <input type="checkbox" id="sn-patti" class="margin-toggle"/>

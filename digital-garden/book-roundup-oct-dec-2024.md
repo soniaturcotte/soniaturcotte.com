@@ -9,7 +9,7 @@ tags:
 
 Final book round-up for the year!  
 
-I've been experimenting with format this year, from [longer-form narrative](/writing/book-roundup-jan-march-2024/) write ups, [author deepdives](/writing/book-roundup-april-june-2024/) and my classic [‘feeling’ lists](/writing/book-roundup-july-sept-2024/).
+I've been experimenting with format this year, from [longer-form narrative](/digital-garden/book-roundup-jan-march-2024/) write ups, [author deepdives](/digital-garden/book-roundup-april-june-2024/) and my classic [‘feeling’ lists](/digital-garden/book-roundup-july-sept-2024/).
 
 I’ve been debating whether to continue writing these. Does anyone read them? Because I can just write it in my journal, right? Anyway, if YOU are a person who reads them, lmk for next year. 
 
@@ -33,11 +33,11 @@ Set in the beginning of the Sri Lankan civil war. Beautifully written, riveting 
 
 ## The Wager: A Tale of Shipwreck, Mutiny and Murder by David Grann
 
-Astonishingly good storytelling, woven with delightful little nautical quips that have made it into common parlance. For example “takes a walk up Ladder-lane, and down Hemp-street.” I used to think history books were boring, how wrong I was<label for="sn-history-texts" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-history-texts" class="margin-toggle"/><span class="sidenote">See also, [The Black Jacobins](/writing/book-roundup-sept-dec-2023/)</span>. 
+Astonishingly good storytelling, woven with delightful little nautical quips that have made it into common parlance. For example “takes a walk up Ladder-lane, and down Hemp-street.” I used to think history books were boring, how wrong I was<label for="sn-history-texts" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-history-texts" class="margin-toggle"/><span class="sidenote">See also, [The Black Jacobins](/digital-garden/book-roundup-sept-dec-2023/)</span>. 
 
 ## The Winter of Our Discontent by John Steinbeck
 
-In this house, we stan Steinbeck. I didn’t love the characters as much as [East of Eden](/writing/book-roundup-jan-march-2024/) and it didn’t churn me up in the same way. But god can this man WRITE! 
+In this house, we stan Steinbeck. I didn’t love the characters as much as [East of Eden](/digital-garden/book-roundup-jan-march-2024/) and it didn’t churn me up in the same way. But god can this man WRITE! 
 
 ## The End We Start From by Megan Hunter
 

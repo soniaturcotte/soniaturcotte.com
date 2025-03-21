@@ -14,7 +14,7 @@ To quote the well-known [Caulfield talk](https://hapgood.us/2015/10/17/the-garde
 
 I had a newsletter originally, all the rage these days. But I was unhappy with Substack’s data tracking and the move to Buttondown never stuck – it was unbearably ugly and the impetus for a regular cadence felt too much after a while. 
 
-[Denise](https://walknotes.com/2023/05/20/15-19-may/) says, after Matt Ruby, that blogging is dead. Ah well. I like blogs. Every new post on the blogs I follow – [Denise](https://walknotes.com/), [Gemma](https://gemmacope.land/writing/), [Alice](https://alicebartlett.co.uk/blog/weaknotes), [Victor](https://victorhwang.co/) – is a little treat. Good company to be in, imo. 
+[Denise](https://walknotes.com/2023/05/20/15-19-may/) says, after Matt Ruby, that blogging is dead. Ah well. I like blogs. Every new post on the blogs I follow – [Denise](https://walknotes.com/), [Gemma](https://gemmacope.land/digital-garden/), [Alice](https://alicebartlett.co.uk/blog/weaknotes), [Victor](https://victorhwang.co/) – is a little treat. Good company to be in, imo. 
 
 And since this little garden doesn’t have any tracking, I will never know who, if anyone, is reading. Standard data practices have made creepy behaviour the norm and I am absolutely not here for it.
 

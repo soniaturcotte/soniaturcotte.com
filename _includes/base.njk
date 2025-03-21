@@ -1,3 +1,6 @@
+  <!-- hello 👋 welcome to my website 
+    this website is carbon aware. if you have any feedback or ideas of how it can be lighter, more accessible or better, email me @ sonia.turcotte@gmail.com -->
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -13,32 +16,38 @@
 </head>
 
 <body>
-  <div class="header">
-      <h1>
-        <a href="/">sonia turcotte</a>
-      </h1>
-      <ul>
-        <li><a href="/work">work</a></li>
-        <li><a href="#">play</a></li>
-        <li><a href="/digital-garden">digital garden</a></li>
-    </ul>
-  </div>
+  <div class="container">
+    <nav class="header grid">
+        <h1>
+          <a href="/">sonia turcotte</a>
+        </h1>
+        
+        <div id="navigation"> 
+          <ul>
+            <li><a href="/work">work</a></li>
+            <li><a href="#">play</a></li>
+            <li><a href="/digital-garden">digital garden</a></li>
+        </ul>
+        </div>
+    </nav>
 
 
-  {% block container %}
-    {{ content | safe }}
-  {% endblock %}
+    {% block container %}
+      {{ content | safe }}
+    {% endblock %}
 
-	<div class="footer">
-		<p>Designed and hand-coded to reduce climate impact. This site doesn’t collect any data or analytics</p>
-    
-    <div>
-    <ul>
-      <li><a href="https://www.are.na/sonia-turcotte/index">are.na</a></li>
-      <li><a href="https://github.com/soniaturcotte">github</a></li>
-      <li><a href="https://bsky.app/profile/soniaturcotte.bsky.social">github</a></li>
-    </ul>			
-  </div>
+	  <div class="footer grid small-text">
+		  <div class="credit">
+        <p>Designed and hand-coded to reduce climate impact. This site doesn’t collect any data or analytics.</p>
+      </div> 
+      
+      <ul class="social-links">
+        <li><a href="https://www.are.na/sonia-turcotte/index">are.na</a></li>
+        <li><a href="https://github.com/soniaturcotte">github</a></li>
+        <li><a href="https://bsky.app/profile/soniaturcotte.bsky.social">blusky</a></li>
+        <li><a href="https://www.linkedin.com/in/sonia-turcotte">linkedin</a></li>
+      </ul>	
+    </div>
   </div>
 </body>
 
