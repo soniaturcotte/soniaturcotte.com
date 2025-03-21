@@ -2,7 +2,6 @@
 <html lang="en">
 
 <head>
-
 	<title>{% if title %}{{ title }} - sonia turcotte{% else %} sonia turcotte {% endif %}</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -14,14 +13,33 @@
 </head>
 
 <body>
+  <div class="header">
+      <h1>
+        <a href="/">sonia turcotte</a>
+      </h1>
+      <ul>
+        <li><a href="/work">work</a></li>
+        <li><a href="#">play</a></li>
+        <li><a href="/digital-garden">digital garden</a></li>
+    </ul>
+  </div>
+
 
   {% block container %}
     {{ content | safe }}
   {% endblock %}
 
 	<div class="footer">
-		<p class="small-text">Handcoded and typeset in Questa. This site doesn’t collect any data or analytics.</p>
-	</div>
+		<p>Designed and hand-coded to reduce climate impact. This site doesn’t collect any data or analytics</p>
+    
+    <div>
+    <ul>
+      <li><a href="https://www.are.na/sonia-turcotte/index">are.na</a></li>
+      <li><a href="https://github.com/soniaturcotte">github</a></li>
+      <li><a href="https://bsky.app/profile/soniaturcotte.bsky.social">github</a></li>
+    </ul>			
+  </div>
+  </div>
 </body>
 
 </html>
