@@ -169,10 +169,6 @@ details[open] {
   background-color: #fdfdfd;
 }
 
-.work-item .title:hover {
-  color: #00F;
-}
-
 .date {
   grid-column: 1 / 3;
   justify-self: right;
@@ -202,6 +198,7 @@ details[open] {
 
 .description p {
   grid-column: 3 / 7;
+  padding-right: 1rem;
 }
 
 .description img {
@@ -213,8 +210,6 @@ img {
   height: auto;
   padding-top: 1.5rem;
 }
-
-
 
 
 /* Footer */
