@@ -315,8 +315,8 @@ details[open] {
 
 .work-credit {
   align-self: end;
-  padding-right: 1rem;
-  margin-bottom: 4px;
+  padding: 4rem 1rem 0 0;
+  margin-bottom: 6px;
 }
 
 img {
