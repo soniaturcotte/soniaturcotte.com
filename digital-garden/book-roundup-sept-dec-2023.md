@@ -9,7 +9,7 @@ tags:
   - free palestine
 ---
 
-The most memorable books from the last few months. You can read the [previous](/writing/book-roundup-jan-may-2023) [round-ups](/writing/book-roundup-june-aug-2023) or see the [full list](https://app.thestorygraph.com/books-read/soniaturcotte?year=2023) of what I’ve read this year. 
+The most memorable books from the last few months. You can read the [previous](/digital-garden/book-roundup-jan-may-2023) [round-ups](/digital-garden/book-roundup-june-aug-2023) or see the [full list](https://app.thestorygraph.com/books-read/soniaturcotte?year=2023) of what I’ve read this year. 
 
 This one’s a doozy, I read 40 books over this period.
 

@@ -183,9 +183,9 @@ That [climate meme account](https://www.instagram.com/p/C6eAFGTIgqw/?img_index=3
 
 > soil is the new mushroom obsession
 
-My clever pal Gemma wrote about [archive as compost](https://gemmacope.land/writing/give-it-all-away-and-compost-the-rest/) and other non-literal composting ideas. Gemma collects all kinds of composting things on [Arena](https://www.are.na/gemma-copeland/this-compost).   
+My clever pal Gemma wrote about [archive as compost](https://gemmacope.land/digital-garden/give-it-all-away-and-compost-the-rest/) and other non-literal composting ideas. Gemma collects all kinds of composting things on [Arena](https://www.are.na/gemma-copeland/this-compost).   
 
-Another clever pal Ella wrote a stunning poem called [The Worm](https://brass-dandelion-nrdr.squarespace.com/writing). Part of the journey of rehabilitating my relationship with worms,
+Another clever pal Ella wrote a stunning poem called [The Worm](https://brass-dandelion-nrdr.squarespace.com/digital-garden). Part of the journey of rehabilitating my relationship with worms,
 
 > Wriggling is wrong. It does not wriggle. It undulates. 
 
