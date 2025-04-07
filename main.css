@@ -332,12 +332,13 @@ img {
 /* Footer */
 
 .footer { 
-  margin-top: 12vw; 
+  margin-top: 12vw;
+  padding-top: .5rem;
 }
 
 .social-links {
   grid-column: 1 / 3;
-  display: inline;
+  display: grid;
 }
 
 .credit {
@@ -375,7 +376,6 @@ img {
   text-decoration-thickness: 1px;
   text-underline-offset: 2px;
 }
-
 
 
 /* viewport sizing  */
