@@ -16,10 +16,12 @@ layout: posts-index
         </li>
         </li>
       </ol>
+
+      <h2 class="small-text section-heading">all posts</h2>    
     </div>
 
-<div class="wide">
-  <h2 class="small-text section-heading">all posts</h2>    
+<div class="content">
+  
   <ol reversed class="postlist" style="counter-reset: start-from {{ (postslistCounter or collections.posts.length) + 1 }}">
   {% for post in collections.posts | reverse %}
     <li class="postlist-item{% if post.url == url %} postlist-item-active{% endif %}">

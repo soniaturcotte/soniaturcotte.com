@@ -138,15 +138,16 @@ ol li {
 
 /* Digital Garden */
 
-.postlist-item {
+.postlist-item  {
   display: grid;
   grid-template-columns: 1fr 3fr;
   gap: 1rem;
+  grid-template-rows: auto;
 }
 
 .postlist-item li, p {
   margin-bottom: 0;
-  padding-bottom: 0
+  padding-bottom: 0;
 }
 
 .post-content {
@@ -325,7 +326,7 @@ details[open] {
 
 .work-credit {
   align-self: end;
-  padding: 4rem 1rem 0 0;
+  padding: 1rem 1rem 0 0;
   margin-bottom: 6px;
 }
 
@@ -518,6 +519,16 @@ img {
  }
 
 @media screen and (max-width: 675px) {
+  .description {
+    grid-column: 4 / 13;
+    padding-right: 1rem;
+  }
+
+  .work-img {
+    grid-column: 4 / 13;
+    padding-top: 0;
+  }
+  
   .postlist-item {
     display: block;
     margin-bottom: 1rem;
