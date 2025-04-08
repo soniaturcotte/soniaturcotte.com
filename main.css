@@ -409,7 +409,7 @@ img {
 }
 
 @media screen and (max-width: 975px) {
-  .intro, .post-content, .content, .credit{
+  .intro, .post-content, .content {
     grid-column: 3 / 11;
   }
 
@@ -433,6 +433,10 @@ img {
 
   .title {
     grid-column: 4 / 9;
+  }
+
+  .title-play {
+    grid-column: 4 / 11;
   }
 
   .org {
@@ -497,6 +501,10 @@ img {
   label {
     cursor: pointer;
   }
+
+  .credit {
+    grid-column: 4 / 12;
+  }
 }
  
 @media screen and (max-width: 860px) {
@@ -558,7 +566,7 @@ img {
     text-align: left;
   }
 
-  .title {
+  .title, .title-play {
     grid-column: 1 / 7;
   }
 
