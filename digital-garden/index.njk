@@ -18,7 +18,7 @@ layout: posts-index
       </ol>
     </div>
 
-<div class="content">
+<div class="wide">
   <h2 class="small-text section-heading">all posts</h2>    
   <ol reversed class="postlist" style="counter-reset: start-from {{ (postslistCounter or collections.posts.length) + 1 }}">
   {% for post in collections.posts | reverse %}

@@ -267,6 +267,10 @@ label.sidenote-number {
   grid-template-rows: auto;
 }
 
+.work-item::-webkit-details-marker {
+  display: none;
+}
+
 details {
   border-bottom: 1px solid #bfbfbf;
   padding: 1rem 0;
