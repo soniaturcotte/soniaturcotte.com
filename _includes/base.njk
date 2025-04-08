@@ -30,9 +30,9 @@
         
         <div id="navigation"> 
           <ul>
-            <li><a href="/work">work</a></li>
-            <li><a href="/play">play</a></li>
-            <li><a href="/digital-garden">digital garden</a></li>
+            <li><a class="{% if page.url === '/work' %}bold{% endif %}" href="/work">work</a></li>
+            <li><a class="{% if page.url === '/play' %}bold{% endif %}" href="/play">play</a></li>
+            <li><a class="{% if page.url === '/digital-garden' %}bold{% endif %}" href="/digital-garden">digital garden</a></li>
         </ul>
         </div>
     </nav>
