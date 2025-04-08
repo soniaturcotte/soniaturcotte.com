@@ -486,7 +486,7 @@ img {
     margin: 1rem 0% 2rem 1%;
     padding-right: 25%;
     position: relative;
-    font-size: 70%;
+    font-size: 75%;
   }
 
   .margin-toggle:checked + .sidenote:after,
@@ -501,7 +501,7 @@ img {
  
 @media screen and (max-width: 860px) {
   body, h1 {
-    font-size: 1.2rem
+    font-size: 1.25rem
   }
 
   .small-text {
