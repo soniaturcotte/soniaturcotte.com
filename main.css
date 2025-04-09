@@ -642,6 +642,7 @@ img {
   .work-item {
     grid-template-columns: repeat(6, [col-start] 1fr);
     align-items: baseline;
+    row-gap: .25rem;
   }
 
   .date {
