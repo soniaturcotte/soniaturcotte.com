@@ -57,9 +57,13 @@ I love her. I have loved everything I’ve ever read by her. This book includes 
 
 ## Animals
 
-[Animal Biographies](https://ugapress.org/book/9780820362182/animal-biographies/) by Eric Baratay was recommended to me as a powerful example of how to write about animals and animal-human relations when I was working on my dissertation. Baratay writes about famous animals in history from the side of the animal. I love this book, ist’s so powerful. My [tutor wrote a review](https://humanimalia.org/article/view/16715/19527), if you want a sense of it and why it’s important.
+### [Animal Biographies](https://ugapress.org/book/9780820362182/animal-biographies/) by Eric Baratay
 
-[No Meat Required](https://alicia-kennedy.com/books) by Alicia Kennedy is very US-focused, but Kennedy's writing on vegan abundance resonates with me a lot. I appreciate the nuance and expansiveness of her politics, which provides the necessary balance to a lot of more rigid animal rights literature I read. Like all of her work, including her excellent newsletter, it is well-researched and written in a very accessible way. 
+Recommended to me as a powerful example of how to write about animals and animal-human relations when I was working on my dissertation. Baratay writes about famous animals in history from the side of the animal. I love this book, ist’s so powerful. My [tutor wrote a review](https://humanimalia.org/article/view/16715/19527), if you want a sense of it and why it’s important.
+
+### [No Meat Required](https://alicia-kennedy.com/books) by Alicia Kennedy 
+
+Though very US-focused, Kennedy's writing on vegan abundance resonates with me a lot. I appreciate the nuance and expansiveness of her politics, which provides the necessary balance to a lot of more rigid animal rights literature I read. Like all of her work, including her excellent newsletter, it is well-researched and written in a very accessible way. 
 
 ## One liners for the rest
 

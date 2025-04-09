@@ -11,7 +11,7 @@ I felt like I hadn’t read much, but in fact I read 17 books this quarter. Here
 
 Most of these reviews come with a little amuse-bouche. Get a taste before committing to a full book. 
 
-## Ordinary Notes by Christina Sharpe
+### Ordinary Notes by Christina Sharpe
 
 Astonishingly powerful and terribly sad. I often choked up while reading it. It was my morning slow-read text, the short note format suits that kind of reading. Beautifully written and paced, with – alongside black thought – reflections of family, friendship, self. I highly recommend. 
 
@@ -21,7 +21,7 @@ I’m grateful to read a book that starts to unstitch the ideologies of racism a
 
 [This essay](https://yalereview.org/article/christina-sharpe-shapes-of-grief) is equally stunning and heart-wrenching.
 
-## The Surrounds: Urban Life within and beyond Capture by AbdouMaliq Simone
+### The Surrounds: Urban Life within and beyond Capture by AbdouMaliq Simone
 
 I don’t read that much within urban studies, so this was a bit of work. But sometimes the work is worth it, and this is definitely one of those times. Simone’s ideas are very powerful and I have been thinking about this regularly since reading it. The chapter ‘Forgetting Being Forgotten’ is incredible and the ethnographic snippets throughout the book are so good.
 

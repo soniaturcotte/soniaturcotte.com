@@ -172,12 +172,32 @@ ol li {
   margin-top: 1.75rem;
 }
 
-.post-content h2, h3{
+.post-content h2 {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 60%;
   font-weight: 400;
   text-transform: uppercase;
   margin-top: 4rem;
+}
+
+.post-content h3 {
+  font-family: Times,"Times New Roman",serif;
+  font-weight: 400;
+  font-size: 1.5rem;
+  margin: 4rem 0 0 0;
+  color: #766F6F; 
+}
+
+.post-content h2 + h3 { 
+  margin-top: 2rem;
+}
+
+.post-content h3 + p { 
+  margin-top: .5rem;
+}
+
+.post-content h3 a, .sidenote a {
+  color: #766F6F;
 }
 
 .post-content .backlink {
@@ -284,6 +304,7 @@ label.sidenote-number {
   grid-template-columns: repeat(10, [col-start] 1fr);
   gap: 1rem;
   grid-template-rows: auto;
+  padding: 1rem 0;
 }
 
 .work-item::-webkit-details-marker {
@@ -292,7 +313,7 @@ label.sidenote-number {
 
 details {
   border-bottom: 1px solid #bfbfbf;
-  padding: 1rem 0;
+  cursor: pointer;
 }
 
 details:hover {
@@ -315,11 +336,15 @@ details[open] {
 }
 
 .org {
-  grid-column: 7 / 9;
+  grid-column: 7 / 10;
+  color: #766F6F;
 }
 
 .category {
-  grid-column: 9 / 11;
+  grid-column: 10 / 11;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 60%;
+  font-weight: 400;
 }
 
 .row-detail {
@@ -468,6 +493,7 @@ img {
 
   .work-item {
     grid-template-columns: repeat(12, [col-start] 1fr);
+    align-items: baseline;
   }
 
   .row-detail {
@@ -531,12 +557,32 @@ img {
     font-size: 1.25rem
   }
 
-  .small-text {
+  .small-text, .category {
+    font-size: 70%;
+  }
+
+  .category {
+    align-self: center;
+  }
+
+  .post-content h2, h3 {
     font-size: 70%;
   }
  }
 
-@media screen and (max-width: 675px) {
+ @media screen and (max-width: 700px) {
+  .category {
+    display: none;
+  }
+
+  .title {
+    grid-column: 4 / 9;
+  }
+
+  .org {
+    grid-column: 9 / 13;
+  }
+
   .description {
     grid-column: 4 / 13;
     padding-right: 1rem;
@@ -546,6 +592,11 @@ img {
     grid-column: 4 / 13;
     padding-top: 0;
   }
+
+ }
+
+@media screen and (max-width: 675px) {
+
   
   .postlist-item {
     display: block;
@@ -587,6 +638,7 @@ img {
   .work-item {
     grid-template-columns: repeat(6, [col-start] 1fr);
     row-gap: .25rem;
+    align-items: baseline;
   }
 
   .date {
@@ -601,11 +653,6 @@ img {
 
   .org {
     grid-column: 1 / 7;
-    color: #766F6F ;
-  }
-
-  .category {
-    display: none
   }
 
   .row-detail {

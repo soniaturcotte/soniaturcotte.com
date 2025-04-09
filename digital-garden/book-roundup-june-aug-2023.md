@@ -16,15 +16,17 @@ I often forget that farming practices aren’t common knowledge, which is ironic
 
 So here are some texts I’ve read recently. There are, of course, many more and I’m always up for giving personalised recommendations if you want.
 
-But let’s get on with it. Animals first, then a few others.
+But let’s get on with it. 
 
-## [The Cow with Ear Tag #1389](https://press.uchicago.edu/ucp/books/book/chicago/C/bo28907793.html) by Kathryn Gillespie
+## Animals
+
+### [The Cow with Ear Tag #1389](https://press.uchicago.edu/ucp/books/book/chicago/C/bo28907793.html) by Kathryn Gillespie
 
 Gillespie provides an in-depth account of the dairy industry in the US. I can tell you from reading UK-based work like [Nimmo’s book about milk](https://www.routledge.com/Milk-Modernity-and-the-Making-of-the-Human-Purifying-the-Social/Nimmo/p/book/9780415817141) and [Food and Animal Welfare](https://www.bloomsbury.com/uk/food-and-animal-welfare-9780857856944/), it’s not that different here. An interesting insight I took from this book is that even smaller, family-owned farms end up adopting intensive farming practices just to keep up with factory farm profitability. 
 
 If you can’t be bothered to read a whole book, this [1 min video from rapper JME](https://www.instagram.com/reel/Cv-evnKAsql/?igshid=MzRlODBiNWFlZA==) (Insta link) sums it up pretty well. Also, [this film by Andrea Arnold](https://www.cow.movie/), in which I wept non-stop for 80 minutes in the ICA cinema. 
 
-## [Every Twelve Seconds: Industrialized Slaughter and the Politics of Sight](https://yalebooks.yale.edu/book/9780300192483/every-twelve-seconds/) by Timothy Pachirat 
+### [Every Twelve Seconds: Industrialized Slaughter and the Politics of Sight](https://yalebooks.yale.edu/book/9780300192483/every-twelve-seconds/) by Timothy Pachirat 
 
 Another ethnography, Pachirat gets a job at a slaughterhouse and writes about the three jobs he has while working there. The book isn’t vegan propaganda or a value judgment about eating animals, it’s just a description of what goes on. 
 
@@ -55,20 +57,21 @@ It reminds me of the 22-year-old cows at my research site, who I am low-key in l
 
 
 
+## A few others 
 
-## [Space Crone](https://silverpress.org/products/space-crone-by-ursula-k-le-guin) by Ursula K. Le Guin
+### [Space Crone](https://silverpress.org/products/space-crone-by-ursula-k-le-guin) by Ursula K. Le Guin
 
 A collection of short stories, essays and talks. I had very high expectations for this, slightly dashed by the fact that I had already read several of the stories in other books earlier this year. That, and I’m not totally convinced that a talk transcript makes for a good essay. 
 
 Nevertheless, I enjoyed quite a few of the essays and the excerpt from [Always Coming Home](https://en.wikipedia.org/wiki/Always_Coming_Home) prompted me to buy the book last weekend. 
 
-## [Rememberings](https://en.wikipedia.org/wiki/Rememberings) by Sinéad O'Connor 
+### [Rememberings](https://en.wikipedia.org/wiki/Rememberings) by Sinéad O'Connor 
 
 There are very few times I think an audiobook provides a better experience than reading a physical copy. One of them is when the author is also the narrator (for example, Arundhati Roy reading The Ministry of Utmost Happiness). 
 
 Listening to Sinéad read this was very special. Her death hit me harder than I expected. Listening to her say she’s looking forward to growing old, a few days after she died, was a gut punch. Her story is harrowing, but she is also extremely funny. This [feature on her music](https://www.nybooks.com/online/2023/08/05/incomparable-sinead-oconnor/) is also great.
 
-## Three novels 
+### Three novels 
 
 If the fiction theme that stood out in the last roundup was magick, this time it’s historical fiction. These three were audiobooks I randomly found on Libby. Love a library for some serendipitous finds.
 
