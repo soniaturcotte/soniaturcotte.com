@@ -554,16 +554,12 @@ img {
 }
  
 @media screen and (max-width: 860px) {
-  body, h1 {
+  body, h1, .post-content h3 {
     font-size: 1.25rem
   }
 
   .small-text, .category {
     font-size: 70%;
-  }
-
-  .category {
-    align-self: center;
   }
 
   .post-content h2, h3 {
