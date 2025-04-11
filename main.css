@@ -125,6 +125,10 @@ ol li {
   padding: 0;  
 }
 
+#navigation .active-nav {
+  color: #222;
+}
+
 /* Main content */
 
 .intro {
