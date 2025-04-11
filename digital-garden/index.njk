@@ -1,0 +1,45 @@
+---
+eleventyExcludeFromCollections: true
+layout: posts-index
+---
+<div class="main grid">	
+    <div class="intro">
+      <h1 class="visuallyhidden">digital garden</h1>
+      <p>Somewhere between a blog and a journal, this digital garden is a place to think and learn through writing and share early ideas.</p>
+      
+      <h2 class="small-text section-heading">elsewhere</h2>    
+      <ol> 
+        <li>
+          <a href="https://www.are.na/sonia-turcotte/index">are.na</a><br> <span class="grey">collecting and connecting ideas (my external brain)</span>
+        <li>
+          <a href="https://collecting.montaigne.io/">montaigne</a><br> 
+          <span class="grey">a microwebsite of good sentences and paragraphs</span>
+        </li>
+        </li>
+      </ol>
+    </div>
+
+<div class="content">
+  <h2 class="small-text section-heading">all posts</h2>    
+  <ol reversed class="postlist" style="counter-reset: start-from {{ (postslistCounter or collections.posts.length) + 1 }}">
+  {% for post in collections.posts | reverse %}
+    <li class="postlist-item{% if post.url == url %} postlist-item-active{% endif %}">
+      <p>
+        <time class="postlist-date" datetime="{{ post.date | htmlDateString }}"><span>
+        {{ post.date | readableDate("dd LLL yyyy") }}</span>
+        </time>
+      </p> 
+      <p> 
+        <a href="{{ post.url }}" class="postlist-link">
+        {% if post.data.title %}
+          {{ post.data.title }}
+        {% else %}
+          <code>{{ post.url }}</code>
+        {% endif %}
+        </a>
+      </p> 
+      {# <p>{{ post.data.description }}</p> #}
+    </li>
+  {% endfor %}
+  </ol>
+</div>

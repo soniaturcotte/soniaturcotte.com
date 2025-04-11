@@ -1,22 +1,18 @@
 {% extends "./base.njk" %}
 
 {% block container %}
-<div class="header">
-    <h1>
-      <a href="/">sonia turcotte</a> 
-      <div class="writing-nav"><a href="/writing">writing</a></div>
-    </h1>
-</div>
+
 
 <main>
-  <div class="post-content">
-    <h1 class="small-text">
+  <div class="main grid">
+    <h1 class="intro small-text post-title">
       {{date | readableDate("dd LLL yyyy")}} – <span class="post-title">{{title}}</span>
     </h1>
-    {{ content | safe }}
+    <div class="post-content">{{ content | safe }}
+      <p class="small-text backlink"><a href="/digital-garden">‹ back to all posts</a></p>
+    </div>
+    
   </div> 
-  <p class="small-text backlink">< <a href="/writing">Back to writing</a></p>
-
 </main>
 
 {% endblock %}

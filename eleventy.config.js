@@ -8,8 +8,8 @@ const pluginNavigation = require('@11ty/eleventy-navigation');
 const { EleventyHtmlBasePlugin } = require('@11ty/eleventy');
 
 module.exports = function (eleventyConfig) {
+  
   // Output directory: _site
-
   eleventyConfig.addPassthroughCopy('images');
   eleventyConfig.addPassthroughCopy('fonts');
   eleventyConfig.addPassthroughCopy('main.css');
@@ -68,4 +68,10 @@ module.exports = function (eleventyConfig) {
       (tag) => ['all', 'nav', 'post', 'posts'].indexOf(tag) === -1
     );
   });
+
+// collections
+  eleventyConfig.addCollection("posts", function (collectionAPI) {
+    return collectionAPI.getFilteredByGlob("./digital-garden/*.md"); 
+  });
 };
+
