@@ -22,6 +22,28 @@ body {
   margin: auto;
 }
 
+.gradient-background {
+  background: linear-gradient(45deg,#f0e5ff,#daf8ff,#fdffea,#ffecf8,#eef3ff);
+  background-size: 300% 300%;
+  animation: gradient-animation 15s ease infinite;
+}
+
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.end-matter {
+  margin-top: 12vw;
+}
+
 .small-text {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 60%;
@@ -621,6 +643,14 @@ img {
     column-gap: 1rem;
     row-gap: .25rem;
     grid-template-rows: auto;
+  }
+
+  .special-projects { 
+    margin-top: 0;
+  }
+
+  .special-projects h1{ 
+    margin-top: .5rem;
   }
 
   .intro, .post-content, .content, .wide {
