@@ -17,7 +17,7 @@ This post expands on some of the things I really liked about the project.
 Reducing inequality is core to Sport England’s [10 year strategy](https://www.sportengland.org/about-us/uniting-movement), and we wanted to make sure the pilot fund took tangible steps towards that goal. We designed the assessment criteria and form questions to prioritise equity, including questions about about accessibility, long-term engagement and the community’s needs.
 
 <figure>
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/32507353/original_6d9c8c643d1d377f21ad260566639068.jpg?1732561610?bc=0" alt="Form questions asking, Have you considered how to support participants to remain active in the longer term?, Have you considered accessibility?, How do you know what this community needs?">
+  <img loading="lazy" src="/images/digital-garden/questions-2.webp" alt="Form questions asking, Have you considered how to support participants to remain active in the longer term?, Have you considered accessibility?, How do you know what this community needs?">
 </figure>
 
 The assessment criteria were weighted towards projects from people with lived experience in the community, who had considered accessibility and ongoing support.
@@ -29,7 +29,7 @@ The assessment criteria were weighted towards projects from people with lived ex
 One of the principles of designing good forms is to only include questions you actually need answers for<label for="sn-data-hoover" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-data-hoover" class="margin-toggle"/><span class="sidenote">Being data greedy is uncool and uncouth.</span>. We made an exception to that rule for a climate question, which was the only question that didn’t have a ranking.
 
 <figure>
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/32499153/original_0bd9acb1b789767a8e6de54219ce8d75.png?1732546565?bc=0" alt="Typeform question: How will you take action on climate change?">
+  <img loading="lazy" src="/images/digital-garden/climate-question.webp" alt="Typeform question: How will you take action on climate change?">
 </figure>
 
 We included the question for two reasons: So Sport England could gather data about what’s already happening and better support organisations they work with to increase climate action, and to signal to applicants that climate change is important and is something they should be thinking about. 
@@ -43,7 +43,7 @@ We went for a hybrid approach, because some questions need written answers (eg a
 It required a few creative hacks to work around Typeform’s constraints, but we managed to get a flow that worked for both types of applications. 
 
 <figure>
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/32499152/original_8dfac69c051de4b7a2c082d0424bf82c.png?1732546563?bc=0" alt="Typeform question: How would you like to tell us about your idea? With options: Write answers; upload audio or video">
+  <img loading="lazy" src="/images/digital-garden/audio-video.webp" alt="Typeform question: How would you like to tell us about your idea? With options: Write answers; upload audio or video">
 </figure>
 
 Out of the 36 orgs that submitted applications, only 4 of them used the audio/video option. But all of them were for organisations that wanted to reach disabled communities. 
@@ -57,7 +57,7 @@ This is something [Clara](https://claragreo.com/) and I talk about in our [train
 The best thing about this project was – as the best work always is – the people. Rod and I were making a new prototype every couple days at the start, alongside the team at Sport England (big up Cassie and Sian). 
 
 <figure>
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/32499479/original_701001643816120c3963453a378e3aa8.jpg?1732547403?bc=0" alt="3 overlapping screenshots showing 2 prototypes in Google Forms and the Typeform dashboard with a bunch of different prototypes">
+  <img loading="lazy" src="/images/digital-garden/prototyping-2.webp" alt="3 overlapping screenshots showing 2 prototypes in Google Forms and the Typeform dashboard with a bunch of different prototypes">
   <figcaption class="small-text">Many, many prototypes</figcaption>
 </figure>
 

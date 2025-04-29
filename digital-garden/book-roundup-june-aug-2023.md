@@ -51,7 +51,7 @@ The images of old farmed animals are beautiful and emotional. How rarely we see 
 It reminds me of the 22-year-old cows at my research site, who I am low-key in love with. 
 
 <figure>
-  <img src="https://images.squarespace-cdn.com/content/v1/5cb9e71665019fd944cd6b5b/1555689875698-S9K6XLXBJDUJ9JRJCVYS/Leshko_Abe_Optimized.jpg?format=1500w" alt="Black and white profile portrait of a white goat">
+  <img loading="lazy" src="/images/digital-garden/Leshko_Abe.webp" alt="Black and white profile portrait of a white goat">
   <figcaption class="small-text">Abe, Alpine goat, age 21. Courtesy of Isa Leshko</figcaption>
 </figure>
 
@@ -79,4 +79,4 @@ If the fiction theme that stood out in the last roundup was magick, this time it
 
 [Black Butterflies](https://app.thestorygraph.com/books/0312f245-4f12-4011-9ac4-a0caea8bf6d5) by Priscilla Morris traces the story of an artist who is stuck in Sarajevo in spring 1992, without her family. But she is not alone, for it is a story about finding and making community. I never feel like I know enough of any histories, the Sarajevo siege is no exception, and so found it very compelling to read alongside an open Wikipedia tab.
 
- [The Parisian](https://app.thestorygraph.com/books/c5cb28d9-0c57-478d-ac76-3435c1ed7a7b) by Isabella Hammad is not, in fact, about a Parisian but about a young Palestinian man who studies in Paris during WWI and then returns to his hometown of Nablus. It’s quite long, perhaps slightly unnecessarily so, and very meandering. But it is powerful to read about daily life in Palestine before annexation and occupation and the descriptions are beautiful and expansive.
+[The Parisian](https://app.thestorygraph.com/books/c5cb28d9-0c57-478d-ac76-3435c1ed7a7b) by Isabella Hammad is not, in fact, about a Parisian but about a young Palestinian man who studies in Paris during WWI and then returns to his hometown of Nablus. It’s quite long, perhaps slightly unnecessarily so, and very meandering. But it is powerful to read about daily life in Palestine before annexation and occupation and the descriptions are beautiful and expansive.

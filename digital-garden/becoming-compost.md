@@ -11,7 +11,7 @@ tags:
 On Wendesday, I spoke at [Interesting](http://www.reasonablyinteresting.co.uk/), along with a bunch of other great people. Here’s what I said, plus some bonus material I couldn’t fit in at the end. 
 
 <figure>
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/28137070/original_a752c371da285983023c212d8407b5e9.png" alt="Macro photo of mold with light grey text that says becoming compost">
+  <img loading="lazy" src="/images/digital-garden/interesting-becoming-compost.webp" alt="Macro photo of mold with light grey text that says becoming compost">
 </figure>
 
 I love composting. I’m obsessed, in fact. A text message I sent to a friend last June sums it up pretty well. 
@@ -21,7 +21,7 @@ I love composting. I’m obsessed, in fact. A text message I sent to a friend la
 To start from the beginning, about 1.5 years ago I moved into a flat with a terrace. 
 
 <figure>
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/28137208/original_02e395cdf38ea64e98b0729e8433eea9.jpg" alt="Terrace with a large wooden planter box and a small black cat sitting in front of it">
+  <img loading="lazy" src="/images/digital-garden/terrace-and-bertie.webp" alt="Terrace with a large wooden planter box and a small black cat sitting in front of it">
   <figcaption class="small-text">My terrace with Bertie</figcaption>
 </figure>
 
@@ -30,7 +30,7 @@ It’s my first home with outdoor space in a really long time. The council doesn
 A lot of people think compost has to be in a garden. It doesn’t, but for small spaces and balconies, the received wisdom is to have a wormery. Unfortunately, I am scared of worms. I know, it’s very shameful and I’m trying to get over it. This picture is like exposure therapy.
 
 <figure>
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/28137260/original_9ae78261334d82472d6a3bc7a92c72db.png" alt="Compost with lots of worms in it">
+  <img loading="lazy" src="/images/digital-garden/anna-compost.webp" alt="Compost with lots of worms in it">
   <figcaption class="small-text">Photo by Anna Goss</figcaption>
 </figure>
  
@@ -39,21 +39,21 @@ Anyway a box of worms wasn’t gonna happen.
 One day, my pal Anna forwarded me a newsletter by Cass Marketos called [The Rot](https://therot.substack.com/p/how-to-compost-in-small-spaces) about composting in small spaces. Cass referenced this book with instructions for composting in a bag. I dutifully bought the book and required materials.
 
 <figure>
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/28137503/original_3b7b410f4e8947e20012f54e315c04b8.png" alt="Picture of the front cover of the book and a page from the inside with instructions for composting in a bag">
+  <img loading="lazy" src="/images/digital-garden/rodale-book-of-composting.webp" alt="Picture of the front cover of the book and a page from the inside with instructions for composting in a bag">
   <figcaption class="small-text">The Rodale Book of Composting</figcaption>
 </figure>
 
 It says to mix wet waste or your food with alfalfa and some dirt from outside which gives the microorganisms a headstart. I got alfalfa from Pets at Home and added the pellets with a week or so’s worth of food. I don’t know what my neighbors thought of me scooping dirt into a bag outside our estate, but I was excited. 
 
 <figure>
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/28137597/original_d2b6bc0adce88326a04c80a0fdc95c0e.png" alt="Food scraps in a bag with some alfalfa pellets">
+  <img loading="lazy" src="/images/digital-garden/compostbag-1.webp" alt="Food scraps in a bag with some alfalfa pellets">
   <figcaption class="small-text">Day 1</figcaption>
 </figure>
 
 2 weeks in, it was not smelling good. I wasn’t sure what it should look like but I didn’t think that was right. 1 month in, it looked and smelled truly disgusting. Very literally a rotten bag. I can't believe I had this in my kitchen for so long. 
 
 <figure>
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/28137664/original_02dcc029cb0bb8e7c3e3e12d08c5a4a7.png?1715854032?bc=0" alt="2 pictures of rotten food/compost in varying stages of decomposition. The left has some bigger chuncks in it and looks slimy, the right looks like sludge.">
+  <img loading="lazy" src="/images/digital-garden/compostbag-2.webp" alt="2 pictures of rotten food/compost in varying stages of decomposition. The left has some bigger chuncks in it and looks slimy, the right looks like sludge.">
   <figcaption class="small-text">After 2 weeks and 1 month respectively</figcaption>
 </figure>
 
@@ -65,7 +65,7 @@ I was nearly ready to give up but my unhealthy habit of documenting everything o
 </figure>
 
 <figure>
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/28137785/original_3252010f865af6136eee44863ea70480.jpg" alt="Large white bucket with food scraps and cardboard almost to the top">
+  <img loading="lazy" src="/images/digital-garden/compostbucket.webp" alt="Large white bucket with food scraps and cardboard almost to the top">
   <figcaption class="small-text">30l bucket</figcaption>
 </figure>
 
@@ -74,7 +74,7 @@ The bucket system is fantastic. In the summer, the rate of decay was such that i
 Within 2 months, sprouts emerged from the pile which apparently is a sign of healthy compost. I transplanted one into a pot, where it became a riotous plant that gave me one tiny, perfect squash.
 
 <figure>
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/28137867/original_14dcdb01afe9f3729d7da5b66001a91f.png" alt="a picture of 3 small sprouts growing out of compost and one of a big flowering squash plant growing out of a pot">
+  <img loading="lazy" src="/images/digital-garden/sprouting.webp" alt="a picture of 3 small sprouts growing out of compost and one of a big flowering squash plant growing out of a pot">
 </figure>
 
 And it started to smell amazing! Deep, rich and earthy. I spent the summer making any friends who came over smell it. 
@@ -82,7 +82,7 @@ And it started to smell amazing! Deep, rich and earthy. I spent the summer makin
 Over winter, everything started to slow down and my buckets were getting full so I bought some larger rotating tumblers. I actually prefer the buckets because of the intimacy you get with the compost, but the tumblers look nicer and they tripled my capacity.
 
 <figure>
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/28138013/original_b105758e4d16af1bafa530b32fe47f11.jpg" alt="Black hexagonal containers on a metal a-frame with green sliding doors">
+  <img loading="lazy" src="/images/digital-garden/tumblers.webp" alt="Black hexagonal containers on a metal a-frame with green sliding doors">
   <figcaption class="small-text">Rotating compost tumbler with 2 chambers</figcaption>
 </figure>
 
@@ -90,7 +90,7 @@ I’ve been composting for about a year and I’m constantly learning new things
 Recently I was away for a few weeks and when I came back it was smelling so amazing, I realised I had been mixing it too much.
 
 <figure>
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/28138053/original_ea27a3d971f8f9da01aae3ed7200d38b.jpg" alt="Small trowel with a heap of compost in it">
+  <img loading="lazy" src="/images/digital-garden/mixing-compost.webp" alt="Small trowel with a heap of compost in it">
 </figure>
 
 I’m definitely not an expert but through trial and error, I found a process that works for me: 
@@ -103,7 +103,7 @@ I’m definitely not an expert but through trial and error, I found a process th
 It’s become such a normal part of my routine, now if I’m at someone else’s house I hate throwing food in the normal bin. 
 
 <figure>
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/28138097/original_4868593249234135e2b85de9cbcd47e8.jpg" alt="Inside view of two section of the compost tumbler, one has mostly brown compost and the other has food bits and orange peels">
+  <img loading="lazy" src="/images/digital-garden/dual-chambers.webp" alt="Inside view of two section of the compost tumbler, one has mostly brown compost and the other has food bits and orange peels">
   <figcaption class="small-text">Varying stages of decomposition</figcaption>
 </figure>
 
@@ -113,7 +113,7 @@ Before I started, I had this idea in my head that it was this really precise and
 If you are into soil science, you can get very nerdy about it. But it can also be intuitive and haphazard. If my experience is anything to go by, you really cannot fuck it up too badly. 
 
 <figure>
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/28138175/original_fcd190f7f8df3f392d97ceed838fd148.jpg" alt="Another compost picture without any recognisable food pieces but not finished soil">
+  <img loading="lazy" src="/images/digital-garden/rottingpile-2.webp" alt="Another compost picture without any recognisable food pieces but not finished soil">
 </figure>
 
 
@@ -129,7 +129,7 @@ And that’s to say nothing of reducing environmental impact of food waste<label
   <span class="sidenote">Globally ~931 million tonnes of food waste was generated in 2019, an estimated 8-10% of greenhouse gas emissions. 61% of food waste is from households [(UNEP report)](https://www.unep.org/resources/report/unep-food-waste-index-report-2021).</span>.
 
 <figure>
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/28138218/original_3443bd878d28f8fdc4c8969d63fd9c08.jpg" alt="Top view of a big planter with 4 small tomato seedlings and some marigolds planted between">
+  <img loading="lazy" src="/images/digital-garden/toms-and-marigolds.webp" alt="Top view of a big planter with 4 small tomato seedlings and some marigolds planted between">
   <figcaption class="small-text">Baby tomatoes and marigolds in last year’s compost</figcaption>
 </figure>
 
@@ -144,7 +144,7 @@ The great compost guru, [Cass Marketos says](https://dark.properties/rotting-as-
 Composting can call into question the values we live by. 
 
 <figure>
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/28138293/original_e4be03fec7078da9b4ad39e27bb5b310.jpg" alt="Holding a handful of half-done compost">
+  <img loading="lazy" src="/images/digital-garden/holding-compost.webp" alt="Holding a handful of half-done compost">
 </figure>
 
 It doesn't just turn waste into soil. It can also do something to us. What we do has material impact on who we are, on the values we hold, which in turn impacts what we do. It's a feedback loop.
@@ -160,7 +160,7 @@ In other words, we cannot think our way into having different values. They come 
 Composting can be such an experiment. We may not be able to think our way into another mode of living. But perhaps, through composting, we might live our way into another mode of thinking. 
 
 <figure>
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/28138326/original_30b3a591410d7d3a5ba562c1ad93d5ee.jpg" alt="A small green squash next to a yellow cherry tomato">
+  <img loading="lazy" src="/images/digital-garden/tiny-squash.webp" alt="A small green squash next to a yellow cherry tomato">
 </figure>
 
 ## Other compost-related things you might like:
@@ -190,7 +190,7 @@ Another clever pal Ella wrote a stunning poem called [The Worm](https://brass-da
 > Wriggling is wrong. It does not wriggle. It undulates. 
 
 <figure>
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/28171239/original_01326be5fefa1e1af97a45dffd0f3ae3.jpg" alt="Abstract macro photo of rotting food and growing mould">
+  <img loading="lazy" src="/images/digital-garden/macro-mold-1.webp" alt="Abstract macro photo of rotting food and growing mould">
 </figure>
 
 While I was writing this talk, I searched ‘compost’ in my phone and found a screenshot I took of an article from before I started composting.
@@ -207,7 +207,7 @@ May we see a free Palestine within our lifetime.
 
 
 <figure>
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/28171283/original_b7168302836c4ce00ef499c4c6aa9f6d.jpg" alt="Abstract macro photo of green mould on orange organic material">
+  <img loading="lazy" src="/images/digital-garden/macro-mold-2.webp" alt="Abstract macro photo of green mould on orange organic material">
 </figure>
 
 Thanks to [Rod](https://holdfastprojects.com/), [Eliot](http://eliotfineberg.co.uk/) and Katherine for feedback on early versions of the talk, they made me better. Thanks to Marina for the title and [Anna](http://annagoss.co/) for always exchanging compost updates.

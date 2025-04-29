@@ -42,7 +42,7 @@ There was a slight fluctuation of members throughout, but the core group – Amy
 Everyone brought such thoughtfulness, feeling and depth to the discussion. To share this magical space, even during a global pandemic, was a gift. 
 
 <figure>
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/23919960/original_d0a3a3c909e964878dd77ffc73c3cbde.jpg?1696162296?bc=0" alt="A photo of a computer with a zoom call with Eliot, Amy who is taking the picture, Jon wearing a cap, Lucy, me, Angus, and Becky. Behind the computer is a tree in a pot with fairy lights on it.">
+  <img loading="lazy" src="/images/digital-garden/book-club.webp" alt="A photo of a computer with a zoom call with Eliot, Amy who is taking the picture, Jon wearing a cap, Lucy, me, Angus, and Becky. Behind the computer is a tree in a pot with fairy lights on it.">
   <figcaption class="small-text">Book club via Zoom, April 2020. Image by Amy.</figcaption>
 </figure>
 
@@ -61,7 +61,7 @@ So far we’ve read…
 We take turns meeting, usually monthly, at different people’s homes. It’s lovely and intimate.
 
 <figure>
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/23919961/original_67494b12ca91842c77607daf03dcdc53.jpg?1696162301?bc=0" alt="A picture of a kitchen counter covered in party detritus: dirty dishes, 2 empty wine bottles, lager tins, a bottle of Roku gin, a plate with a sliver of cake on it, and a big empty tin of Perello olives">
+  <img loading="lazy" src="/images/digital-garden/reading-group.webp" alt="A picture of a kitchen counter covered in party detritus: dirty dishes, 2 empty wine bottles, lager tins, a bottle of Roku gin, a plate with a sliver of cake on it, and a big empty tin of Perello olives">
   <figcaption class="small-text">Aftermath of the last reading group at my flat, September 2023</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ I have the words ‘study forever’ tattooed on my body for a reason.
 I’m also reminded of the title of a painting by [Egon Schiele](https://commons.wikimedia.org/wiki/File:Egon_Schiele_-_I_Will_Gladly_Endure_for_Art_and_My_Loved_Ones,_1912_-_Google_Art_Project.jpg): 
 
 <figure>
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/23920013/original_2fd8c62abbd072c649e26895d2bcff06.png?1696163134?bc=0" alt="A photo of text ’For Art and For My Loved Ones I Will Gladly Endure to the End!">
+  <img loading="lazy" src="/images/digital-garden/van-gogh.webp" alt="A photo of text ’For Art and For My Loved Ones I Will Gladly Endure to the End!">
   <figcaption class="small-text">Photo of an exhibit label from an 2018 RA exhibition on Klimt and Schiele</figcaption>
 </figure>
 

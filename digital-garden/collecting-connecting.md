@@ -23,7 +23,7 @@ What do ‘Cosmoecology’, ‘acrocybernetics’, ‘six of cups’ and ‘Stra
 I was a Tumblr baby, and Arena scratches the same itch.
 
 <figure>
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/30858207/original_5e4d89c7741158110fc786879168e873.png?1727011216?bc=0" alt="Screenshot of my cosmoecology channel on Arena">
+  <img loading="lazy" src="/images/digital-garden/arena-screenshot.webp" alt="Screenshot of my cosmoecology channel on Arena">
   <figcaption class="small-text">Connections in cosmoecology</figcaption>
 </figure>
 
@@ -38,7 +38,7 @@ Back in Tumblr days, I used to take photos of passages in books that struck me a
 I’m still developing this practice and I forget about it for weeks at a time. The old saying that it takes 6 weeks to make a habit; I think it takes me about a year. 
 
 <figure>
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/30858453/original_a8f8b05686f9458d063e78bdd4033097.jpg?1727012750?bc=0" alt="Screenshot of Montaigne post">
+  <img loading="lazy" src="/images/digital-garden/montaigne.webp" alt="Screenshot of Montaigne post">
   <figcaption class="small-text">My favourite quote from Montaigne the essayist on Montaigne the website</figcaption>
 </figure>
 
@@ -58,6 +58,6 @@ Russell Davis introduces his book, Do Interesting, with a simple premise.
 In the following chapters, he suggests a range of ways to do those things. Arena and Montaigne are two of mine, and I can confirm that Russell is correct. It makes the world more interesting .
 
 <figure>
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/9533160/original_4ead8d3c6384b975646f7976a61ddfa7.jpg?1605577075?bc=0" alt="Pink and green gradient circle. Across the top it says: Create for each other, across the bottom it says: Invest in each other, with arrows pointing to each other in the circle.">
+  <img loading="lazy" src="/images/digital-garden/invest-create.webp" alt="Pink and green gradient circle. Across the top it says: Create for each other, across the bottom it says: Invest in each other, with arrows pointing to each other in the circle.">
   <figcaption class="small-text">Picture from Stefy Loret, found on Arena.</figcaption>
 </figure>

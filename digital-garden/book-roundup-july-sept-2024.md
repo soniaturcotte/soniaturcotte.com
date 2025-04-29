@@ -53,7 +53,7 @@ Goldberg’s suggestions just worked for me and for the first time in my life, I
   <figcaption class="small-text">Common European Oak, The New York Public Library Digital Collections</figcaption>
 </figure>
 
-### **Parable of the Sower by Octavia E. Butler**
+### Parable of the Sower by Octavia E. Butler
 
 Re-read in honour of the book’s narrative beginning, 20 July 2024. And because it’s been 4 years since I read it the first time, I wanted the story fresh before starting the 2nd book. 
 
