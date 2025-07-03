@@ -38,3 +38,7 @@ Now, when I don’t have a particular artist in mind, I put on the radio. It is 
 It’s been about a month since I stopped using Spotify and I can only recommend! I’m listening better, more varied music and I get that nice smug feeling that comes from not using a shitty ubiquitous platform. 
 
 I also have a get-out-of-jail-free card when Oasis comes on in the office. It’s the radio, innit.
+
+--- 
+
+<p class="small-text">Update 19 June 2025: After a few months of Tidal, there were just too many bugs and issues so I gave in and went to Apple Music. Still better than Spotify, I guess.</p> 

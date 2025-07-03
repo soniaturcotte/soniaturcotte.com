@@ -16,6 +16,11 @@ body {
   text-wrap: pretty;
 }
 
+hr {
+  margin: 3rem 0 2rem 0;
+  width: 20%;
+}
+
 .container {
   padding: 4vw;
   max-width: 1600px;
