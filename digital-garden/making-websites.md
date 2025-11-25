@@ -1,7 +1,7 @@
 ---
 title: Making websites
 description: Working with lots of different platforms 
-date: 2024-11-26
+date: 2025-11-26
 tags:
   - case study
   - technology

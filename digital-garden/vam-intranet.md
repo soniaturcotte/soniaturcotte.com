@@ -1,7 +1,7 @@
 ---
 title: Service design masquerading as a sharepoint site
 description: New intranet for the V&A
-date: 2024-11-26
+date: 2025-11-25
 tags:
   - case study
   - technology
@@ -11,7 +11,7 @@ Working with [FF Studio](https://www.ff.studio/) is always a delight and when th
 
 We joined to help the V&A redevelop their intranet for its new era. Previously focusing on V&A Kensington with content mostly organised by team structure, the old intranet was no longer working for a growing organisation with multiple locaitons and [more opening soon](https://www.vam.ac.uk/east). 
 
-Microsoft was already widely used across the organisation and after some technical investiations, it was decided that Sharepoint would be the best platform.
+Microsoft was already widely used across the organisation and after some technical investigations, we decided that Sharepoint would be the best platform.
 
 The first task was, as always, research. We ran card sorting sessions with a lot of the most-visited content plus a sprinkle of obscure tasks to help us develop a new content structure for the site.
 
@@ -27,7 +27,7 @@ Then there was a lot of template work. When I come to a new platform, I usually 
   <figcaption class="small-text">Top-level landing page showing a range of service-led content</figcaption>
 </figure>
 
-We were also implementing the new V&A Employee Brand. It hadn't really been used yet, so there were things to work out, but it was great to work with a lovely brand. I always want to make beautiful things. 
+We were also implementing the new V&A Employee Brand. It hadn't really been used on web yet, so there were things to work out, but it was great to work with a lovely brand. I always want to make beautiful things.
 
 A few rounds of research, iteration and Sharepoint wrangling later, we had a pretty good structure and suite of templates to accommodate service content, news, blog posts, events, directories and more.
 
