@@ -5,6 +5,7 @@ date: 2024-07-05
 tags:
   - book review 
   - reading
+  - animals
 ---
 
 It’s been a quiet couple of months on the book front because I’ve been reading a lot of papers while I think about phd proposals (!!). Here’s what stood out. 
