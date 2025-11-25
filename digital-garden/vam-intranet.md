@@ -13,21 +13,21 @@ We joined to help the V&A redevelop their intranet for its new era. Previously f
 
 Microsoft was already widely used across the organisation and after some technical investigations, we decided that Sharepoint would be the best platform.
 
-The first task was, as always, research. We ran card sorting sessions with a lot of the most-visited content plus a sprinkle of obscure tasks to help us develop a new content structure for the site.
+The first task was, as always, research. We ran card sorting sessions with a lot of the most-visited content plus a sprinkle of obscure tasks to help us develop a new content structure.
 
 <figure>
   <img loading="lazy" src="/images/va.webp" alt="Screenshot of digital whiteboard showing large information architecture tree">
   <figcaption class="small-text">Digital whiteboard with large information architecture tree</figcaption>
 </figure>
 
-Then there was a lot of template work. When I come to a new platform, I usually make a draft page and put every single available component on it. I'm looking to see how each component works and what it looks like, and how they fit together. 
+Then we started developing the templates. When I come to a new platform, I usually make a draft page and put every available component on it. I’m looking to see how each component works and what it looks like, and how they all fit together. 
 
 <figure>
   <img loading="lazy" src="/images/digital-garden/vam-service-pg.webp" alt="Service page on sharepoint. First heading says How do i? and there are sections underneath for using the brand, organising events, budgets, tech and IT, etc.">
   <figcaption class="small-text">Top-level landing page showing a range of service-led content</figcaption>
 </figure>
 
-We were also implementing the new V&A Employee Brand. It hadn't really been used on web yet, so there were things to work out, but it was great to work with a lovely brand. I always want to make beautiful things.
+We were also implementing the new V&A Employee Brand. It hadn’t really been used on web yet, so there were things to work out, but it was great to work with lovely visuals. I always want to make beautiful things.
 
 A few rounds of research, iteration and Sharepoint wrangling later, we had a pretty good structure and suite of templates to accommodate service content, news, blog posts, events, directories and more.
 
