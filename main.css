@@ -261,6 +261,10 @@ ol li {
     padding-left: 1.75rem;
 }
 
+.post-content ul li {
+  padding-bottom: .3rem;
+}
+
 .post-content ol {
   list-style-type: decimal;
   padding-left: 1.75rem;
