@@ -39,5 +39,5 @@ We left the project before it went live, which is always a bit of a nail-biter. 
 
 > All in all a nice bit of service design and reform masquerading as a Sharepoint site
 
-All in all, it was a great project. The vibes were also top tier. Lizzie and the V&A team were wonderful and FF Studio is always the best. Both have high standards and lots of ideas, and it really pushes you to do your best. Good work with good people, the best. 
+All in all, it was a great project. The vibes were top tier. [Lizzie](https://www.linkedin.com/in/lizzie-hines-13b840b7/) and the V&A team were wonderful and FF Studio is always the best. Both have high standards and lots of ideas, and it really pushes you to do your best. Good work with good people, the best. 
 
