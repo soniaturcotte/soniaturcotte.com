@@ -34,4 +34,4 @@ Everyone in the world has used Squarespace (probably). I’ve done my share over
 
 My favourite kind of website is the hand-coded one, like this one you are reading on. It’s [carbon friendly](/carbon-aware-web/). It feels like old-school internet. It is, to me, an antidote to the bloated, AI-everywhere internet all around us<label for="sn-handcoded" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-handcoded" class="margin-toggle"/><span class="sidenote">I’m working on another one at the moment and will share when it’s live.</span>.
 
-I love making websites for the weird wild web. It’s so fun. Maybe you want a website? [Let’s chat](mailto:soniaturcotte@proton.me). 
+I love making little spaces on the weird wild web. It’s so fun. Maybe you want a website? [Let’s chat](mailto:soniaturcotte@proton.me). 
