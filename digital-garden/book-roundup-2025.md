@@ -19,7 +19,7 @@ Nevertheless, I did also read some truly outstanding books this year. I’ve whi
   <input type="checkbox" id="sn-foucault" class="margin-toggle"/>
   <span class="sidenote">But who knew Foucault was such an enjoyable read? News to me tbh.</span>
 
-As always, you can see the full list on [The Storygraph](https://app.thestorygraph.com/books-read/soniaturcotte?year=2025). Ok, let's get into the favs. 
+As always, you can see the full list on [The Storygraph](https://app.thestorygraph.com/books-read/soniaturcotte?year=2025). Ok, let's get into it. 
 
 ## The novels 
 
