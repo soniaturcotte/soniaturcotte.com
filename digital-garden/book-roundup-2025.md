@@ -13,7 +13,7 @@ I’ve finished the year on 82 books: 62 read, 20 audio.
 
 This was the year of fantasy<label for="sn-fantasy" class="margin-toggle sidenote-number"></label>
   <input type="checkbox" id="sn-fantasy" class="margin-toggle"/>
-  <span class="sidenote">I never said anything about quality hahahaha</span>. I read classic, pure fantasy (Wheel of Time, Farseer Trilogy), some of those popular “Romantasy” books (ACOTAR, Fourth Wing) and a whole bunch of other shit. I don’t really recommend any of them, except maybe WoT which is genuinely good. Reading this kind of book is the equivalent of binge-watching The Witcher or Emily in Paris: entertaining to varying degrees, often cringe, utterly forgettable, and leaves you completely unchanged save perhaps a mild headache.
+  <span class="sidenote">I never said anything about quality hahahaha</span>. I read classic, pure fantasy (Wheel of Time, Farseer Trilogy), some of those popular “Romantasy” books (ACOTAR, Fourth Wing) and a whole bunch of other shit. I don’t really recommend any of them, except maybe WoT which is genuinely good. Reading this kind of book is the equivalent of binge-watching trash TV: entertaining to varying degrees, often cringe, utterly forgettable, and leaves you completely unchanged save perhaps a mild headache.
 
 Nevertheless, I did also read some truly outstanding books this year. I’ve whittled it down to only my top top favourites, some of which have taken their spot as favs of all time. I’ve left out the academic books, since that’s quite a personal thing.<label for="sn-foucault" class="margin-toggle sidenote-number"></label>
   <input type="checkbox" id="sn-foucault" class="margin-toggle"/>
