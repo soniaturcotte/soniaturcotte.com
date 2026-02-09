@@ -10,7 +10,7 @@ tags:
 
 The most memorable books from the last few months. You can read the [previous round-up](/digital-garden/book-roundup-jan-may-2023) or see the [full list](https://app.thestorygraph.com/books-read/soniaturcotte?year=2023) of what I’ve read this year. 
 
-This time, I’m including some of my academic research. I’ve just finished my dissertation on farmed animal sanctuarie. When a friend read a draft, they questioned whether the conditions on sanctuaries are indeed better than farms. That question had me shook! 
+This time, I’m including some of my academic research. I’ve just finished my dissertation on farmed animal sanctuaries. When a friend read a draft, they questioned whether the conditions on sanctuaries are indeed better than farms. That question had me shook! 
 
 I often forget that farming practices aren’t common knowledge, which is ironic given I actually wrote a section on the invisibility and distance of animal agriculture.
 

@@ -22,7 +22,7 @@ The seemingly endless violence coming from accounts on the ground in Gaza couple
 ### The Hundred Years' War on Palestine by Rashid Khalidi 
 There’s a reason everyone has been sharing and recommending this book. It is incredibly comprehensive but doesn’t read as a dry text. Throughout the whole first part, all I could think was how much Britain has to blame for this mess. We really are heirs to the worst of people. If you want to better understand the context of what’s going on now, or if you've ever been told to ‘get educated’ in attempts to silence you from speaking up for Palestine, read this.
 
-### Israeli Apartheid: A Beginners Guide by Ben White 
+### Israeli Apartheid: A Beginner's Guide by Ben White 
 Good for understanding the similarities and differences between South Africa and Israel/Palestine. Introduction and Part 1 are better than the rest, imo. I haven’t stopped thinking about this
 
 > While in apartheid South Africa, the settlers ‘exploited’ the ‘labour power’ of the dispossessed natives, in the case of Israel, ‘the native population was to be eliminated; exterminated or expelled rather than exploited’. … Israel needs the land, but without the people.
@@ -46,9 +46,9 @@ A collection of essays and speeches linking revolutionary movements in the US to
 
 ### The Black Jacobins by C. L. R. James
 
-This was fantastic! I picked it up randomly shelf-browsing on [Libby](https://libbyapp.com/interview/welcome#doYouHaveACard) (free audiobooks). An unusual choice for me, despite my voracious reading appitite, I don’t often pick up historical texts. 
+This was fantastic! I picked it up randomly shelf-browsing on [Libby](https://libbyapp.com/interview/welcome#doYouHaveACard) (free audiobooks). An unusual choice for me, despite my voracious reading appetite, I don’t often pick up historical texts. 
 
-It’s the story of the Haitian revolution. Inspiring and unexpectedly funny. Nothing better than the downfall of colonialism. It was assounding to me how long the revolution took! There were decades of meandering false starts, setbacks and unknowing on the path to freedom. A reminder to remain resilient and resolute.
+It’s the story of the Haitian revolution. Inspiring and unexpectedly funny. Nothing better than the downfall of colonialism. It was astounding to me how long the revolution took! There were decades of meandering false starts, setbacks and unknowing on the path to freedom. A reminder to remain resilient and resolute.
 
 ### Azadi by Arundhati Roy
 

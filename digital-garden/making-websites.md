@@ -8,7 +8,7 @@ tags:
   - web design 
 ---
 
-I recently wrote about some work with [FF Studio at the V&A](/digital-garden/vam-intranet), which had me thinking about other no/low-code websites I’ve made in the last few years. I’ve worked with almost every platform you’ve heard of, and some you probably haven’t<label for="sn-platform" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-platform" class="margin-toggle"/><span class="sidenote">NHS Futures anyone?</span>.
+I recently wrote about some work with [FF Studio at the V&A](/digital-garden/vam-intranet/), which had me thinking about other no/low-code websites I’ve made in the last few years. I’ve worked with almost every platform you’ve heard of, and some you probably haven’t<label for="sn-platform" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-platform" class="margin-toggle"/><span class="sidenote">NHS Futures anyone?</span>.
 
 ## Webflow for ICCT 
 

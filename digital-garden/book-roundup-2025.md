@@ -39,7 +39,7 @@ Writers memoirs are my jam. Three you might like, plus a bonus animal story / me
 This one somewhat shows its age, but it is very moving. Troubled youth, strict religious parents, growing up gay, and trying to find one’s way in the world through it all. Relatable queen. 
 
 ### Wish I Was Here: An Anti-Memoir by M. John Harrison 
-I have no idea what this book is about but in every other paragraph is like… tattoo-worthy sentences. Harrison’s mind is upside-down in the best possible way, and I cannot wait for his forthocming book. 
+I have no idea what this book is about but in every other paragraph is like… tattoo-worthy sentences. Harrison’s mind is upside-down in the best possible way, and I cannot wait for his forthcoming book. 
 
 ### Me & Other Writing by Marguerite Duras 
 Truly nothing more French than this. Laugh out loud in its outrageousness. Completely devastating. 

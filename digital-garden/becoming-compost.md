@@ -8,7 +8,7 @@ tags:
 ---
 
 
-On Wendesday, I spoke at [Interesting](http://www.reasonablyinteresting.co.uk/), along with a bunch of other great people. Here’s what I said, plus some bonus material I couldn’t fit in at the end. 
+On Wednesday, I spoke at [Interesting](http://www.reasonablyinteresting.co.uk/), along with a bunch of other great people. Here’s what I said, plus some bonus material I couldn’t fit in at the end. 
 
 <figure>
   <img loading="lazy" src="/images/digital-garden/interesting-becoming-compost.webp" alt="Macro photo of mold with light grey text that says becoming compost">
@@ -53,11 +53,11 @@ It says to mix wet waste or your food with alfalfa and some dirt from outside wh
 2 weeks in, it was not smelling good. I wasn’t sure what it should look like but I didn’t think that was right. 1 month in, it looked and smelled truly disgusting. Very literally a rotten bag. I can't believe I had this in my kitchen for so long. 
 
 <figure>
-  <img loading="lazy" src="/images/digital-garden/compostbag-2.webp" alt="2 pictures of rotten food/compost in varying stages of decomposition. The left has some bigger chuncks in it and looks slimy, the right looks like sludge.">
+  <img loading="lazy" src="/images/digital-garden/compostbag-2.webp" alt="2 pictures of rotten food/compost in varying stages of decomposition. The left has some bigger chunks in it and looks slimy, the right looks like sludge.">
   <figcaption class="small-text">After 2 weeks and 1 month respectively</figcaption>
 </figure>
 
-I was nearly ready to give up but my unhealthy habit of documenting everything on Instagram paid off and someone told me to mix this sludge with cardboard and it would recover. So I did. And it did. I ordered some 30L buckets online but was impatient so started in a mop bucket.  
+I was nearly ready to give up, but my unhealthy habit of documenting everything on Instagram paid off and someone told me to mix this sludge with cardboard and it would recover. So I did. And it did. I ordered some 30L buckets online but was impatient so started in a mop bucket.  
 
 <figure>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/28137742/original_c0d2a4b1dbe14be0f0e03b52a65f7f14.gif" alt="Gif layering sludge with shredded cardboard into a mop bucket">
@@ -86,8 +86,7 @@ Over winter, everything started to slow down and my buckets were getting full so
   <figcaption class="small-text">Rotating compost tumbler with 2 chambers</figcaption>
 </figure>
 
-I’ve been composting for about a year and I’m constantly learning new things. Not least is patience. I want to mix it all the time and I want it to happen quickly. Compost does not happen quickly, it takes months or even years. 
-Recently I was away for a few weeks and when I came back it was smelling so amazing, I realised I had been mixing it too much.
+I’ve been composting for about a year and I’m constantly learning new things. Not least is patience. I want to mix it all the time and I want it to happen quickly. Compost does not happen quickly, it takes months or even years. Recently I was away for a few weeks and when I came back it was smelling so amazing, I realised I had been mixing it too much.
 
 <figure>
   <img loading="lazy" src="/images/digital-garden/mixing-compost.webp" alt="Small trowel with a heap of compost in it">
@@ -100,7 +99,7 @@ I’m definitely not an expert but through trial and error, I found a process th
 - I still hand mix the tumblers, because regularly communing with it gives me a sense of what it needs.
 - I have one bin curing, letting it alone to finish decomposition, and one bin where I’m adding new food waste.
 
-It’s become such a normal part of my routine, now if I’m at someone else’s house I hate throwing food in the normal bin. 
+It’s become such a normal part of my routine, now when I’m at someone else’s house, I hate throwing food in the normal bin. 
 
 <figure>
   <img loading="lazy" src="/images/digital-garden/dual-chambers.webp" alt="Inside view of two section of the compost tumbler, one has mostly brown compost and the other has food bits and orange peels">
@@ -126,7 +125,7 @@ So, if you don’t compost and have been thinking about it, take this as a nudge
 
 And that’s to say nothing of reducing environmental impact of food waste<label for="sn-food-waste" class="margin-toggle sidenote-number"></label>
   <input type="checkbox" id="sn-food-waste" class="margin-toggle"/>
-  <span class="sidenote">Globally ~931 million tonnes of food waste was generated in 2019, an estimated 8-10% of greenhouse gas emissions. 61% of food waste is from households [(UNEP report)](https://www.unep.org/resources/report/unep-food-waste-index-report-2021).</span>.
+  <span class="sidenote">Globally ~931 million tonnes of food waste were generated in 2019, an estimated 8-10% of greenhouse gas emissions. 61% of food waste is from households [(UNEP report)](https://www.unep.org/resources/report/unep-food-waste-index-report-2021).</span>.
 
 <figure>
   <img loading="lazy" src="/images/digital-garden/toms-and-marigolds.webp" alt="Top view of a big planter with 4 small tomato seedlings and some marigolds planted between">
@@ -171,7 +170,7 @@ After I spoke, someone told me about their pal who is doing a phd in soil scienc
 
 Go touch some dirt, my friends. 
 
-While your hands are dirty, the first thing to do is subscribe to [The Rot](https://therot.substack.com/) and/or [follow Cass on Instagram](https://www.instagram.com/p/C27jIGPODkF/). They have instuctions for all kinds of composting.
+While your hands are dirty, the first thing to do is subscribe to [The Rot](https://therot.substack.com/) and/or [follow Cass on Instagram](https://www.instagram.com/p/C27jIGPODkF/). They have instructions for all kinds of composting.
 
 [Soil is Sexy](https://soilissexy.substack.com/) is another good newsletter, though generally more technical. 
 

@@ -7,7 +7,7 @@ tags:
   - technology
 ---
 
-Working with [FF Studio](https://www.ff.studio/) is always a delight and when they asked me to join a project at the V&A, there could be no answer but 100% yes. 
+Working with [FF Studio](https://www.ff.studio/) is always a delight and when they asked me to join a project at the V&A, the answer could only be 100% yes. 
 
 We joined to help the V&A redevelop their intranet for its new era. Previously focusing on V&A Kensington with content mostly organised by team structure, the old intranet was no longer working for a growing organisation with multiple locations and [more opening soon](https://www.vam.ac.uk/east). 
 

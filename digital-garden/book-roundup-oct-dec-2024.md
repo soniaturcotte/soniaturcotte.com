@@ -9,7 +9,7 @@ tags:
 
 Final book round-up for the year!  
 
-I've been experimenting with format this year, from [longer-form narrative](/digital-garden/book-roundup-jan-march-2024/) write ups, [author deepdives](/digital-garden/book-roundup-april-june-2024/) and my classic [‘feeling’ lists](/digital-garden/book-roundup-july-sept-2024/).
+I've been experimenting with format this year, from [longer-form narrative](/digital-garden/book-roundup-jan-march-2024/) write-ups, [author deepdives](/digital-garden/book-roundup-april-june-2024/) and my classic [‘feeling’ lists](/digital-garden/book-roundup-july-sept-2024/).
 
 I’ve been debating whether to continue writing these. Does anyone read them? Because I can just write it in my journal, right? Anyway, if YOU are a person who reads them, lmk for next year. 
 
@@ -19,7 +19,7 @@ Anyway, let’s get into it.
 
 - 63 books
 - 23 non-fiction, 39 fiction
-- 26 bookbooks and 37 audiobooks
+- 26 book books and 37 audiobooks
 
 As always, full list on [The Storygraph](https://app.thestorygraph.com/books-read/soniaturcotte?year=2024). 
 
@@ -49,13 +49,13 @@ London floods. Detail of the visceral and broadbrush strokes of wider context an
 
 Incredibly hard work but rewarding and generative. It was a reading group book and we discussed it over 2 sessions for several hours each. Not for the weak of will. 
 
-### We are all completely besides ourselves
+### We Are All Completely Beside Ourselves by Karen Joy Fowler
 
-Excellent narrative voice, first person work doesn’t always work but this does! Reads lightly but is an incredible story. And the themes! The plot twist a quarter of the way through had me shook! And I cried at the end. 
+Excellent narrative voice, first-person narration doesn’t always work for me, but this does! Reads lightly but is an incredible story. And the themes! The plot twist a quarter of the way through had me shook! And I cried at the end. 
 
 ### Authority by Jeff VanderMeer (Southern Reach #2) 
 
-After finishing Annihilation, I remember feeling an overwhelming urgency to read the next part. That was 2 years ago and I since forgot how it ended, so it took me most of the book to re-figure it out. Story and narrative have almost movie like quality and the descriptions of place and nature are both visceral and stunning. 
+After finishing Annihilation, I remember feeling an overwhelming urgency to read the next part. That was 2 years ago and I had since forgotten how it ended, so it took me most of the book to re-figure it out. Story and narrative have almost movie-like quality and the descriptions of place and nature are both visceral and stunning. 
 
 ### Parable of the Talents (Earthseed #2) by Octavia E. Butler
 
@@ -63,7 +63,7 @@ Tense! Conflicting! Book 1 sets you up to identify with Olamina but book 2 is na
 
 ### Always Coming Home by Ursula K. Le Guin
 
-My first Le Guin book that I didn’t really like. I do believe you have to meet some books at the right time, and I was not ready for that one. 
+My first Le Guin book that I didn’t really like. I do believe you have to meet some books at the right time, and I was not ready for this one. 
 
 ### The Castle of Crossed Destinies by Italo Calvino
 

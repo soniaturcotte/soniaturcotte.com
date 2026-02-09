@@ -7,7 +7,7 @@ tags:
   - reading
 ---
 
-A short list of the most memorable books of the year so far, excluding academic texts. If you are interested in apocolyptic thought or animal studies, give me a shout and I’ll share some recs. You can see the full list of what I’ve read this year on [The Storygraph](https://app.thestorygraph.com/books-read/soniaturcotte?year=2023).
+A short list of the most memorable books of the year so far, excluding academic texts. If you are interested in apocalyptic thought or animal studies, give me a shout and I’ll share some recs. You can see the full list of what I’ve read this year on [The Storygraph](https://app.thestorygraph.com/books-read/soniaturcotte?year=2023).
 
 
 ### [Wayward Lives, Beautiful Experiments](https://app.thestorygraph.com/books/ec237398-e980-4326-96e5-72419947dfe9) by Saidiya Hartman

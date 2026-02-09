@@ -16,11 +16,11 @@ As always, you can see the full list of what I’ve read this year on [The Story
 
 It’s Ursula K. Le Guin season. I started with a re-read of [The Left Hand of Darkness](https://www.ursulakleguin.com/left-hand-darkness). I remembered (spoilers) that Genly and Estraven have sex, but in fact, they do not. 
 
-After that, I read a collection of all her novellas, [The Found and the Lost](https://www.ursulakleguin.com/the-found-and-the-lost). Many stories are part of the Hanish Cycle, a few in Earthsea and a bunch of independent stories. I really enjoyed this collection; I often get annoyed with the abruptness of short stories but as novellas, they are long enough to be satisfying.  
+After that, I read a collection of all her novellas, [The Found and the Lost](https://www.ursulakleguin.com/the-found-and-the-lost). Many stories are part of the Hainish Cycle, a few in Earthsea and a bunch of independent stories. I really enjoyed this collection; I often get annoyed with the abruptness of short stories but as novellas, they are long enough to be satisfying.  
 
 *Buffalo Gals Won’t You Come Out Tonight* is possibly the weirdest Le Guin story I’ve ever read.  
 
-The last story, *Paradises Lost*, is a story set on a generational ship going to a new planet and many of the stories in the Hanish Cycle involve planetary travel. It has me wondering what Le Guin would say now, in the age of Musk and Bezo’s space delusions. 
+The last story, *Paradises Lost*, is a story set on a generational ship going to a new planet and many of the stories in the Hainish Cycle involve planetary travel. It has me wondering what Le Guin would say now, in the age of Musk and Bezos space delusions. 
 
 I’ve been slow-reading Le Guin’s rendition of the [Tao Te Ching](https://www.ursulakleguin.com/lao-tzu-the-tao-te-ching) concurrently and it’s so interesting to see how she weaves the philosophy through her fiction writing. 
 
@@ -50,7 +50,7 @@ Another quote that jumped out at me, from *A Man of the People,*
 
 It’s month 10 of the ongoing and escalating genocide of Palestinians in Gaza and justice often does seem impossible indeed. But cynicism, as [Mariame Kaba](https://bsky.app/profile/prisonculture.bsky.social/post/3kvzk2fz6h72l) says, is counterrevolutionary and one of the things that helps me personally stave off the despair is learning. So I’ve been reading Palestinian stories and histories a lot. 
 
-[Enter Ghost](https://app.thestorygraph.com/books/293521c3-69ce-4504-8302-9d160bc73443) is the second novel by Isabella Hammad. I [wrote about her debut](book-roundup-june-aug-2023/) last year. In terms of writing style, I preferred this to *The Parisian*. It is less sprawling and florid, though the stories are also very different. The Parisian is set in the early 20th century before the first Nabka, whereas Enter Ghost is set in modern-day Haifa and the West Bank. 
+[Enter Ghost](https://app.thestorygraph.com/books/293521c3-69ce-4504-8302-9d160bc73443) is the second novel by Isabella Hammad. I [wrote about her debut](/book-roundup-june-aug-2023/) last year. In terms of writing style, I preferred this to *The Parisian*. It is less sprawling and florid, though the stories are also very different. The Parisian is set in the early 20th century before the first Nabka, whereas Enter Ghost is set in modern-day Haifa and the West Bank. 
 
 It is good, I think, to read stories – even fictional ones – that represent what life is like for Palestinians and this book gave me a much better understanding of how varied their experiences are.  
 

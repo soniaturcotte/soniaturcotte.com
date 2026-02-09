@@ -14,7 +14,7 @@ This post expands on some of the things I really liked about the project.
 
 ## Nothing about them without them
 
-Reducing inequality is core to Sport England’s [10 year strategy](https://www.sportengland.org/about-us/uniting-movement), and we wanted to make sure the pilot fund took tangible steps towards that goal. We designed the assessment criteria and form questions to prioritise equity, including questions about about accessibility, long-term engagement and the community’s needs.
+Reducing inequality is core to Sport England’s [10 year strategy](https://www.sportengland.org/about-us/uniting-movement), and we wanted to make sure the pilot fund took tangible steps towards that goal. We designed the assessment criteria and form questions to prioritise equity, including questions about accessibility, long-term engagement and the community’s needs.
 
 <figure>
   <img loading="lazy" src="/images/digital-garden/questions-2.webp" alt="Form questions asking, Have you considered how to support participants to remain active in the longer term?, Have you considered accessibility?, How do you know what this community needs?">
@@ -26,7 +26,7 @@ The assessment criteria were weighted towards projects from people with lived ex
 
 ## Every issue is a climate issue
 
-One of the principles of designing good forms is to only include questions you actually need answers for<label for="sn-data-hoover" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-data-hoover" class="margin-toggle"/><span class="sidenote">Being data greedy is uncool and uncouth.</span>. We made an exception to that rule for a climate question, which was the only question that didn’t have a ranking.
+One of the principles of designing good forms is to only include questions you actually need answers for<label for="sn-data-hoover" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-data-hoover" class="margin-toggle"/><span class="sidenote">Being data-greedy is uncool and uncouth.</span>. We made an exception to that rule for a climate question, which was the only question that didn’t have a ranking.
 
 <figure>
   <img loading="lazy" src="/images/digital-garden/climate-question.webp" alt="Typeform question: How will you take action on climate change?">
@@ -50,7 +50,7 @@ Out of the 36 orgs that submitted applications, only 4 of them used the audio/vi
 
 By common metrics of uptake or demand, prioritising audio and video submissions doesn’t make sense. But when you are designing for equity, the majority approach just doesn’t cut it. 
 
-This is something [Clara](https://claragreo.com/) and I talk about in our [training course](https://docs.google.com/document/d/1kAlQ9hp3AwUjRV_ov6E2T2Ix28IAzdEH_ENbwW13pUk/). In tech and product development, often the north star metric is quantity: the greatest number of users or the highest volume journeys. It is past time to start rethinking our the way we prioritise work.
+This is something [Clara](https://claragreo.com/) and I talk about in our [training course](https://docs.google.com/document/d/1kAlQ9hp3AwUjRV_ov6E2T2Ix28IAzdEH_ENbwW13pUk/). In tech and product development, often the north star metric is quantity: the greatest number of users or the highest volume journeys. It is past time to start rethinking the way we prioritise work.
 
 ## Teamwork makes the dream work
 
@@ -75,6 +75,6 @@ Rod says [let it rip](https://www.holdfastprojects.com/sport-england).
 
 [Eliot’s stream of consciousness](https://bsky.app/profile/eliotf.bsky.social/post/3l65ncojuen2m), where he calls me a generalist.<label for="sn-generalist" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-generalist" class="margin-toggle"/><span class="sidenote">Jury’s out on this one.</span>
 
-For the very detailed, [our project weeknotes](https://openfundingpilot.ff.studio/open-funding-pilot/).
+For those who want the detail, see [our project weeknotes](https://openfundingpilot.ff.studio/open-funding-pilot/).
 
 

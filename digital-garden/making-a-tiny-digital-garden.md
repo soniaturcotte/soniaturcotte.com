@@ -20,11 +20,11 @@ And since this little garden doesn’t have any tracking, I will never know who,
 
 In [_A Handmade Web_](https://luckysoap.com/talks.html), J. R. Carpenter says
 
-> I evoke the term ‘handmade web’ to suggest slowness and smallness as a forms of resistance.
+> I evoke the term ‘handmade web’ to suggest slowness and smallness as a form of resistance.
 
 Resistance to social media giants, multinational corporations, data-saturated systems and surveillance technologies. 
 
-I don’t know what shape this will take, but it’s a garden for small thoughts, occasional musings, nascent ideas and  slow learning. 
+I don’t know what shape this will take, but it’s a garden for small thoughts, occasional musings, nascent ideas and slow learning. 
 
 <figure>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/4477776/original_9eaf08e3a7589347ad4f3b244d31837d.gif" alt="Gif of 2 tulips slowly opening">
