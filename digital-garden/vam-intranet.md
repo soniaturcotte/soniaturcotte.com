@@ -41,3 +41,7 @@ We left the project before it went live, which is always a bit of a nail-biter. 
 
 All in all, it was a great project. The vibes were top tier. [Lizzie](https://www.linkedin.com/in/lizzie-hines-13b840b7/) and the V&A team were wonderful and FF Studio is always the best. Both have high standards and lots of ideas, and it really pushes you to do your best. Good work with good people, the best. 
 
+## Other places to read about this work 
+
+Lizzie’s excellent [case study](https://medium.com/@lizzie.hines/how-to-create-an-intranet-94a554a8f7b8) of the entire project
+
