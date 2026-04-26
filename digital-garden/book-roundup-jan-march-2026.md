@@ -7,7 +7,7 @@ tags:
   - reading
 ---
 
-I’ve been posting monthly round-ups over on Instagram but Meta does not deserve sole custody and anyway I don’t trust any big platform not to eventually blow up. 
+I’ve been posting monthly round-ups over on [Instagram](https://www.instagram.com/soniaturcotte/) but Meta does not deserve sole custody and anyway I don’t trust any big platform not to eventually blow up. 
 
 So here we go. 
 
