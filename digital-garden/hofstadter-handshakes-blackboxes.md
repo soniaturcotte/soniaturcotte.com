@@ -30,7 +30,7 @@ I was raised by a single father, so I often tagged along to all sorts of errands
 I have clear memories of being squashed in a public phone booth, while he velcro-ed a funny-looking corded telephone handset to the public phone handset. Then came the modem sound<label for="sn-modem" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-modem" class="margin-toggle"/><span class="sidenote"><a href="https://www.windytan.com/2012/11/the-sound-of-dialup-pictured.html">The sound of dial-up</a>.</span>. I now know that he was using an acoustic coupler, and the modem sound is – delightfully – called a handshake.
 
 <figure>
-  <img src="https://archive.computerhistory.org/resources/access/physical-object/2008/07/102696600.01.01.lg.JPG" alt="A grey handset with large black rubber earpieces, with a velcro strap">
+  <img src="/images/digital-garden/telecoupler.JPG">
   <figcaption class="small-text">A portable telecoupler from the <a href="https://www.computerhistory.org/collections/catalog/102696600">Computer History Museum</a></figcaption>
 </figure>
 
