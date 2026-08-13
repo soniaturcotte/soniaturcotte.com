@@ -11,7 +11,7 @@ In the preface to the 20th edition of Gödel, Escher, Bach, Hofstadter talks abo
 
 > By the time I had a solid version of the manuscript ready to send out to publishers, visual design and conceptual structure were intimately bound up with each other.
 
-In a turn of events that seems unbelievable now, his publisher was willing to let him typeset the entire book himself<label for="sn-design-yourself" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-design-yourself" class="margin-toggle"/><span class="sidenote">The podcast, <a href="https://www.windytan.com/2012/11/the-sound-of-dialup-pictured.html">Reading Writers</a>, discusses novelists taking liberties with layout.</span>, using a computer typesetting system from the same maker of TV-Edit.
+In a turn of events that seems unbelievable now, his publisher was willing to let him typeset the entire book himself<label for="sn-design-yourself" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-design-yourself" class="margin-toggle"/><span class="sidenote">The podcast, <a href="https://www.windytan.com/2012/11/the-sound-of-dialup-pictured.html">Reading Writers</a></span>, discusses novelists taking liberties with layout.</span>, using a computer typesetting system from the same maker of TV-Edit.
 
 > I had to insert into each chapter or dialogue literally thousands of cryptic typesetting commands, next chop each computer file into several small pieces – five or six per file, usually – each of which had to be run through a series of two computer programs, and then each of the resulting output files had to be punched out physically as a cryptic pattern of myriad holes on a long, thin roll of paper tape.
 
